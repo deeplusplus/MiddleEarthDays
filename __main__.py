@@ -5,7 +5,7 @@ from calendar import Calendar
 def main():
     calendar = Calendar("calendar.json")
 
-    print(calendar.getTodaysDate())
+    thisHappenedToday = calendar.whatHappenedToday()
 
 
 if __name__ == "__main__":
