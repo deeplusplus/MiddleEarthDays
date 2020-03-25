@@ -1,5 +1,4 @@
 import json
-from datetime import datetime
 
 class Calendar:
     def __init__(self, filename):
@@ -9,10 +8,16 @@ class Calendar:
             self._calendar = calendar
 
 
-    def whatHappenedToday(self):
-        todays_date = datetime.now()
-        
-        todays_month = todays_date.month
-        todays_day = todays_date.day
+    def getCurrentEvents(self, date):
+        events = []
 
-        print(self._calendar['months'][todays_month - 1])
+        query_month = date.month
+        query_day = date.day
+
+        month = self._calendar['months'][query_month - 1]
+
+        for day in month['days']:
+            if day['day'] is query_day:
+                events = day['events']
+
+        return events
