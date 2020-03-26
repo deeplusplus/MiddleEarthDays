@@ -1,7 +1,8 @@
 import json
-from calendar import Calendar
+from me_calendar import Calendar
 from datetime import datetime
 from random import randint
+from twitter_client import getTwitterClient
 
 def main():
     calendar = Calendar("calendar.json")
@@ -11,7 +12,11 @@ def main():
     if len(todaysEvents) is 0:
         print('No events today')
     else:
-        one_event = todaysEvents[randint(0, len(todaysEvents) - 1)])
+        twitter_client = getTwitterClient()
+
+        one_event = todaysEvents[randint(0, len(todaysEvents) - 1)]
+
+        twitter_client.PostUpdate(one_event)
 
 
 if __name__ == "__main__":
