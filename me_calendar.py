@@ -1,4 +1,5 @@
 import json
+from random import randint
 
 class Calendar:
     def __init__(self, filename):
@@ -21,3 +22,11 @@ class Calendar:
                 events = day['events']
 
         return events
+
+    def getRandomEventOnDate(self, date):
+        todaysEvents = self.getCurrentEvents(date)
+
+        if len(todaysEvents) is not 0:
+            return todaysEvents[randint(0, len(todaysEvents) - 1)]
+        else:
+            return ''
