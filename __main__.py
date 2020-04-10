@@ -10,9 +10,9 @@ calendar = Calendar("calendar.json")
 def main():
     twitter_client = getTwitterClient()
 
-    if(sys.argv[1] == -1)
+    if sys.argv[1] is -1:
         handleDailyTweet(twitter_client)
-    else
+    else:
         handleNewQueries(twitter_client)
 
 
