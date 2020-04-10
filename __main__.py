@@ -11,9 +11,13 @@ def main():
     twitter_client = getTwitterClient()
 
     if sys.argv[1] is -1:
+        print("About to handle the daily tweet.")
         handleDailyTweet(twitter_client)
+        print("Successfully handled the daily tweet.")
     else:
+        print("About to handle new user queries.")
         handleNewQueries(twitter_client)
+        print("Successfully handled new user queries.")
 
 
 def handleNewQueries(client):
