@@ -1,7 +1,12 @@
 import json
 from random import randint
 
+
+
 class Calendar:
+
+    CONST_DEFAULT_RESPONSE = 'Nothing happened, my precious.'
+
     def __init__(self, filename):
         self._calendar = {}
         with open('calendar.json') as json_calendar:
@@ -29,4 +34,4 @@ class Calendar:
         if len(todaysEvents) is not 0:
             return todaysEvents[randint(0, len(todaysEvents) - 1)]
         else:
-            return ''
+            return self.CONST_DEFAULT_RESPONSE

@@ -17,7 +17,11 @@ def main():
 
 def handleNewQueries(client):
     new_mentions = client.GetMentions(count=20, return_json=True)
-    timing_interval = int(sys.argv[1])
+    timing_interval = 300
+
+    if len(sys.argv) > 1:
+        timing_interval = int(sys.argv[1])
+    
 
     for mention in new_mentions:
         time_since_tweet =  datetime.now(timezone.utc) - parse(mention['created_at'])
@@ -26,7 +30,7 @@ def handleNewQueries(client):
             parsed_tweet_text = ''
             
             unparsed_tweet_text = mention['text']
-            sender = mention['user']['screen_name']
+            tweet_id = mention['id']
 
             tweet_as_list = unparsed_tweet_text.split()
 
@@ -37,8 +41,7 @@ def handleNewQueries(client):
             try:
                 query_date = parse(parsed_tweet_text)
                 event_text = calendar.getRandomEventOnDate(query_date)
-                if len(event_text) is not 0:
-                    client.PostUpdate('@' + sender + ' ' + event_text)
+                client.PostUpdate(event_text, in_reply_to_status_id=tweet_id, auto_populate_reply_metadata=True)
             except:
                 print('Something went horribly wrong')
 
@@ -46,7 +49,7 @@ def handleNewQueries(client):
 def handleDailyTweet(client):
     event_text = calendar.getRandomEventOnDate(datetime.now())
 
-    if len(event_text) is not 0:
+    if event_text is not Calendar.CONST_DEFAULT_RESPONSE:
         client.PostUpdate(event_text)
 
 
