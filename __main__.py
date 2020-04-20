@@ -1,32 +1,21 @@
 import json
 import sys
-from me_calendar import Calendar
+from code_retriever import CodeRetriever
 from datetime import datetime, timezone
 from twitter_client import getTwitterClient
 from dateutil.parser import parse
 
-calendar = Calendar("calendar.json")
+code_retriever = CodeRetriever()
 
 def main():
     twitter_client = getTwitterClient()
 
-    if sys.argv[1] is -1:
-        print("About to handle the daily tweet.")
-        handleDailyTweet(twitter_client)
-        print("Successfully handled the daily tweet.")
-    else:
-        print("About to handle new user queries.")
-        handleNewQueries(twitter_client)
-        print("Successfully handled new user queries.")
+    handleNewQueries(twitter_client)
 
 
 def handleNewQueries(client):
     new_mentions = client.GetMentions(count=20, return_json=True)
-    timing_interval = 300
-
-    if len(sys.argv) > 1:
-        timing_interval = int(sys.argv[1])
-    
+    timing_interval = 300    
 
     for mention in new_mentions:
         time_since_tweet =  datetime.now(timezone.utc) - parse(mention['created_at'])
@@ -44,19 +33,16 @@ def handleNewQueries(client):
                     parsed_tweet_text += split_item + ' '
             
             try:
-                query_date = parse(parsed_tweet_text)
-                event_text = calendar.getRandomEventOnDate(query_date)
-                client.PostUpdate(event_text, in_reply_to_status_id=tweet_id, auto_populate_reply_metadata=True)
+                query_code_number = parsed_tweet_text.strip()
+                code_object = code_retriever.getCodeByNumber(query_code_number)
+                tweet_text = make_tweet_content_from_code_object(code_object)
+                client.PostUpdate(tweet_text, in_reply_to_status_id=tweet_id, auto_populate_reply_metadata=True)
             except:
                 print('Something went horribly wrong')
 
-
-def handleDailyTweet(client):
-    event_text = calendar.getRandomEventOnDate(datetime.now())
-
-    if event_text is not Calendar.CONST_DEFAULT_RESPONSE:
-        client.PostUpdate(event_text)
-
+def make_tweet_content_from_code_object(code_object):
+    tweet_text  = "LA Municipal Code " + code_object["number"] + "\n" + code_object["Text"] + "\n" + code_object["Link"]
+    return tweet_text
 
 if __name__ == "__main__":
     main()
