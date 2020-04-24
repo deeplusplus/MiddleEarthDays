@@ -132,3 +132,5 @@ dmypy.json
 # Misc
 *.swp
 twitter_client.py
+query_out.txt
+daily_out.txt

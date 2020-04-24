@@ -1,7 +1,7 @@
+#!/usr/bin/python3
+
 import json
 from random import randint
-
-
 
 class Calendar:
 
@@ -9,7 +9,7 @@ class Calendar:
 
     def __init__(self, filename):
         self._calendar = {}
-        with open('calendar.json') as json_calendar:
+        with open('/home/pi/MiddleEarthDays/calendar.json') as json_calendar:
             calendar = json.load(json_calendar)
             self._calendar = calendar
 

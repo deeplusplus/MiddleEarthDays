@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import json
 import sys
 from me_calendar import Calendar
@@ -5,12 +7,15 @@ from datetime import datetime, timezone
 from twitter_client import getTwitterClient
 from dateutil.parser import parse
 
-calendar = Calendar("calendar.json")
+calendar = Calendar("/home/pi/MiddleEarthDays/calendar.json")
 
 def main():
     twitter_client = getTwitterClient()
 
-    if sys.argv[1] is -1:
+    print("Interval recieved: " + sys.argv[1])
+    interval = int(sys.argv[1])
+
+    if interval == -1:
         print("About to handle the daily tweet.")
         handleDailyTweet(twitter_client)
         print("Successfully handled the daily tweet.")
