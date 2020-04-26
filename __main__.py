@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from twitter_client import getTwitterClient
 from dateutil.parser import parse
 
-calendar = Calendar("/home/pi/MiddleEarthDays/calendar.json")
+calendar = Calendar("/home/pi/development/MiddleEarthDays/calendar.json")
 
 def main():
     twitter_client = getTwitterClient()
@@ -36,7 +36,7 @@ def handleNewQueries(client):
     for mention in new_mentions:
         time_since_tweet =  datetime.now(timezone.utc) - parse(mention['created_at'])
 
-        if time_since_tweet.seconds <= timing_interval:
+        if time_since_tweet.total_seconds() <= timing_interval:
             parsed_tweet_text = ''
             
             unparsed_tweet_text = mention['text']
