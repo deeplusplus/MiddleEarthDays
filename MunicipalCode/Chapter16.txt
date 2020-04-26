@@ -1,0 +1,7787 @@
+
+Los Angeles Municipal Code
+
+
+CHAPTER XVI
+HOUSING REGULATIONS
+
+
+
+ 
+
+
+
+ 
+
+
+
+   Article
+
+
+
+ 
+
+
+
+
+   1   Housing Code
+
+
+
+
+
+
+
+
+
+
+   2   Rent Escrow Account Program
+
+
+
+
+
+
+
+
+
+
+   3   Tenant Relocation Assistance Program
+
+
+
+
+
+
+
+
+
+
+   4   Foreclosure Registry Program
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 1
+HOUSING CODE
+
+
+
+ 
+
+
+
+
+(Chapter and Article Added by Ord. No. 172,109, Eff. 7/15/98.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Division
+
+
+
+
+   1   Title and Purpose
+
+
+
+
+
+   2   Definitions
+
+
+
+
+
+   3   Scope
+
+
+
+
+
+   3.5   Housing Inspection Fees
+
+
+
+
+
+   4   Authority
+
+
+
+
+
+   5   Repair and Alterations to Existing Buildings and Structures
+
+
+
+
+
+   6   Inspections
+
+
+
+
+
+   7   Violations
+
+
+
+
+
+   8   Enforcement
+
+
+
+
+
+   9   Cost Recovery and Penalties for Violation
+
+
+
+
+
+   10   Appeals
+
+
+
+
+
+   11   Substandard Notices
+
+
+
+
+
+   12   Retaliation
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 1
+TITLE AND PURPOSE
+
+
+
+ 
+
+
+
+
+(Title and Division Amended in Entirety by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.101   Title.
+
+
+
+161.102   Purpose.
+
+
+
+161.103   Severability.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.101.  TITLE.
+
+
+
+   (Amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   This Article shall be known as the Los Angeles Housing Code, a portion
+of the Los Angeles Municipal Code.  Wherever the phrase "this Article" is
+used, it shall mean the Los Angeles Housing Code.  Wherever the phrase "this
+Code" is used, it shall mean the Los Angeles Municipal Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.102.  PURPOSE.
+
+
+
+   (Amended by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   It is found and declared that there exist in the City of Los Angeles
+substandard and unsanitary residential buildings and dwelling units the
+physical conditions and characteristics of which render them unfit or unsafe
+for human occupancy and habitation, and which conditions and characteristics
+are such as to be detrimental to or jeopardize the health, safety and welfare
+of their occupants and of the public.
+
+
+
+ 
+
+
+
+   It is further found and declared that the existence of such substandard
+buildings and dwelling units threatens the physical, social and economic
+stability of sound residential buildings and areas, and of their supporting
+neighborhood facilities and institutions; necessitates disproportionate
+expenditures of public funds for remedial action; impairs the efficient and
+economical exercise of governmental powers and functions; and destroys the
+amenity of residential areas and neighborhoods and of the community as a
+whole.
+
+
+
+ 
+
+
+
+   For these reasons it is hereby declared to be the policy of the City of
+Los Angeles:
+
+
+
+ 
+
+
+
+   (1)   That it is in the public interest of the people of Los Angeles
+to protect and promote the existence of sound and wholesome residential
+buildings, dwelling units and neighborhoods by the adoption and enforcement
+of such standards, regulations and procedures as will remedy the existence or
+prevent the development or creation of dangerous, substandard, or unsanitary
+and deficient residential buildings and dwelling units; and
+
+
+
+ 
+
+
+
+   (2)   That the adoption of the Los Angeles Housing Code is in the
+interest of the health, safety and welfare of the people of Los Angeles.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.103.  SEVERABILITY.
+
+
+
+   (Added by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   If any provision of this ordinance and Chapter is found to be
+unconstitutional or otherwise invalid by any court of competent jurisdiction,
+that invalidity shall not affect the remaining provisions of this ordinance
+and Chapter, which can be implemented without the invalid provisions, and to
+this end, the provisions of this ordinance are declared to be severable.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 2
+DEFINITIONS
+
+
+
+ 
+
+
+
+
+(Title and Division Amended in Entirety by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.201   General.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.201.  GENERAL.
+
+
+
+   (Amended by Ord. No. 181,744, Eff. 7/15/11.)
+
+
+
+ 
+
+
+
+   The following words and phrases, whenever used in this chapter, shall
+be construed as defined in this section.  Words and phrases not defined
+herein shall be construed as defined in Sections 12.03, 91.200, et seq.,
+91.8902, and 151.02 of this Code, if defined therein.
+
+
+
+ 
+
+
+
+   DEPARTMENT.  The Housing and Community Investment Department. 
+(Amended by Ord. No. 182,718, Eff. 10/30/13.)
+
+
+
+ 
+
+
+
+   GENERAL MANAGER.  The General Manager of the Housing and Community
+Investment Department or his or her designee.  (Amended by Ord. No. 182,718,
+Eff. 10/30/13.)
+
+
+
+ 
+
+
+
+   ORDER.  Any order or notice to comply, correct or abate.
+
+
+
+ 
+
+
+
+   REAP.  The Rent Escrow Account Program.
+
+
+
+ 
+
+
+
+   RENT ADJUSTMENT COMMISSION (RAC).  The Rent Adjustment Commission as
+established under Los Angeles Municipal Code Section 151.03.  (Added by Ord.
+No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   RSO.  The Rent Stabilization Ordinance.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 3
+SCOPE
+
+
+
+ 
+
+
+
+
+(Title and Division Amended in Entirety by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.301
+
+
+
+161.302
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.301.
+
+
+
+   (Title and Sec. Amended by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   The provisions of this Article shall apply to all residential rental
+properties with two or more dwelling units, efficiency dwelling units, light
+housekeeping rooms, guest rooms and suites, as these terms are defined in
+Section 12.03 of this Code, where one or more of these units are rented or
+offered for rent on the same lot, land, buildings and structures appurtenant
+thereto.  The provisions shall not apply to:  (Amended by Ord. No. 181,744,
+Eff. 7/15/11.)
+
+
+
+ 
+
+
+
+   (1)   Owner occupied units.
+
+
+
+ 
+
+
+
+   (2)   Housing accommodations in hotels, motels, inns, or tourist
+homes.  This exception does not apply to residential hotels as defined in
+California Health and Safety Code Section 50519(b)(1).
+
+
+
+ 
+
+
+
+   (3)   A dwelling unit in a condominium or a nonprofit stock
+cooperative.
+
+
+
+ 
+
+
+
+   (4)   Housing accommodations in any hospital; state licensed
+community care facility; convent, monastery, or other facility occupied
+exclusively by members of a religious order; extended medical care facility;
+asylum; on-campus fraternity or sorority houses; or on-campus housing
+accommodations owned, operated or managed by an institution of higher
+education, a high school, or an elementary school for occupancy by its
+students.
+
+
+
+ 
+
+
+
+   (5)   Housing accommodations which a government unit, agency or
+authority owns, operates, or manages, or which are specifically exempted from
+municipal regulation by state or federal law or administrative regulation. 
+This exception shall not apply once the governmental ownership, operation, or
+management regulation is discontinued.
+
+
+
+ 
+
+
+
+   (6)   Mobile homes, or mobile home parks, or recreational vehicles
+as defined in California Civil Code Section 799.29, or recreational vehicle
+parks.  (Amended by Ord. No. 181,744, Eff. 7/15/11.)
+
+
+
+ 
+
+
+
+   (7)   Vacant properties.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.302.
+
+
+
+   (Title and Sec. Amended by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Occupancies in existing buildings subject to the provisions of this
+chapter may be continued as provided in Chapter IX of this Code, except such
+buildings as are found to be substandard as provided in Section 91.8108 of
+this Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 3.5
+HOUSING INSPECTION FEES
+
+
+
+ 
+
+
+
+
+(Division 3.5 Added by Ord. No. 172,108, Eff. 7/15/98.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.352   Fees for Inspection.
+
+
+
+161.356   Small Overpayments and Underpayments.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.351.  GENERAL.
+
+
+
+   (Repealed by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.352.  FEES FOR INSPECTION.
+
+
+
+   (Amended by Ord. No. 181,966, Eff. 12/20/11.)
+
+
+
+ 
+
+
+
+   Owners of all buildings subject to inspection shall pay a regulatory
+fee of forty-three dollars and thirty-two cents ($43.32) per unit per year. 
+This fee will shall be due and payable on the first day of January of each
+year and shall be deemed delinquent if not paid on or before the last day of
+the month of February each year.  The fee will be used to finance the costs
+of inspection and enforcement by the Department.  Should the owner fail to
+pay the required fee, the City of Los Angeles will recover it utilizing any
+remedies provided by law, including nuisance abatement or municipal tax lien
+procedures established by ordinance and/or state law.  This fee shall be
+known as the "Systematic Code Enforcement Program Fee".
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.353.  FREQUENCY OF INSPECTION.
+
+
+
+   (Repealed by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.354.  NOTICES AND ORDERS.
+
+
+
+   (Repealed by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.355.  REINSPECTION.
+
+
+
+   (Repealed by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.356.  SMALL OVERPAYMENTS AND UNDERPAYMENTS.
+
+
+
+   (Added by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   If a discrepancy exists between the amount of the fee paid and the
+amount due under the provisions of this Chapter that results in an
+underpayment or overpayment of $5.00 or less, the Department may accept and
+record such underpayment or overpayment without other notification to the
+property owner/landlord and shall reconcile such amounts in the next due bill.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 4
+AUTHORITY
+
+
+
+ 
+
+
+
+
+(Title and Division  Amended in Entirety by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.400   Authority to Inspect.
+
+
+
+161.401   Authority to Administer and Enforce.
+
+
+
+161.402   
+
+
+
+161.403   Representative of Superintendent of Building.
+
+
+
+161.404   Enforcement Agency and Governing Board.
+
+
+
+161.405   Authority to Seek Aid and Assistance.
+
+
+
+161.406   Regulations.
+
+
+
+161.407   Authorized Representative.
+
+
+
+161.408   
+
+
+
+161.409   Issuance and Service of Orders and Notices.
+
+
+
+161.410   Arrest Authority.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.400.  AUTHORITY TO INSPECT.
+
+
+
+   (Added by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Inspection.  The General Manager shall have the authority to
+conduct inspections of residential rental properties, buildings, units, and
+structures falling within the scope of this Article. Inspections may be
+periodic or complaint-based.
+
+
+
+ 
+
+
+
+   B.   Re-inspections.  The General Manager has the authority to
+conduct re-inspections after the compliance date stated in the notice and
+order to determine if the violation has been corrected.  If the violation
+has not been corrected, the General Manager may schedule a General Manager's
+hearing or take any other enforcement action deemed appropriate under Chapter
+XVI of this Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.401.  AUTHORITY TO ADMINISTER AND ENFORCE.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Laws, Regulations and Codes.  The General Manager shall have
+the authority to administer and enforce the provisions of this Article, the
+State Housing Law (Part 1.5 of Division 13 of the California Health and
+Safety Code), the State Housing Law Regulations (Sub-chapter 1, Chapter 1,
+Division 1, Title 25 of the California Code of Regulations), and this Code
+relating to the maintenance, sanitation, ventilation, use, occupancy, and
+habitability of existing residential rental properties, buildings, units, and
+structures falling within the scope of this Article, including enforcement of
+those requirements governing any alteration, addition, or repair.
+
+
+
+ 
+
+
+
+   B.   Abatement Procedures.  In addition to the abatement procedures
+set forth in the State Housing Law and State Housing Law Regulations, the
+General Manager shall have the authority to utilize the procedures in
+Divisions 81 and 89 of the Los Angeles Building Code (Article 1, Chapter IX
+of this Code) to abate existing residential rental properties, buildings,
+units, and structures that have been determined to be a nuisance, hazardous,
+or substandard.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.402.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Section 201.3, 1997 Edition, of the Uniform Housing Code is hereby
+adopted by reference.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.403.  REPRESENTATIVE OF SUPERINTENDENT OF BUILDING.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   The General Manager is hereby designated as an authorized
+representative of the Superintendent of Building of the Department of
+Building and Safety for the purpose of implementing and enforcing the
+following provisions:
+
+
+
+ 
+
+
+
+   1.   Los Angeles Building Regulations (Chapter IX of this Code)
+relating to the maintenance, sanitation, ventilation, use, occupancy, and
+habitability of existing residential rental properties, buildings, units, and
+structures falling within the scope of this Article, including enforcement of
+those requirements governing alterations, additions, or repairs.
+
+
+
+ 
+
+
+
+   2.   Los Angeles Zoning Code (Article 2, Chapter I of this Code)
+Sections 12.21 A.1.(a), 12.21 A.4.(m), 12.21 A.8., and 12.21 C.1.(g).
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.404.  ENFORCEMENT AGENCY AND GOVERNING BOARD.
+
+
+
+   (Title added by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   The General Manager is hereby designated as the enforcement agency for
+the City of Los Angeles, and the Council is designated the governing board of
+the enforcement agency for the purposes of California Code of Regulations,
+Title 25, Part 1, Division 1, Subchapter 1, Article 6.  The General Manager
+shall have the authority to propose procedures, standards and guidelines to
+aid in the enforcement of these provisions of state law which shall become
+effective upon their adoption by Council by ordinance.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.405.  AUTHORITY TO SEEK AID AND ASSISTANCE.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   The General Manager is authorized to call upon the Chief of the Fire
+Department, Chief of Police, General Services Department, and all other City
+officers, employees, departments and bureaus to aid and assist in the
+enforcement of this Article, and it shall then be their duty to enforce the
+provisions of this Article and to perform those duties as may come within
+their respective jurisdictions.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.406.  REGULATIONS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   The General Manager shall have the power to render interpretations of
+this article and to adopt and enforce rules and supplemental regulations to
+clarify the application of its provisions.  These interpretations, rules and
+regulations shall be in conformity with the intent and purpose of this
+article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.407.  AUTHORIZED REPRESENTATIVE.
+
+
+
+   (Title added by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   Whenever a power is granted to or a duty imposed upon the General
+Manager, the power may be exercised or the duty performed by a duly
+authorized representative of the General Manager under this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.408.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Nothing in this article shall be interpreted as limiting or prohibiting
+the authority of City officers or departments to continue to enforce any
+other provision of this Code or any state or federal law under their
+jurisdiction.  Nothing herein shall be interpreted as authorizing the
+enforcement of this article contrary to any provision of state or federal law.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.409.  ISSUANCE AND SERVICE OF ORDERS AND NOTICES.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Issuance of Orders.  If, upon inspection, one or more
+violations of this Code is discovered, the General Manager shall cause to be
+issued a notice and order pursuant to this Article, except that, upon
+inspection, if the premises is declared substandard pursuant to the State
+Housing Law (Part 1.5 of Division 13 of the California Health and Safety
+Code), the General Manager shall cause to be issued a notice and order
+pursuant to the provisions of the State Housing Law.
+
+
+
+ 
+
+
+
+   B.   Service on Property Owner/Landlord.  Except as otherwise
+provided, any notice or order required to be served on the property
+owner/landlord under this Article shall be completed by either:
+
+
+
+ 
+
+
+
+   1.   Personal service; or
+
+
+
+ 
+
+
+
+   2.   Posting a copy of the notice or order in a conspicuous place on
+the property along with service by United States Mail, in a sealed envelope,
+postage prepaid, addressed to the person to be notified at the address as
+listed in the last equalized assessment roll.  Service by mail shall be
+deemed complete at the time of deposit in the mail.
+
+
+
+ 
+
+
+
+   C.   Service on Tenant. Except as otherwise provided, any notice or
+order required to be served on the tenant under this Article shall be
+completed by either:
+
+
+
+ 
+
+
+
+   1.   Personal service; or
+
+
+
+ 
+
+
+
+   2.   Posting the notice or order in a conspicuous place on the
+property and on a prominent place on each affected unit; or
+
+
+
+ 
+
+
+
+   3.   Posting a copy of the notice or order in a conspicuous place on
+the property along with service by United States mail, in a sealed envelope,
+postage prepaid, to each affected residential unit.  Service by mail shall
+be deemed complete at the time of deposit in the mail.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.410.  ARREST AUTHORITY.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Arrest Authority and Immunity.  In the performance of his or
+her duty, the General Manager shall have the power, authority and immunity of
+a public officer or employee as set forth in California Penal Code Section
+836.5 and to make arrests without a warrant whenever he or she has reasonable
+cause to believe that the person to be arrested has committed a misdemeanor
+or an infraction in his or her presence in violation of an ordinance or
+statute which the employee has the duty to enforce, including: Sections 12.21
+A.1.(a), 12.21 A.4.(m), 12.21 A.8., 12.21 C.1.(g), 80.01.1, 91.109.1,
+91.310.4, 91.6103, 91.6109, 91.8102.2, 91.8104, and 91.8603.1.1 of this Code,
+or a violation of California Penal Code Sections 556 or 556.1.
+
+
+
+ 
+
+
+
+   B.   Written Notice to Appear.  In accordance with Section 11.06(b)
+of this Code, in cases where a person is arrested pursuant to this Article
+and does not demand to be taken before a magistrate, the public officer or
+employee making the arrest shall prepare a written notice to appear and shall
+release the person on his or her promise to appear as prescribed by
+California Penal Code Sections 853.5 and 853.6.  If the person signs the
+written notice to appear, thereby promising to appear, he or she shall not be
+taken into physical custody.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 5
+REPAIR AND ALTERATIONS TO EXISTING BUILDINGS AND STRUCTURES
+
+
+
+ 
+
+
+
+
+(Division Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.501   Additions, Alterations or Repairs.
+
+
+
+161.502   Relocation.
+
+
+
+161.503   Permits.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.501.  ADDITIONS, ALTERATIONS OR REPAIRS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   For additions, alterations or repairs, see the provisions of Chapter IX
+of this Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.502.  RELOCATION.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   The relocation of buildings or structures into or within the City of
+Los Angeles shall be regulated pursuant to the provisions of Chapter IX of
+this Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.503.  PERMITS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   No building or structure regulated by this article shall be erected,
+constructed, enlarged, altered, repaired, moved, improved, removed, converted
+or demolished unless a separate permit for each building or structure has
+first been obtained from the Department of Building and Safety in the manner
+and according to the applicable conditions prescribed in Chapter IX of this
+Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 6
+INSPECTIONS
+
+
+
+ 
+
+
+
+
+(Division Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.601   Right of Entry.
+
+
+
+161.602   Periodic Inspections.
+
+
+
+161.603   Complaint Inspections.
+
+
+
+161.604   Notice of Inspection.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.601.  RIGHT OF ENTRY.
+
+
+
+   (Amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   General.  Whenever it is necessary to conduct an inspection or
+perform any duty under this Article or other applicable law, the General
+Manager is authorized to enter any residential rental property, building,
+unit or structure falling within the scope of this Article, between 8:00 a.m.
+and 6:00 p.m., or any other agreed upon time reached with the person in
+control or possession of the residential property, building, unit or
+structure.  Before gaining entry, the General Manager shall serve a notice
+pursuant to Section 161.601 B. of this Article.  However, an inspection
+notice need not be served if the General Manager gains entry by obtaining the
+consent of the person in control or possession of the residential rental
+property, building, unit or structure, as follows:
+
+
+
+ 
+
+
+
+   1.   If the building, unit or structure is occupied, the General
+Manager shall present proper credentials to the occupant; explain the reasons
+for the inspection; and request consent to conduct an inspection.
+
+
+
+ 
+
+
+
+   2.   If the building, unit or structure is unoccupied, the General
+Manager shall locate the owner or other person having charge or control of
+the property, building, unit, or structure and present proper credentials;
+explain the reasons for the inspection; and request consent to conduct an
+inspection.
+
+
+
+ 
+
+
+
+   B.   Inspection Notice.  Except as otherwise provided in this
+Division, the General Manager shall serve an inspection notice to the
+property owner/landlord and tenant in accordance with Section 161.409 of this
+Article at least 30 calendar days prior to the inspection date.
+
+
+
+ 
+
+
+
+   C.   Right to Object to an Inspection.  The property owner/landlord
+and tenant may object to the inspection notice by seeking pre-compliance
+judicial review.
+
+
+
+ 
+
+
+
+   1.   Pre-compliance judicial review shall be sought at least ten
+calendar days before the inspection date provided on the inspection notice in
+any Court of competent jurisdiction located in the City of Los Angeles.
+
+
+
+ 
+
+
+
+   2.   A person seeking pre-compliance judicial review of an
+inspection notice shall follow the applicable rules of court, including, but
+not limited to, the time for providing notice to the Department and content
+and service of the notice.
+
+
+
+ 
+
+
+
+   D.   Inspection Warrant.
+
+
+
+ 
+
+
+
+   1.   If consent to conduct an inspection is refused or cannot be
+obtained, the General Manager shall secure entry to inspect the premises by
+getting an inspection warrant under California Code of Civil Procedure
+Sections 1822.50 through 1822.57.
+
+
+
+ 
+
+
+
+   2.   Notice that an inspection warrant has been obtained shall be
+served by the General Manager on the property owner/landlord or tenant at
+least five calendar days before the warrant is set to be executed, unless the
+judge finds that immediate execution is reasonably necessary in the
+circumstances shown.
+
+
+
+ 
+
+
+
+   3.   The notice that an inspection warrant has been issued shall
+include the name of the judicial officer who issued the warrant and his/her
+address or department.
+
+
+
+ 
+
+
+
+   4.   Before the date the warrant is set to be executed, the property
+owner/landlord or tenant may seek judicial review of the inspection warrant
+before the judicial officer who issued the warrant.
+
+
+
+ 
+
+
+
+   E.   Exigent Circumstances.  Notwithstanding the foregoing, if the
+General Manager has reasonable cause to believe that a residential rental
+property, building, unit, structure, or common area subject to this Article
+is so hazardous, unsafe or dangerous as to require immediate inspection to
+safeguard the public health or safety, the General Manager shall have the
+right to immediately enter and inspect the premises by use of any reasonable
+means to effect entry.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.602.  PERIODIC INSPECTIONS.
+
+
+
+   (Amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Frequency of Periodic Inspections. Except as otherwise provided
+in this Article, the Department shall make a reasonable effort to conduct a
+periodic inspection once every four years of all residential rental
+properties, buildings, units and structures falling within the scope of this
+Article.
+
+
+
+ 
+
+
+
+   B.   Criteria for More Frequent Periodic Inspections.  The
+Department shall promulgate regulations, subject to approval of the City
+Council, determining when a residential rental property, building, unit, or
+structure falling within the scope of this Article may be inspected more
+frequently than provided in Section 161.602 A. due to a substantial risk of
+violation of this Article. The regulations may include the following criteria:
+
+
+
+ 
+
+
+
+   1.   The extent and seriousness of the current violations and any
+reasonably anticipated effect on the occupants.
+
+
+
+ 
+
+
+
+   2.   The history of the property during the past four years,
+including whether the property has been the subject of orders issued by other
+agencies concerning health and safety violations; orders imposed by the
+General Manager under Division 8 of this Article; or involvement in nuisance
+abatement.
+
+
+
+ 
+
+
+
+   3.   The age of the premises.
+
+
+
+ 
+
+
+
+   4.   The record in the past four years of the persons or entities
+who own, manage or control the property with respect to health or safety
+violations at the premises or other properties and whether the violations
+have been subject to enforcement action.
+
+
+
+ 
+
+
+
+   5.   Whether the property has delinquent fees imposed under Division
+9 of this Article.
+
+
+
+ 
+
+
+
+   6.   Whether there are tax defaults on the property.
+
+
+
+ 
+
+
+
+   7.   If a master-metered property, whether there are any delinquent
+utility bills in excess of 6 months.
+
+
+
+ 
+
+
+
+   8.   Any other criteria determined by the Department to be
+indicative of the existence of health or safety violations.
+
+
+
+ 
+
+
+
+   C.   Regulations and Policies.  The General Manager may adopt
+regulations and policies to implement this Section.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.603.  COMPLAINT INSPECTIONS.
+
+
+
+   (Amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   General.  Subject to Section 161.601, the General Manager may
+inspect those portions of residential rental properties, buildings, units or
+structures falling within the scope of this Article about which a complaint
+has been lodged.
+
+
+
+ 
+
+
+
+   B.   Regulations and Policies.  The General Manager may adopt
+regulations and policies to implement this Section.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.604.  NOTICE OF INSPECTION.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Inspection Notice.  An inspection notice shall contain the
+following information:
+
+
+
+ 
+
+
+
+   1.   Name, address, and telephone number of the Department.
+
+
+
+ 
+
+
+
+   2.   The purpose of the inspection.
+
+
+
+ 
+
+
+
+   3.   The date and approximate time of the inspection.
+
+
+
+ 
+
+
+
+   4.   Notice of the right to refuse consent for inspection in absence
+of an inspection warrant and right to seek pre-compliance judicial review of
+the inspection notice without threat of imposition of any fine or penalty.
+
+
+
+ 
+
+
+
+   B.   Post-Inspection Notice.  If a periodic or complaint inspection
+is conducted, the General Manager shall provide written notice to the
+property owner/landlord and/or occupant of each residential rental property,
+building, unit, structure, or common area inspected, stating an inspection
+occurred and providing the address and telephone number where further
+information may be obtained.  The post-inspection notice shall be served in
+accordance with Section 161.409 of this Article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 7
+VIOLATIONS
+
+
+
+ 
+
+
+
+
+(Division Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.701.1   General.
+
+
+
+161.701.2   Violations by Tenants.
+
+
+
+161.701.3   Removal of Posted Notices or Orders.
+
+
+
+161.702   Orders.
+
+
+
+161.703   Vacant Units.
+
+
+
+161.704   Time to Comply.
+
+
+
+161.704.1   General.
+
+
+
+161.704.2   Reinspections.
+
+
+
+161.704.3   Extensions.
+
+
+
+161.704.4   Conditions Posing Serious Risk.
+
+
+
+161.704.5   Conditions Posing Imminent Threat.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.701.1.  GENERAL.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person or entity to erect, construct,
+enlarge, alter, repair, move, improve, convert or demolish, equip, use,
+occupy, or maintain any building or structure, or permit the above to be
+done, in violation of any provision within the authority of the Department
+this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.701.2.  VIOLATIONS BY TENANTS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Pursuant to the regulations the Department shall enact, any tenant
+determined to have violated Section 91.8102.2 or California Civil Code
+Section 1941.2 shall be given an order to comply and made subject to the
+enforcement remedies provided for in these regulations.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.701.3.  REMOVAL OF POSTED NOTICES OR ORDERS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person to remove, alter, deface, tamper
+with or alter the visibility of any notice or order posted at the premises
+pursuant to this Code.  If any posting is removed or tampered with, it shall
+be the responsibility of the owner or the owner’s agent to replace promptly
+the notice or order.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.702.  ORDERS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Whenever the Department determines by inspection that any existing
+building or dwelling unit, subject to this article, or portion thereof, is in
+violation of this article, the Department shall order the violation
+corrected.  If the Department determines that the building or dwelling unit
+is substandard pursuant to California Health and Safety Code Section 17920.3,
+then the order shall declare the building or dwelling unit to be substandard
+pursuant to that section.
+
+
+
+ 
+
+
+
+   The order shall be provided to the owner on a standard form which in
+plain language states the violations found and the sections of this Code with
+which the property is not in compliance.  The order shall inform the owner
+that failure to correct the violation may result in additional inspection
+fees pursuant to Division 9 of this article or rent withholding as provided
+by Section 161.903.3 for failure to pay those fees, inclusion in REAP and/or
+rent reduction as specified in Section 162.04, inclusion in the Urgent Repair
+Program as specified in Section 50.00C or any successor program, relocation
+assistance as specified in Section 161.805(7), property management training
+as specified in Section 154.00 of this Code, inclusion in the Receivership
+Program, increased frequency of inspections as provided by 161.602.1,
+eviction protections as provided by Sections 151.09 and 161.806, prohibited
+rent increases as provided by Section 161.807, criminal prosecution or any
+other enforcement action.  If the order declares the building or dwelling
+unit to be substandard, then it shall comply with California Health and
+Safety Code Section 17980(d).  (Para. Amended by Ord. No. 173,810, Eff.
+4/16/01.)
+
+
+
+ 
+
+
+
+   The order shall be served on the owner by first class mail.  A copy of
+the order shall be provided to each affected residential unit in the manner
+prescribed by Subdivision (a) of California Health and Safety Code Section
+17980.6.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.703.  VACANT UNITS.
+
+
+
+   (Amended by Ord. No. 181,744, Eff. 7/15/11.)
+
+
+
+ 
+
+
+
+   A vacant unit in a property subject to this Article need not comply
+with orders under this Section, provided that a notice is recorded against
+the property declaring that the unit is and shall remain vacant, and provided
+that the unit is secured against unauthorized entry.  If a dwelling unit
+declared to be vacant is rented, no rent is due or owing for that dwelling
+unit.  The tenant may assert this Section as an affirmative defense to any
+unlawful detainer action brought based on nonpayment of rent.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.704.  TIME TO COMPLY.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.704.1.  GENERAL.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Except as provided otherwise in this article, the order shall give the
+owner not more than 30 days to correct the violation.  If the inspections or
+reinspections do not occur within the time frames stated in this division, it
+does not remove the obligation of the owner or person in charge or control of
+the premises to comply with any orders or notices.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.704.2.  REINSPECTIONS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Except as provided otherwise in this article, the Department shall
+reinspect the building or dwelling unit within 5 days or as soon thereafter
+as possible, but no later than 15 days, of the compliance date specified in
+the order, and again within 5 days or as soon thereafter as possible, but no
+later than 15 days, of any extended compliance dates.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.704.3.  EXTENSIONS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   If the violation has not been corrected by the compliance date but
+significant progress has been completed, the inspector may grant a single
+extension of time, not to exceed 30 days.  If upon subsequent reinspection
+the violation has not been corrected but significant additional progress has
+been completed since the previous inspection, the inspector’s supervisor
+may grant a single additional extension of time, not to exceed 30 days.  Any
+other or further extensions of time may be granted only by the General
+Manager or his or her designee.  The extensions permitted by this section
+are not automatic.  In determining whether to grant any extension, the
+Department shall consider the criteria set forth in Section 161.602.1 and any
+other criteria set forth by regulation indicating a risk of recurring
+violations.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.704.4.  CONDITIONS POSING SERIOUS RISK.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   If the condition poses a serious risk to the health or safety of the
+occupants or the public, the inspector shall order the condition to be abated
+in not more than 14 days.  No extensions of time shall be granted except by
+the General Manager or his or her designee.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.704.5.  CONDITIONS POSING IMMINENT THREAT.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Where the Department determines that the condition poses a present,
+imminent, extreme and immediate hazard or danger to life or limb, health or
+safety, it shall order abatement of the conditions within 48 hours.  No
+extensions of time shall be granted except as provided by regulation. 
+Within 24 hours after the time to abate, the Department shall conduct a
+reinspection of the building or dwelling unit to determine compliance with
+the order.  If the condition has not been abated, the Department shall have
+the authority to make the necessary repairs and include the building or
+dwelling unit in the Urgent Repair Program as specified in Section 50.00 of
+this Code or any successor program established to ensure immediate repair of
+dangerous, life threatening conditions.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 8
+ENFORCEMENT
+
+
+
+ 
+
+
+
+
+(Division Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.801   General Manager’s Hearing.
+
+
+
+161.802   Notice of General Manager's Hearing.
+
+
+
+161.803   Continuances.
+
+
+
+161.804   Conduct of the Hearing.
+
+
+
+161.805   Decision.
+
+
+
+161.805.1   Notice of General Manager's Decision.
+
+
+
+161.806   Evictions.
+
+
+
+161.807   Rent Increases.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.801.  GENERAL MANAGER’S HEARING.
+
+
+
+   (Amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   General.  Whenever a violation has not been corrected by the
+time specified for compliance, the General Manager shall hold a hearing
+within 21 calendar days of the date specified for compliance or any extension
+compliance date.  If the hearing does not occur within the time frame stated
+in this Section, it does not remove the obligation of the property
+owner/landlord or other responsible party to comply with any orders or
+notices, nor does it limit the General Manager's authority to issue orders at
+the hearing.
+
+
+
+ 
+
+
+
+   B.   Referrals from Other Agencies.  The General Manager may hold a
+hearing under this Division when a violation is referred by the Fire
+Department, Department of Building and Safety, or the Los Angeles County
+Department of Health Services.  The General Manager may issue any orders
+pursuant to Section 161.805 of this Article, excluding Sections 161.805(1),
+161.805(5), or 161.805(6).
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.802.  NOTICE OF GENERAL MANAGER’S HEARING.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Service of Notice.  A notice of the General Manager's hearing
+shall be served as follows:
+
+
+
+ 
+
+
+
+   1.   On the property owner/landlord by certified United States mail,
+postage prepaid, to the address listed in the last equalized assessment roll,
+or by personal service, at least 15 calendar days before the hearing.
+
+
+
+ 
+
+
+
+   2.   On each affected residential unit in the manner prescribed by
+Section 161.409 C. of this Article, at least 15 calendar days before the
+hearing.
+
+
+
+ 
+
+
+
+   B.   Content of the Notice.  In addition to any other information
+deemed necessary, the notice shall notify the property owner/landlord and any
+affected tenants of the:
+
+
+
+ 
+
+
+
+   1.   Proposed inclusion in Rent Escrow Account Program and rent
+reductions as specified in Section 162.04 of this Code.
+
+
+
+ 
+
+
+
+   2.   Proposed inclusion in the Urgent Repair Program under Section
+50.00 C. of this Code or any successor program.
+
+
+
+ 
+
+
+
+   3.   Proposed relocation assistance as specified in Section
+161.805(7) of this Article.
+
+
+
+ 
+
+
+
+   4.   Proposed property management training under Section 154.00 of
+this Code.
+
+
+
+ 
+
+
+
+   5.   Proposed inclusion in the Receivership Program.
+
+
+
+ 
+
+
+
+   6.   Proposed increased frequency of periodic inspections as
+provided by Division 6 of this Article.
+
+
+
+ 
+
+
+
+   7.   Proposed rent withholding as provided by Division 9 of this
+Article.
+
+
+
+ 
+
+
+
+   8.   Evictions protections as provided in Sections 151.09 and
+161.806.
+
+
+
+ 
+
+
+
+   9.   Prohibited rent increases as provided in this Division.
+
+
+
+ 
+
+
+
+   10.   Proposed fees, costs or penalties imposed under Division 9 of
+this Article.
+
+
+
+ 
+
+
+
+   11.   Proposed referral for criminal prosecution.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.803.  CONTINUANCES.
+
+
+
+   (Amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Upon a showing of good cause, the General Manager may grant a
+continuance of the hearing.
+
+
+
+ 
+
+
+
+   B.   Before granting a continuance, the General Manager shall
+consider the extent and seriousness of the property conditions and cited
+violations; the reasonably anticipated effect of the violations on the
+occupants; the criteria set forth in Section 161.602 B.; and any other
+criteria provided under the law or by regulation indicating a risk of
+recurring violations or harm.
+
+
+
+ 
+
+
+
+   C.   The General Manager shall make written findings to support the
+continuance decision.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.804.  CONDUCT OF THE HEARING.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Department staff, other governmental agencies, the owner, tenants, and
+any interested persons may present any oral or documentary evidence that is
+relevant to the case.  The proceedings shall be recorded by means of
+audiotape and/or videotape.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.805.  DECISION.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   After considering all relevant evidence and arguments, the General
+Manager shall issue a written decision within ten working days of the
+hearing.  This decision is to be supported by written findings which
+separately provide the basis for each order imposed.  Where it is determined
+that the violation has not been corrected, the General Manager may make any
+of the following orders, as appropriate:
+
+
+
+ 
+
+
+
+   (1)   Order that the violation be referred to the City Attorney’s
+office for prosecution.
+
+
+
+ 
+
+
+
+   (2)   Order a rent reduction.
+
+
+
+ 
+
+
+
+   (3)   Order the building or dwelling units be  accepted into
+REAP.  (Amended by Ord. No. 173,810, Eff. 4/16/01.) 
+
+
+
+ 
+
+
+
+   (4)   Order the building or dwelling units be accepted into the
+Urgent Repair Program or any successor programs.
+
+
+
+ 
+
+
+
+   (5)   Impose inspection fees pursuant to Division 9 of this article
+for the third inspection and all subsequent inspections until compliance is
+attained, and for any periodic inspection ordered to take place in less than
+four years. (Amended by Ord. No. 184,768, Eff. 4/4/17.)
+
+
+
+ 
+
+
+
+   (6)   Order that, after compliance has been obtained, the next
+periodic inspection be conducted within three to 24 months, depending on the
+severity of the violations, the history of the property, the criteria set
+forth in Section 161.602.1 and any other criteria set forth by regulation
+indicating a risk of recurring violations.
+
+
+
+ 
+
+
+
+   (7)   If the violation poses a present, imminent, extreme and
+immediate hazard or danger to life or limb, health or safety, or if the
+building or dwelling unit has been ordered vacated by any government agency,
+order that the owner pay relocation assistance to the tenants, in the amounts
+and following the procedures set forth in Section 151.09 G. and any
+accompanying regulations, regardless of whether the building or dwelling unit
+is subject to the RSO.
+
+
+
+ 
+
+
+
+   (8)   Order the person or entity who owns, manages or controls the
+premises to attend property management training as set forth in Section
+154.00, et seq.
+
+
+
+ 
+
+
+
+   (9)   Order that the property be referred to the Receivership
+Program.
+
+
+
+ 
+
+
+
+   (10)   Issue an Order of Abatement and have it recorded against the
+property.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.805.1.  NOTICE OF GENERAL MANAGER'S DECISION.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Service of Notice of Decision.  A copy of the General
+Manager's decision shall be served as follows:
+
+
+
+ 
+
+
+
+   1.   On the property owner/landlord by certified United States mail
+postage prepaid, or by personal service.
+
+
+
+ 
+
+
+
+   2.   On each affected residential unit in the manner prescribed by
+Section 161.409 C. of this Article.
+
+
+
+ 
+
+
+
+   3.   A copy shall be made available to any person requesting a copy
+of the decision.
+
+
+
+ 
+
+
+
+   B.   Content of Decision.
+
+
+
+ 
+
+
+
+   1.   If the decision orders inclusion into REAP or rent reductions,
+the decision shall comply with the notice provisions of Section 162.04 in
+this Code.
+
+
+
+ 
+
+
+
+   2.   If the decision orders relocation assistance, the decision
+shall comply with Section 161.805(7) of this Code.
+
+
+
+ 
+
+
+
+   3.   The decision shall advise the property owner/landlord of any
+additional potential consequences that may result from non-compliance with
+the orders, including, but not limited to, imposition of civil penalties and
+fines under Section 161.905; criminal penalties and fines under Section
+161.906; liens under Section 161.904; eviction protections under Section
+161.806; prohibition of rent increases under Section 161.807; and rent
+withholding under Section 161.903.3 due to the property owner's failure to
+pay any fees owed to the Department.
+
+
+
+ 
+
+
+
+   4.   The General Manager's decision shall state that an appeal may
+be filed within 15 calendar days of the date the decision is served.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.806.  EVICTIONS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   If an order is made under Section 161.805, regardless of whether the
+building or dwelling unit is subject to the RSO, the landlord may bring an
+action to recover possession of the dwelling unit only upon the grounds set
+forth in Section 151.09 until the Department determines that the landlord has
+complied with the order and for 180 days following the compliance date.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.807.  RENT INCREASES.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   If an order is made under Section 161.805, regardless whether the
+building or dwelling unit is subject to the RSO, the property owner/landlord,
+or any subsequent property owner/landlord, shall not increase the rent for
+any current or subsequent tenant until the Department determines that the
+property owner/landlord has complied with the order and for one year
+thereafter, except as provided by the Costa Hawkins Rental Housing Act, Civil
+Code Section 1954.50, et. seq., and/or other law. The determination shall
+include the date of the property owner/landlord's compliance for the purposes
+of calculating rent increases.  (Amended by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   If the building or dwelling unit is subject to the RSO, any automatic
+increase pursuant to Section 151.06 will not take effect for a period of one
+year after the Department determines that the landlord has complied with the
+order.
+
+
+
+ 
+
+
+
+   For a building or dwelling unit that is subject to the RSO, if the
+landlord applies for an individual rent adjustment pursuant to Section
+151.07, any authorized rent adjustment will not take effect for a period of
+one year after the Department determines that the landlord has complied with
+the order.  (Para. Amended by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 9
+COST RECOVERY AND PENALTIES FOR VIOLATION
+
+
+
+ 
+
+
+
+
+(Division Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.901   Fees.
+
+
+
+161.901.1   Inspection Fees.
+
+
+
+161.901.2   Additional Fees for Inspections.
+
+
+
+161.901.3   Exemption from Fees.
+
+
+
+161.901.4   New Property Owner.
+
+
+
+161.902   Administrative Costs.
+
+
+
+161.903   Penalties for Nonpayment.
+
+
+
+161.903.1   
+
+
+
+161.903.2   
+
+
+
+161.903.3   Rent Withholding.
+
+
+
+161.904   Lien.
+
+
+
+161.905   Civil Penalties and Fines.
+
+
+
+161.906   Criminal Penalties.
+
+
+
+161.907   No Fine or Penalty for Seeking Pre-compliance Review of
+Inspection Notice.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.901.  FEES.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.901.1.  INSPECTION FEES.
+
+
+
+   (Amended by Ord. No. 184,768, Eff. 4/4/17.)
+
+
+
+ 
+
+
+
+   If an order to comply is issued and the violation continues to exist on
+a date after the order requires compliance, the Department is hereby
+authorized to impose an inspection fee pursuant to Section 161.901.2.  Fees
+may be charged in advance for the third inspection and any subsequent
+inspection until compliance is attained.  The fees may be imposed without a
+hearing but may be appealed pursuant to Section 161.1001.  Inspection fees
+may also be charged in advance for any periodic inspection ordered at the
+General Manager's hearing to take place in less than four years.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.901.2.  [ADDITIONAL FEES FOR INSPECTIONS.]
+
+
+
+   (Amended by Ord. No. 175,206, Eff. 6/18/03.)
+
+
+
+ 
+
+
+
+   Additional fees for inspections, beyond the initial inspection and
+re-inspection included in the Systematic Code Enforcement Fee pursuant to
+Section 161.352, may be collected by the Department in an amount of $169.00
+per additional inspection.  Any additional inspection requiring more than
+1.5 on-site hours may be billed at an additional $52.00 per hour or portion
+thereof for on-site work.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.901.3.  EXEMPTION FROM FEES.
+
+
+
+   (Added by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   A.   A property owner/landlord with units exempted from the scope of
+Section 161.301 shall provide the Department, on a form approved by the
+Department, and accompanied by supporting documentation, a written
+declaration stating the facts supporting the claim of exemption from the
+provisions of this chapter.
+
+
+
+ 
+
+
+
+   B.   If the property owner/landlord fails to submit the form(s) and
+information required in Subsection A. of 161.901.3 by the last day of the
+month of January of each year, the involved unit(s) shall be subject to the
+provisions of this chapter and any fines, fees, interest and penalties
+collected may be non-refundable.
+
+
+
+ 
+
+
+
+   C.   If a property owner/landlord declares that a rental unit is
+exempt from this article by the provisions of Section 161.301 because it is
+vacant, the property owner/landlord shall provide the Department with a copy
+of a notice recorded with the County Recorder of the County of Los Angeles
+declaring that the unit is and shall remain vacant, and shall secure the unit
+against unauthorized entry.
+
+
+
+ 
+
+
+
+   D.   If the status of a unit exempted from this article as provided
+in Section 161.301 changes so that the unit is no longer exempt, the property
+owner/landlord shall notify the Department within 45 calendar days of the
+change of status.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.901.4.  NEW PROPERTY OWNER.
+
+
+
+   (Added by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   A.   After a change of ownership of a property subject to the
+provisions of this Chapter, the new property owner/landlord shall notify the
+Department of the ownership change, on a form approved by the Department;
+provide legal documentation verifying the ownership change; furnish the
+Department with an emergency contact, including the contact's name, address
+and phone number; and submit to the Department payment for all current annual
+fees; or timely request an exemption, if applicable.
+
+
+
+ 
+
+
+
+   B.   If a new property owner/landlord fails to submit a written
+declaration and supporting documents as provided in Section 161.901.3 within
+45 calendar days of the date that the sale was recorded with the County
+Recorder of the County of Los Angeles, the unpaid fees will be assessed a
+delinquent penalty for the non-payment.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.902.  ADMINISTRATIVE COSTS.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   The Department’s costs, including preparation, inspections,
+appearances at hearings, the cost of administration and supervision of any
+work required to abate substandard buildings or violations cited in a notice
+and order, and all attendant costs for this code enforcement action shall be
+assessed upon the property owner, at an accrued hourly rate to be set by the
+General Manager if the General Manager determines that the owner has not
+completed the required corrective action for all code violations cited in the
+notice or order within the time period specified in the notice or order or
+any extensions granted.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.903.  PENALTIES FOR NONPAYMENT.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.903.1.
+
+
+
+   (Amended by Ord. No. 181,744, Eff. 7/15/11.)
+
+
+
+ 
+
+
+
+   A late charge equal to two times the fee or cost and a collection fee
+equal to 50 percent of the original fee or cost shall be imposed if any fees
+or costs imposed by this Division are not paid within 30 days of service of
+notice of the imposition of the fee or cost or, if timely appealed pursuant
+to Division 10 of this Article, of any decision on the appeal.  The City
+shall have the right to bring legal action in any court to enforce the order
+and collect the amount of the outstanding fees, late charges and costs.  The
+Department may waive the penalty imposed pursuant to this Article if the
+Department determines that good cause exists for the owner's failure to pay
+in a timely manner.  The Department may make such rules and regulations as
+may be necessary to carry out the provision of this Section.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.903.2.
+
+
+
+   (Amended by Ord. No. 181,744, Eff. 7/15/11.)
+
+
+
+ 
+
+
+
+   An owner who fails to pay the original fee imposed pursuant to Section
+161.352 of this Article shall be deemed delinquent.  The owner shall pay a
+penalty fee equal to two times the original fee per subject rental unit for
+such a delinquency.  The City shall have the right to bring a legal action
+in any court to enforce the order and collect the amount of the outstanding
+fees and penalties.  The Department may waive the penalty imposed pursuant
+to this Article if the Department determines that good cause exists for the
+owner's failure to pay in a timely manner.  The Department may make such
+rules and regulations as may be necessary to carry out the provision of this
+Section.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.903.3.  RENT WITHHOLDING.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.903.3.1.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   A tenant may withhold the payment of any rent otherwise lawfully due
+and owing if any fees imposed pursuant to this article are delinquent.  Once
+the fees have been paid, the tenant becomes obligated to pay the current rent
+and any back rent withheld.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.903.3.2.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   The tenant may assert as an affirmative defense to any unlawful
+detainer action that the landlord has failed to pay required fees pursuant to
+this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.904.  LIEN.
+
+
+
+   (Amended by Ord. No. 175,596, Eff. 12/7/03.)
+
+
+
+ 
+
+
+
+   In addition to any other remedy provided by law, the City may collect
+any judgment, fee, cost, or charge, including any permit fees, fines, late
+charges, or interest, incurred in relation to the provisions of this division
+or Division 3.5 of this article as provided in Los Angeles Administrative
+Code Sections 7.35.1 through 7.35.8.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.905.  CIVIL PENALTIES AND FINES.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Any person or entity violating this article shall be liable for a civil
+fine of up to $1,000 for each day the violation is committed or permitted to
+continue.  The fine shall be assessed and recovered in a civil action
+brought by the City Attorney in any court of competent jurisdiction.  There
+may be no more than one violation per building per day.  The Department
+shall also be entitled to the costs of enforcing this article, pursuant to a
+court order.  Any fine assessed and recovered in an action brought pursuant
+to this paragraph shall be paid to the Department.  The Department shall
+have the authority to pursue any of the remedies, including fines or fees
+authorized by California Health and Safety Code Sections 17980, 17980.6
+through 17981, and 17992, and any other remedies provided by law.  (Amended
+by Ord. No. 175,596, Eff. 12/7/03.)
+
+
+
+ 
+
+
+
+   Any person or entity properly served in the manner set forth in this
+article, with a notice or order by the General Manager declaring a building
+to be a substandard building, or setting forth a violation of this article
+and demanding its correction within a specified period of time, shall be
+presumed, in civil proceedings, to have failed to comply with the notice or
+order if the time for correction has expired without correction of the
+violation.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.906.  CRIMINAL PENALTIES.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   Any person or entity who erects, constructs, enlarges, alters, repairs,
+moves, improves, converts or demolishes, equips, uses, occupies, or maintains
+any building or structure or permits the above to be done, in violation of
+any provision of this article, shall be guilty of a misdemeanor and upon
+conviction thereof, shall be punished by a fine of up to $1,000 or by
+imprisonment not exceeding six months, or by both, and that person shall be
+deemed guilty of a separate offense for every day the violation,
+disobedience, omission, neglect or refusal continues.  Any person who does
+any work in violation of any of the provisions of this article, or any order
+of the General Manager made pursuant to this article , and any person having
+charge of work who permits it to be done, shall be liable for the penalty
+provided.
+
+
+
+ 
+
+
+
+   Any person violating any of the provisions, or failing to comply with
+any of the requirements of this article shall be guilty of a misdemeanor
+except that violations of Sections 161.806, 161.807, 161.903.3, and 161.1201
+shall not constitute a misdemeanor.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.907.  NO FINE OR PENALTY FOR SEEKING PRE-COMPLIANCE REVIEW OF
+INSPECTION NOTICE.
+
+
+
+   (Added by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   No civil or criminal fine, penalty or cost shall be imposed for seeking
+pre-compliance judicial review of an inspection notice.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 10
+APPEALS
+
+
+
+ 
+
+
+
+
+(Division Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.1001   General.
+
+
+
+161.1002   Appeal of Fees and Penalties.
+
+
+
+161.1003   Appeal of Zoning Order.
+
+
+
+161.1004   Appeals to Housing Appeals Board.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.1001.  GENERAL
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Right to Appeal.  An appeal may be filed in accordance with
+this Division by any person or entity aggrieved by:
+
+
+
+ 
+
+
+
+   1.   A fee or penalty imposed under Division 9 of this Article
+except those associated with referral for prosecution; or
+
+
+
+ 
+
+
+
+   2.   An order issued by the General Manager relative to the
+application or enforcement of the Los Angeles Zoning Code as set forth in
+Section 161.403 of this Article; or
+
+
+
+ 
+
+
+
+   3.   A General Manager's decision issued pursuant to Division 8 of
+this Article, other than a referral to the City Attorney or issuance of an
+order to abate; or
+
+
+
+ 
+
+
+
+   4.   Any other General Manager's decision, determination or order
+concerning the maintenance, sanitation, ventilation, use, occupancy or
+habitability of residential rental properties, buildings, units, structures,
+or common areas falling within the scope of this Article.
+
+
+
+ 
+
+
+
+   B.   Rules and Procedures.  The General Manager shall promulgate
+rules and procedures necessary to implement the provisions of this Division.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.1002.  APPEAL OF FEES AND PENALTIES.
+
+
+
+   (Title and Section amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   Any person or entity aggrieved pursuant to Section 161.1001 A.1. of
+this Article concerning a fee or penalty imposed under Division 9 of this
+Article, except those associated with prosecutions, may file an appeal in
+accordance with this Section.
+
+
+
+ 
+
+
+
+   A.   Requirements to File an Appeal.  An appeal filed under this
+Section shall meet the following requirements:
+
+
+
+ 
+
+
+
+   1.   Such appeals shall be made in writing on the form provided by
+the Department.
+
+
+
+ 
+
+
+
+   2.   Such appeals shall be filed with the Department along with
+payment of any required appeal processing fee.
+
+
+
+ 
+
+
+
+   3.   Such appeals shall be filed within 15 calendar days of service
+of the challenged fee or penalty except that, whenever the time for filing
+any appeal falls on a Saturday, Sunday or legal holiday, the time for filing
+the appeal shall be extended to the close of business on the next succeeding
+business day.
+
+
+
+ 
+
+
+
+   4.   Such appeals shall include a copy of the contested fee or
+penalty notice or invoice.
+
+
+
+ 
+
+
+
+   5.   The appellant shall specify the grounds for appeal as to any
+claimed error of law or fact or abuse of discretion.
+
+
+
+ 
+
+
+
+   B.   Burden of Proof.  In any appeal filed under this Section, the
+appellant shall have the burden of proving the basis of the appeal by a
+preponderance of the evidence.
+
+
+
+ 
+
+
+
+   C.   Stay of Enforcement.  The filing of an appeal under this
+Section shall stay enforcement of any disputed fee or penalty.
+
+
+
+ 
+
+
+
+   D.   Decision. Upon timely receipt of an appeal filed pursuant to
+this Section, the Department shall review the appeal and issue a decision
+within 30 calendar days of the filing of the appeal or within such further
+time as may be required.
+
+
+
+ 
+
+
+
+   E.   Final Administrative Decision. The Department's decision issued
+pursuant to this Section shall be the final administrative decision.
+
+
+
+ 
+
+
+
+   F.   Serving of the Decision.  A copy of the appeal decision shall
+be served on the appellant by first class United States mail, postage prepaid
+or by personal service.
+
+
+
+ 
+
+
+
+   G.   Good Cause Extension. In any appeal filed pursuant to this
+Section, the Department may, upon showing of good cause by the appellant,
+extend the time to file an appeal for up to 15 calendar days beyond the end
+of the original appeal period.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.1003.  APPEAL OF ZONING ORDER.
+
+
+
+   (Added by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   Any person or entity aggrieved pursuant to Section 161.1001 A.2. of
+this Article concerning an order issued by the General Manager relative to
+the application or enforcement of the Los Angeles Zoning Code may file an
+appeal in accordance with this Section.
+
+
+
+ 
+
+
+
+   A.   Requirements to File an Appeal.  An appeal filed under this
+Section shall meet the following requirements:
+
+
+
+ 
+
+
+
+   1.   Such appeals shall be made in writing on the form provided by
+the Department.
+
+
+
+ 
+
+
+
+   2.   Such appeals shall be filed with the Department along with
+payment of any required appeal processing fee.
+
+
+
+ 
+
+
+
+   3.   Such appeals shall be filed before the expiration of the
+compliance date specified in the order except that, whenever the time for
+filing any appeal falls on a Saturday, Sunday or legal holiday, the time for
+filing the appeal shall be extended to the close of business on the next
+succeeding business day.
+
+
+
+ 
+
+
+
+   4.   Such appeals shall include a copy of the contested order.
+
+
+
+ 
+
+
+
+   5.   The appellant shall specify the grounds for appeal as to any
+claimed error of law or fact or abuse of discretion.
+
+
+
+ 
+
+
+
+   B.   Burden of Proof.  In any appeal filed under this Section, the
+appellant shall have the burden of proving the basis of the appeal by a
+preponderance of the evidence.
+
+
+
+ 
+
+
+
+   C.   Stay of Enforcement.  The filing of an appeal under this
+Section shall stay enforcement of the challenged order except when the
+violations are found to constitute an imminent danger or hazard to life or
+limb, health or safety.
+
+
+
+ 
+
+
+
+   D.   Decision.  Upon timely receipt of an appeal filed pursuant to
+this Section, the Department shall review the appeal and issue a decision
+within 30 calendar days of the filing of the appeal or within such further
+time as maybe required.
+
+
+
+ 
+
+
+
+   E.   Serving of the Decision.  A copy of the appeal decision shall
+be served on the appellant by first class United States mail, postage prepaid
+or by personal service.
+
+
+
+ 
+
+
+
+   F.   Appeal of Department's Decision.  Any person or entity
+aggrieved by the Department's decision issued pursuant to this Section may
+appeal the Department's decision to the Director of Planning in accordance
+with Section 12.26 K. of this Code.  For the purposes of this Subsection,
+whenever the phrase "Department of Building and Safety" is used in Section
+12.26 K. of this Code, it shall mean Housing and Community Investment
+Department.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.1004.  APPEALS TO HOUSING APPEALS BOARD.
+
+
+
+   (Added by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   A.   Creation.  There is hereby created and established the
+"Housing Appeals Board" ("Appeals Board") consisting of members of the Rent
+Adjustment Commission ("RAC") or any successor commission.  The Appeals
+Board shall have the authority to adopt rules of procedure for conducting
+business.  Copies of all rules of procedure adopted by the Appeals Board
+shall be delivered to the General Manager, who shall make them accessible to
+the public.
+
+
+
+ 
+
+
+
+   B.   Authority of the Appeals Board. The Appeals Board shall have
+the authority to hear and decide appeals concerning:
+
+
+
+ 
+
+
+
+   1.   A General Manager's decision issued pursuant to Division 8 of
+this Article, other than a referral to the City Attorney or issuance of an
+order to abate.
+
+
+
+ 
+
+
+
+   2.   Any other General Manager's decision, determination or order
+concerning the maintenance, sanitation, ventilation, use, occupancy or
+habitability of residential rental properties, buildings, units, structures,
+or common areas falling within the scope of this Article.
+
+
+
+ 
+
+
+
+   3.   A request received pursuant to the California Health and Safety
+Code Section 17959.4.
+
+
+
+ 
+
+
+
+   C.   Requirements to File an Appeal.  An appeal filed under this
+Section shall meet the following requirements:
+
+
+
+ 
+
+
+
+   1.   Such appeals shall be made in writing on the form provided by
+the Department.
+
+
+
+ 
+
+
+
+   2.   Such appeals shall be filed with the Department along with
+payment of the appeal processing fee of $150.00.
+
+
+
+ 
+
+
+
+   3.   For appeals filed pursuant to Section 161.1001 A.3. of this
+Article, such appeals shall be filed within 15 calendar days of service of
+the challenged decision except that, whenever the time for filing any appeal
+falls on a Saturday, Sunday or legal holiday, the time for filing the appeal
+shall be extended to the close of business on the next succeeding business
+day.
+
+
+
+ 
+
+
+
+   4.   For appeals filed pursuant to Section 161.1001 A.4. of this
+Article, such appeals shall be filed before the expiration of the compliance
+date specified in the order or within 15 calendar days of service of the
+challenged decision or determination except that, whenever the time for
+filing any appeal falls on a Saturday, Sunday or legal holiday, the time for
+filing the appeal shall be extended to the close of business on the next
+succeeding business day.
+
+
+
+ 
+
+
+
+   5.   The appellant shall specify the grounds for appeal as to any
+claimed error of law or fact or abuse of discretion.
+
+
+
+ 
+
+
+
+   D.   Burden of Proof.  In any appeal filed under this Section, the
+appellant shall have the burden of proving the basis of the appeal by a
+preponderance of the evidence.
+
+
+
+ 
+
+
+
+   E.   Stay of Enforcement.  The filing of an appeal under this
+Section shall stay enforcement of those portions of the challenged decision,
+determination, or order, except referrals to the City Attorney and Urgent
+Repair Program (Article 15 of Chapter IV of this Code) where violations
+constitute an imminent danger or hazard to life or limb health or safety.
+
+
+
+ 
+
+
+
+   F.   Notice of Hearing.  Upon receipt of a timely appeal, the
+Appeals Board shall set the matter for hearing.
+
+
+
+ 
+
+
+
+   1.   Notice of the hearing date, time, place and purpose shall be
+served at least 15 calendar days before the Appeals Board hearing.
+
+
+
+ 
+
+
+
+   2.   The Notice of hearing shall be served on the appellant,
+property owner/landlord, tenant(s) of affected residential units, General
+Manager, and any interested party who has requested in writing to be so
+notified as follows:
+
+
+
+ 
+
+
+
+   a.   Appellant shall be served by first class United States mail
+postage prepaid, at the address provided on the appeal form.
+
+
+
+ 
+
+
+
+   b.   Property owner/landlord and tenants shall be served in
+accordance with Section 161.409 of this Article as applicable.
+
+
+
+ 
+
+
+
+   c.   General Manager shall be served by delivery to the Office of
+the General Manager.
+
+
+
+ 
+
+
+
+   d.   Interested parties shall be served by first class United States
+mail, postage prepaid, at the address provided by the interested party.
+
+
+
+ 
+
+
+
+   G.   Conduct of Appeals Board Hearing and Scope of Review.
+
+
+
+ 
+
+
+
+   1.   During the hearing, the Department, appellant, property
+owner/landlord, tenant, and any interested person may present oral and
+documentary evidence relevant to a decision on the appeal.
+
+
+
+ 
+
+
+
+   2.   The Appeals Board review shall be limited to those claimed
+errors of law or fact or abuse of discretion set forth in the written appeal.
+
+
+
+ 
+
+
+
+   3.   For appeals of a General Manager's decision issued under
+Division 8 of this Article, the Appeals Board shall not consider evidence
+that was not presented during the General Manager's hearing unless it is
+newly discovered evidence that could not, with due diligence, have been
+discovered and produced at the General Manager's hearing.
+
+
+
+ 
+
+
+
+   4.   For appeals of a General Manager's decision issued under
+Division 8 of this Article, compliance with orders to comply after the
+General Manager's hearing shall not be considered by the Board.
+
+
+
+ 
+
+
+
+   5.   No evidence shall be submitted outside of the hearing.
+
+
+
+ 
+
+
+
+   6.   The Appeals Board shall have no authority relative to
+interpretation of the administrative provisions of this Article and the
+Appeals Board shall not be empowered to waive requirements of this Article.
+
+
+
+ 
+
+
+
+   7.   The decision of the General Manager to refer the property to
+the City Attorney for criminal prosecution is not subject to appeal.
+
+
+
+ 
+
+
+
+   H.   Decision.
+
+
+
+ 
+
+
+
+   1.   The Appeals Board shall issue a written decision within 15
+calendar days of the hearing on appeal.
+
+
+
+ 
+
+
+
+   2.   The Appeals Board may affirm, modify or reverse the appealed
+decision, determination or order of the General Manager upon making written
+findings setting forth specifically any error or abuse of discretion.
+
+
+
+ 
+
+
+
+   3.   The Appeals Board decision shall be served on the appellant,
+property owner/landlord, and tenant in accordance with subsection F. of this
+Section.
+
+
+
+ 
+
+
+
+   4.   If the Appeals Board denies the appeal, any decision,
+determination or order that was appealed shall be effective retroactively to
+the date specified in the original order, decision or determination.
+
+
+
+ 
+
+
+
+   5.   If the Appeals Board's decision orders a rent reduction or
+inclusion into REAP, it shall comply with the notice provisions of Sections
+162.04 and 162.06 of this Code.
+
+
+
+ 
+
+
+
+   6.   If the Board's decision orders relocation assistance, the
+decision shall comply with Section 151.09(G) of this Code.
+
+
+
+ 
+
+
+
+   7.   The Appeals Board decision shall be the final administrative
+decision.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 11
+SUBSTANDARD NOTICES
+
+
+
+ 
+
+
+
+
+(Division Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.1101
+
+
+
+161.1101.1
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.1101.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   If the building or dwelling unit has been declared substandard pursuant
+to California Health and Safety Code Section 17920.3, the Department shall
+post on the building or dwelling unit, in a conspicuous place near the
+entrance, a warning placard or sign informing the occupants of the fact that
+the premises have significant health or safety violations and notice shall be
+provided to each affected residential unit in the manner prescribed by
+Subdivision (a) of California Health and Safety Code Section 17980.6.  The
+notice need not contain the precise wording of this section.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.1101.1.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   If the building or dwelling unit has been declared substandard pursuant
+to California Health and Safety Code Section 17920.3, and after written
+notice of the violation, specifying the applicability of this section, has
+not been brought to a condition of compliance within six months after the
+date of the notice or the time prescribed in the notice, whichever period is
+later, then the Department shall notify the Franchise Tax Board of the
+noncompliance and shall record a copy of the notice with the office of the
+County Recorder following the procedures set forth in California Revenue and
+Taxation Code Section 17274(c).
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+DIVISION 12
+RETALIATION
+
+
+
+ 
+
+
+
+
+(Division Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+161.1201
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 161.1201.
+
+
+
+   (Added by Ord. No. 173,011, Eff. 1/30/00.)
+
+
+
+ 
+
+
+
+   If the dominant intent of a landlord in seeking to recover possession
+of a rental unit is retaliation for the tenant’s or the Department’s
+exercise of rights or duties under this article, and if the tenant is not in
+default as to the payment of rent, then the landlord may not recover
+possession of a rental unit in any action or proceeding or cause the tenant
+to quit voluntarily.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 2
+RENT ESCROW ACCOUNT PROGRAM
+
+
+
+ 
+
+
+
+
+(Article Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+162.00   Title.
+
+
+
+162.01   General.
+
+
+
+162.02   Definitions.
+
+
+
+162.03   Referral to REAP.
+
+
+
+162.04   Acceptance.
+
+
+
+162.05   Rent Reduction.
+
+
+
+162.06   REAP Hearings.
+
+
+
+162.07   Escrow Account.
+
+
+
+162.08   Termination of REAP.
+
+
+
+162.09   Tenant Protections.
+
+
+
+162.10   Contact with Tenants.
+
+
+
+162.11   Recording of REAP Order and Termination of REAP.
+
+
+
+162.12   Collection of REAP Fees.
+
+
+
+162.13   Severability.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.00.  TITLE.
+
+
+
+   (Article and Sec. Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   This article shall be known as the Rent Escrow Account Program of the
+City of Los Angeles.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.01.  GENERAL.
+
+
+
+   (Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   A.   Purpose.  It is the purpose of the provisions of this article
+to provide a just, equitable and practical method, to be cumulative to and in
+addition to any other remedy available at law, to enforce the purposes of the
+Housing Code set forth in Section 161.102, and to encourage compliance by
+property owners/landlords with respect to the maintenance and repair of
+residential buildings, structures, premises and portions of those buildings,
+structures and premises.  (Amended by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   B.   Scope.  The provisions of this article shall apply to all
+residential units in all existing buildings, structures, and premises which
+contain one or more rental units as defined in Sections 151.02 or 161.301.
+
+
+
+ 
+
+
+
+   C.   Notices.  Any notices or written decisions required by this
+article shall be in plain, simple language and need not include the precise
+wording of this article.  Service of notices shall be made in the manner
+prescribed by Section 161.409.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.02.  DEFINITIONS.
+
+
+
+   (Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   The following words and phrases, whenever used in this article, shall
+be construed as defined in this section.  Words and phrases not defined here
+shall be construed as defined in Sections 161.201, 151.02, and 12.03, in that
+order of priority, if defined there.
+
+
+
+ 
+
+
+
+   DEPARTMENT.  Refers to the Los Angeles Housing Department (LAHD);
+Housing and Community Investment Department (HCID); and all other successor
+entities.  (Added by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   ENFORCEMENT AGENCY.  The Department of Health Services of the County
+of Los Angeles, Los Angeles Department of Building and Safety, Los Angeles
+Fire Department, Housing and Community Investment Department, California
+Department of Housing and Community Development, and all their successors,
+and/or any other governmental agency that inspects rental units for the
+purpose of compliance with health, safety and/or housing laws.  (Amended by
+Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   ORDER.  Any order or notice to comply, correct or abate a condition or
+violation issued by an Enforcement Agency.
+
+
+
+ 
+
+
+
+   RAC.  The Rent Adjustment Commission, or its successor.
+
+
+
+ 
+
+
+
+   REAP.  The Rent Escrow Account Program provided in this article,
+including the escrow account and the rent reduction.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.03.  REFERRAL TO REAP.
+
+
+
+   (Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   Any City or County agency or any tenant may refer any building or
+residential unit within the scope of this article to the Department for
+inclusion in REAP if the following conditions are met:
+
+
+
+ 
+
+
+
+   i.   The building or unit is the subject of one or more Orders;
+
+
+
+ 
+
+
+
+   ii.   The period allowed by the Order for compliance, including any
+extensions, has expired without compliance; and
+
+
+
+ 
+
+
+
+   iii.   The violation affects the health or safety of the occupants,
+or, if the unit is subject to the RSO, the violation results in a deprivation
+of housing services, as defined in Section 151.02, or a habitability
+violation, as defined in Section 153.02.
+
+
+
+ 
+
+
+
+   In its referral, the City or County agency shall indicate if the
+violations are of a nature or extent that they are likely to exist in or
+affect units that have not been inspected.  The RAC shall promulgate
+regulations setting forth criteria for determining when that condition exists.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.04.  ACCEPTANCE.
+
+
+
+   (Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   A.   Upon receipt of a referral, the Department shall verify that
+the period allowed for compliance, including any extensions, has expired. 
+If the compliance period has not expired but the conditions set forth in
+Section 162.03 have otherwise been met, the Department shall hold the
+referral for processing until after the period expires.
+
+
+
+ 
+
+
+
+   B.   Upon receipt of a referral, the Department shall also
+investigate whether there are other outstanding Orders against the building
+that also meet the conditions set forth in Section 162.03.
+
+
+
+ 
+
+
+
+   C.   After completing its review, the Department shall accept the
+building or unit into REAP if the conditions set forth in Section 162.03 are
+met.  If there are other Orders that meet the conditions set forth in
+Section 162.03, the Department shall accept any additional units covered by
+those Orders into REAP.  If the other Orders have not yet expired, the
+Department may accept the units effective the date the Orders expire.  If
+the referral by a City or County agency indicates that the violations are of
+a nature or extent that they are likely to exist in or affect all of the
+units, then any rent reduction for those violations shall apply to all
+affected units.
+
+
+
+ 
+
+
+
+   D.   If the Department accepts the building or unit into REAP, it
+shall issue a Decision ("Department's Decision") setting forth:  (Amended by
+Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   1.   The date of the Order that has not been complied with and the
+citing agency;
+
+
+
+ 
+
+
+
+   2.   The outstanding violations;
+
+
+
+ 
+
+
+
+   3.   The units affected by the Department's Decision;
+
+
+
+ 
+
+
+
+   4.   The amount of the rent reduction, following the RAC schedule
+adopted pursuant to Section 162.05.  If the rent reduction calculation
+exceeds the cap set by the RAC schedule, the Department's Decision shall
+describe the calculation and shall state that the rent reduction is limited
+by the schedule;
+
+
+
+ 
+
+
+
+   5.    The date on which the rent reduction will be in effect.  That
+date shall be the date of the General Manager Hearing Officer Decision;
+
+
+
+ 
+
+
+
+   6.    The date on which an escrow account will be established.  The
+Department will not accept payments into the escrow account until the rent
+reduction effective date;
+
+
+
+ 
+
+
+
+   7.   Notice that the Department will collect a non-refundable
+administrative fee of $50.00 per residential unit accepted into REAP per
+month that will be collected in accordance with Section 162.12 and become a
+personal obligation of the property owner/landlord, and that the Department
+may pursue all other remedies provided by law and may collect any judgment,
+fee, cost, or charge, including any permit fees, fines, late charges, or
+interest, incurred in relation to the provisions of this Article as provided
+in Los Angeles Administrative Code Sections 7.35.1 through 7.35.8;
+
+
+
+ 
+
+
+
+   8.   A statement describing the tenant protections set forth in
+Section 162.09; and
+
+
+
+ 
+
+
+
+   9.   The date on which the General Manager's Hearing will be held,
+including a statement that enforcement will be stayed until a final
+administrative decision is issued; that the General Manager Hearing Officer
+Decision will be the final administrative decision unless appealed pursuant
+to Section 162.06 C.; and that additional rent reductions may be imposed at
+the Hearing as set forth in Section 162.06.
+
+
+
+ 
+
+
+
+   E.   The Department's decision shall be served on the property
+owner/landlord by certified United States mail, postage prepaid and shall be
+served on all affected tenants by First Class mail as set forth in Section
+161.409.  (Amended by Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   F.   Upon accepting a unit or building into REAP, the Department
+shall consider whether the building should be referred for a periodic
+inspection pursuant to Section 161.602.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.05.  RENT REDUCTION.
+
+
+
+   (Title and Section Amended by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   A.   Rent Reduction Schedule.  The RAC shall adopt by regulation a
+schedule setting forth the amount by which the rent shall be reduced, taking
+into account the nature of the violation, the severity of the conditions, and
+the history of past untenantable conditions.  The RAC may set a maximum rent
+reduction if necessary to prevent abandonment of the property or exacerbation
+of health and safety violations.  The Department, in accordance with such
+regulations and guidelines as the RAC may establish, shall have the authority
+to grant adjustments in rent.
+
+
+
+ 
+
+
+
+   B.   Effective Date.  The rent reduction effective date shall be
+the date of the General Manager Hearing Officer Decision affirming the
+placement into REAP.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.06.  REAP HEARINGS.
+
+
+
+   (Title and Section Amended by Ord. No. 184,446, Eff. 9/28/16.)
+
+
+
+ 
+
+
+
+   A.   Hearing.
+
+
+
+ 
+
+
+
+   1.   The General Manager's Hearing shall be set and held following
+the procedures set forth in Division 8 of Article 1 of Chapter XVI of this
+Code.  To the extent feasible, the Hearing shall be coordinated with any
+General Manager's Hearing scheduled under Section 161.801, et seq.  The
+Department shall investigate whether there are other outstanding Orders
+against the building(s), structure(s) and/or premises, and, if so, shall
+provide notice of the Hearing to any additional tenants affected by those
+Orders.
+
+
+
+ 
+
+
+
+   2.   Tenants or Enforcement Agencies may present proof that the
+violations specified in the Order, at the time the Order was issued, affected
+additional units that have not been inspected, or that there are additional
+outstanding Orders affecting the same or different units of the building,
+structure and/or premises that were not included in the original Decision of
+the Department.
+
+
+
+ 
+
+
+
+   3.   The property owner/landlord may present proof that a rent
+reduction is not appropriate because the violations were caused by the
+tenants.  The burden shall be on the property owner/landlord to prove that
+the tenants caused the violations.
+
+
+
+ 
+
+
+
+   4.   The property owner/landlord and any tenant or Enforcement
+Agency may present proof that, due to extreme circumstances, acceptance into
+REAP or the rent reduction would jeopardize the health or safety of the
+tenants.  The property owner/landlord has the burden of demonstrating
+unique, extreme circumstances that make any requested relief appropriate. 
+The Department shall scrutinize such a request with particular caution when
+it is not supported by the tenants or the Enforcement Agency.
+
+
+
+ 
+
+
+
+   5.   Before the General Manager's Hearing begins, the property
+owner/landlord shall complete and submit a form provided by the Department
+that sets forth the names and current rents of all of the tenants in units
+subject to REAP.
+
+
+
+ 
+
+
+
+   B.   General Manager Hearing Officer Decision.
+
+
+
+ 
+
+
+
+   1.   The General Manager shall issue a Decision, as set forth in
+Division 8 of Article 1 of Chapter XVI of this Code, within ten working days
+of the hearing.
+
+
+
+ 
+
+
+
+   2.   The General Manager may affirm, modify, or reverse the
+determination of the Department.  The General Manager shall find that each
+of the factors set forth in Section 162.03 exists in affirming the acceptance
+of a building into REAP.  The General Manager may modify or reverse the
+determination of the Department only upon making written findings setting
+forth specifically either:
+
+
+
+ 
+
+
+
+   (i)   that the action of the Department was in error or constituted
+an abuse of discretion, or
+
+
+
+ 
+
+
+
+   (ii)   there is new, relevant information which was not previously
+submitted either at the time of the referral to REAP due to mistake,
+surprise, inadvertence, lack of notice, or excusable neglect, which
+information supports a modification or reversal.
+
+
+
+ 
+
+
+
+   3.   If the property owner/landlord was already in compliance with
+the Order before the date of General Manager's Hearing, the Department's
+Decision shall be reversed.  If the Department's Decision is affirmed in the
+General Manager Hearing Officer Decision, the rent reduction effective date
+shall be the date of the General Manager Hearing Officer Decision. The
+General Manager Hearing Officer Decision shall be the final administrative
+decision unless appealed to the RAC Appeals Board pursuant to Section 162.06
+C.
+
+
+
+ 
+
+
+
+   4.   If during the General Manager's Hearing, a tenant or
+Enforcement Agency presents proof that the violations specified in the Order,
+at the time the Order was issued, affected additional units that had not been
+inspected, or that there are additional outstanding Orders affecting the
+building, structure and/or premises that were not included in the original
+Decision of the Department, the General Manager may order further rent
+reductions or include additional units in REAP.
+
+
+
+ 
+
+
+
+   Prior to determining that additional units not included in the original
+Decision of the Department pursuant to Section 162.04 D. will be subject to
+inclusion in REAP or rent reductions, the General Manager shall, if requested
+by the property owner/landlord, continue the hearing as to the additional
+units in order to provide an opportunity to be heard.  The General Manager
+may issue a decision as to the rental units included in the original Decision
+of the Department prior to the continued hearing date or may wait and issue
+one General Manager Hearing Officer Decision covering all of the units.  The
+effective date of rent reductions as to units included in the original
+Decision of the Department is identified in Sections 162.04 D.5. and 162.05
+B.  If the hearing is continued, the effective date of rent reductions as to
+additional units not included in the original Decision of the Department,
+will be the date of the General Manager Hearing Officer Decision issued after
+the hearing.
+
+
+
+ 
+
+
+
+   5.   If the General Manager finds that the violations are of such a
+nature or extent that they are likely to be found in or affect several units,
+the General Manager may order the rent reduction extended to additional units
+that were not included in the original Decision of the Department without
+proof of an outstanding Order for those units.  The General Manager Hearing
+Officer Decision shall state the findings justifying extending the rent
+reduction to additional units.
+
+
+
+ 
+
+
+
+   Prior to determining that additional units not included in the original
+Decision of the Department pursuant to Section 162.04 D. will be subject rent
+reduction, the General Manager shall, if requested by the property
+owner/landlord, continue the hearing as to the additional units in order to
+provide an opportunity to be heard.  The General Manager may issue a
+Decision as to the rental units included in the original Decision of the
+Department prior to the continued hearing date or may wait and issue one
+General Manager Decision covering all of the units.
+
+
+
+ 
+
+
+
+   6.   The General Manager may refer the building, unit or structure
+for a periodic inspection pursuant to Section 161.602.  If the building has
+already had a periodic inspection within the past three years, the General
+Manager may order the property owner/landlord to pay an inspection fee
+pursuant to Section 161.901.2.  (Amended by Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   7.   Under extraordinary circumstances, the Department may delay,
+reduce, stay or deny the rent reduction or escrow account, notwithstanding
+that the conditions set forth in Section 162.03 have been met, when to do
+otherwise would jeopardize the health or safety of the tenants or would
+violate the constitutional rights of any person.  The mere reduction of
+income available to make repairs shall not constitute extraordinary
+circumstances.  If the Department grants that relief, the General Manager
+Hearing Officer Decision shall state in detail the circumstances supporting
+the relief.
+
+
+
+ 
+
+
+
+   8.   If the General Manager Hearing Officer Decision is to affirm
+the placement of the property into REAP, the property owner/landlord shall
+attend a REAP workshop provided by the Department within six months of the
+issuance of the Decision.  There shall be no fee assessed to attend this
+workshop.
+
+
+
+ 
+
+
+
+   C.   Appeal of General Manager Hearing Officer Decision.  The
+property owner/landlord, any tenant, or the Enforcement Agency may appeal to
+the RAC Appeals Board following the procedures set forth in Division 10 of
+Article 1 of Chapter XVI.  If a General Manager Hearing Officer Decision to
+place a property into REAP is appealed, enforcement of REAP will be stayed
+until the appeal is final.  An application fee required pursuant to Section
+161.1004 C.2. of this Code may be waived by the Department in accordance with
+the standards and procedures set forth in Section 151.14 C.  (Amended by
+Ord. No. 185,644, Eff. 7/6/18.)
+
+
+
+ 
+
+
+
+   If the appeal is denied, the rent reduction shall be applied
+retroactively to the date of the General Manager Hearing Officer Decision
+pursuant to Section 162.06 B.3.
+
+
+
+ 
+
+
+
+   If the General Manager Hearing Officer Decision imposed additional rent
+reductions that were not included in the original acceptance into REAP, and
+if the violations on which those reductions were based have not been
+corrected by the time the appeal was filed, then the rent reduction(s) shall
+be applied retroactively to the date of the General Manager Hearing Officer
+Decision pursuant to Section 162.06 B.3.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.07.  ESCROW ACCOUNT.
+
+
+
+   (Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   A.   Establishment of Account.
+
+
+
+ 
+
+
+
+   1.   Within five business days after the decision accepting a
+building into REAP has become final, the Department shall establish as part
+of the REAP Trust Fund an account for the building into which tenants may
+deposit rent payments.  The Department shall mail notification to all
+affected tenants of the existence of the escrow account, including an
+explanation of how payments may be deposited into the account and when the
+Department will begin to accept payments.  The Department shall provide a
+receipt to each tenant making a deposit.  The Department shall provide, at
+least once a month, a periodic report to the property owner/landlord
+concerning the activity in the escrow account.  The records of the escrow
+account shall be made reasonably available to the property owner/landlord or
+any interested party, or their representatives, in accordance with the RAC
+Regulations, including the provision for payment of reasonable fees, as the
+RAC may promulgate.  (Amended by Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   2.   Interest at a rate established by the Rent Adjustment
+Commission pursuant to the provisions of Paragraph a. of Subdivision 1. of
+Subsection B. of Section 151.06.02 of the Los Angeles Municipal Code shall
+accrue to the funds held in each account established by the Department
+pursuant to the provisions of Subdivision 1. of this Section, and shall be
+disbursed upon termination of the account in accordance with Subsection D. of
+Section 162.08.  (Added by Ord. No. 177,119, Eff. 12/26/05.)
+
+
+
+ 
+
+
+
+   B.   Withdrawals from Escrow Account.
+
+
+
+ 
+
+
+
+   1.   The Department shall deduct a non-refundable administrative fee
+of $50.00 for each individual rent payment made into the account.  Only one
+such fee shall be deducted for each residential unit for each month.
+
+
+
+ 
+
+
+
+   2.   A property owner/landlord, any tenant, any Enforcement Agency,
+any interested party, and any creditor may apply to the General Manager for a
+release of funds from the escrow account, in accordance with the regulations
+the RAC shall enact.  Withdrawals may be for the following reasons, in
+addition to other reasons adopted by regulation:  (Amended by Ord. No.
+184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   a.   When necessary to prevent a significant diminution of an
+essential service to the building, including utilities;
+
+
+
+ 
+
+
+
+   b.   When necessary for the correction of deficiencies, including
+but not limited to those that caused the acceptance into REAP;
+
+
+
+ 
+
+
+
+   c.   When, to the extent legally permissible, requested by a tenant
+who has performed or wishes to repair conditions that affect the tenant’s
+health and safety, that result in a deprivation of housing services, as
+defined in Section 151.02, or that result in a habitability violation, as
+defined in Section 153.02. Those repairs are not limited to the repair of
+violations that caused the acceptance into REAP;
+
+
+
+ 
+
+
+
+   d.   When requested by a tenant who wishes to or has relocated from
+the unit or building.  These withdrawals are not limited to the amount of
+relocation assistance permitted by the RSO;
+
+
+
+ 
+
+
+
+   e.   When requested by a tenant who has sustained expenses due to
+uninhabitable conditions; or
+
+
+
+ 
+
+
+
+   f.   When ordered by a court.
+
+
+
+ 
+
+
+
+   3.   Upon receipt of an application for release of funds, the
+General Manager shall hold a hearing following the procedures set forth in
+Division 8 of Article 1 of Chapter XVI of this Code.  The General Manager
+shall order the release of funds from the escrow account where it has been
+demonstrated to the satisfaction of the General Manager that the conditions
+set forth in paragraph 2 above, or other conditions enacted by regulation,
+have been met.  When necessary to address an imminent threat to the health
+or safety of the occupants, or to prevent the termination of utilities, the
+General Manager may release funds without a hearing or on shortened notice. 
+The RAC shall promulgate regulations governing expedited releases.  Any
+aggrieved party may appeal the General Manager’s decision to the Appeals
+Board following the procedures set forth in Division 10 of Article 1 of
+Chapter XVI of this Code.  An application fee required pursuant to the
+provisions of Section 161.1002.2 may be waived by the Department in
+accordance with the standards and procedures set forth in the provisions of
+Section 151.14 C.  (Last Sentence Added by Ord. No. 177,634, Eff. 7/22/06.)
+
+
+
+ 
+
+
+
+   4.   If a building is in more than one escrow program of the
+Department (including REAP, UMP, URP or HEP) or if there are insufficient
+funds to address one or more requests for release of funds, the disbursement
+of funds in excess of the $50.00 administrative fee to make repairs and/or
+address the health and safety of the occupants, and/or to preserve essential
+services, shall be given priority over expenditures for other purposes. 
+(Amended by Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   5.   The pendency of an unlawful detainer action or an unlawful
+detainer judgement shall not prevent the disbursement of funds to a tenant.
+The General Manager shall take into account the facts and circumstances of
+the unlawful detainer action.
+
+
+
+ 
+
+
+
+   6.   The General Manager shall deny the application where it
+determines that the application is intended, in whole or in part, to
+circumvent the provisions of this article.  A debt incurred subsequent to
+notice to a creditor that the building was under consideration for or had
+been selected for participation in REAP, shall be presumed, subject to
+rebuttal, to be for the purpose of circumventing the provisions of this
+article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.08.  TERMINATION OF REAP.
+
+
+
+   (Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   A.   After receiving notice that all orders have been complied with
+and all violations have been corrected, including but not limited to those
+that caused the placement into REAP and any subsequent orders or violations,
+the Department may recommend to the City Council the termination of the rent
+reductions if it finds:
+
+
+
+ 
+
+
+
+   1.   All orders affecting the units and the common areas have been
+signed off by the appropriate Enforcement Agency; and
+
+
+
+ 
+
+
+
+   2.   There are no other outstanding Orders affecting the units or
+common areas of the building as set forth in Section 162.03 iii.
+
+
+
+ 
+
+
+
+   B.   The Department may review an application from a property
+owner/landlord to terminate the rent reduction for certain units,
+notwithstanding the continuation of violations affecting other units, if the
+conditions set forth in Subsection A. are met for those units.  The property
+owner/landlord may only submit one application for each property.  The
+Department shall review any application and recommend termination only if it
+finds that only minor violations remain in the other units.  (Amended by
+Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   C.   The Department may recommend termination of the escrow account
+if, in addition to the findings in Subsection A or B, it finds that any
+outstanding and non-appealable electric service and/or water charges
+pertaining to the property have been paid to the satisfaction of the
+Department of Water and Power of the City of Los Angeles.
+
+
+
+ 
+
+
+
+   D.   If the City Council terminates the escrow account, any funds in
+that account shall be paid in the following order:  (Amended by Ord. No.
+184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   1.   Any administrative fees authorized in Sections 162.07 B.1. and
+162.12 that have not yet been collected.  Before funds in the escrow account
+are paid for administrative fees, the Department shall process all
+applications for release of funds from the escrow account as described in
+Section 162.07 B.2.
+
+
+
+ 
+
+
+
+   2.   Any outstanding fees, fines and penalties imposed pursuant to
+Article 1 of Chapter XVI of this Code.
+
+
+
+ 
+
+
+
+   3.   Any outstanding rent registration fees or fines in an RSO
+building and any penalties pertaining thereto pursuant to Sections 151.05 and
+151.15.
+
+
+
+ 
+
+
+
+   4.   If applicable, pursuant to Section 161.901.2, prepayment of two
+annual inspection fees, beyond the initial inspection and re-inspection fee
+set forth in the Systematic Code Enforcement Program and Section 161.352, to
+the Department for each property that was included in REAP.
+
+
+
+ 
+
+
+
+   If there are insufficient funds in the escrow account to pay the
+outstanding fees, fines and penalties in this Subsection, the property
+owner/landlord at the time City Council removes the property from REAP shall
+be responsible for payment of these fees, fines, and penalties.  The
+Department may follow City guidelines for collections of any outstanding
+fees, fines and/or penalties.
+
+
+
+ 
+
+
+
+   Any escrow funds remaining after the expenditures as provided herein,
+and upon City Council removing the Property from REAP, shall be returned to
+the property owner who owned the property at the time the City Council
+authorizes the termination of the escrow account.  The Department shall
+refund any remaining escrow account balance to the property owner recorded
+with the Los Angeles County Recorder's Office.
+
+
+
+ 
+
+
+
+   E.   As a condition of terminating the escrow account, the City
+Council may order an expedited systematic inspection pursuant to Section
+161.805(6) and impose inspection fees, administrative costs and interest
+pursuant to Sections 161.901.1 through 161.903.1.  The City Council may also
+condition termination of the escrow account on payment of those fees or any
+other unpaid fees under Subsection D.  (Amended by Ord. No. 184,446, Eff.
+9/26/16.)
+
+
+
+ 
+
+
+
+   F.   If the City Council terminates the rent reduction, the rent
+will be restored to the original level 30 days after the Department mails the
+tenants notice of the restoration.
+
+
+
+ 
+
+
+
+   G.   Monitoring Program.  The City Council by resolution may
+release a building from REAP with the condition that the property
+owner/landlord prepay for two annual inspection as provided in Subsection D.
+herein for the purposes of monitoring the property.  (Amended by Ord. No.
+184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.09.  TENANT PROTECTIONS.
+
+
+
+   (Amended by Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   A.   Evictions.
+
+
+
+ 
+
+
+
+   1.   The gross amount of payment made into the escrow account by or
+on behalf of a tenant shall be deemed as a payment in the same amount to the
+property owner/landlord, including, but not limited to, for the purpose of
+determining whether a tenant has paid rent as provided in Section 151.09 A.1.
+of this Code and/or state law.  In any action by a property owner/landlord
+to recover possession of a residential unit, the tenant may raise the fact of
+payments into a REAP escrow account as an affirmative defense in the same
+manner as if the payments had been made to and accepted by the property
+owner/landlord.
+
+
+
+ 
+
+
+
+   2.   While a unit is in REAP, before bringing an action to recover
+possession on the basis of nonpayment of rent, the property owner/landlord
+shall have a duty to verify in writing with the Department that the tenant
+has not paid his or her rent to a Department escrow account.  The Department
+shall respond within three business days to any request for verification. 
+The property owner/landlord shall not bring an action to recover possession
+on the basis of nonpayment of rent without making this inquiry or if the
+tenant or the Department presents proof that the tenant has paid the rent
+demanded to the Department.  The violation of this section shall not be a
+misdemeanor.
+
+
+
+ 
+
+
+
+   3.   Regardless whether the unit is covered by the RSO, until the
+unit is removed from REAP and for 180 days thereafter, or until expiration of
+the period called for under Section 161.806, if applicable, whichever is
+later, the property owner/landlord may bring an action to recover possession
+of the unit only upon the grounds set forth in Section 151.09 A.
+
+
+
+ 
+
+
+
+   4.   If the intent of a property owner/landlord in seeking to
+recover possession of a rental unit is retaliation against a tenant or
+Enforcement Agency's exercise of rights and/or duties under this Article, and
+if the tenant is not in default as to the payment of rent, then the property
+owner/landlord may not recover possession of a rental unit in any action or
+proceeding or cause the tenant to quit voluntarily.  Until the unit is
+removed from REAP and for one year thereafter, the property owner/landlord
+shall have the burden of proving that any action to recover possession, other
+than one based on nonpayment of rent, is not brought for the purposes of
+retaliation.
+
+
+
+ 
+
+
+
+   5.   In any action by a property owner/landlord to recover
+possession of a rental unit, the tenant may raise as a defense any grounds
+set forth in this Section.  If the tenant is the prevailing party, he or she
+shall be entitled to recover reasonable attorneys' fees and expenses.
+
+
+
+ 
+
+
+
+   B.   Rent Increases.
+
+
+
+ 
+
+
+
+   1.   Until the unit is removed from REAP and for one year
+thereafter, or until expiration of the period called for under Section
+161.807, if applicable, whichever is later, the landlord or any subsequent
+landlord shall not increase the rent for any current or subsequent tenant
+except as provided by the Costa Hawkins Rental Housing Act, Civil Code
+Section 1954.50, et. seq., and/or applicable state law.
+
+
+
+ 
+
+
+
+   2.   If the unit is covered by Chapter XV of the Los Angeles
+Municipal Code (Rent Stabilization Ordinance), no rent increase shall be
+allowed pursuant to Section 151.07 for reimbursement of costs for any
+corrections necessary to comply with the Order that resulted in the placement
+into REAP or any additional Orders issued while in REAP.
+
+
+
+ 
+
+
+
+   C.   Civil Actions.  Any property owner/landlord who violates any
+of the provisions of this section or who retaliates against a tenant or an
+Enforcement Agency for the exercise of rights and/or duties under this
+article shall be liable in a civil action for damages and a penalty of $1,000
+per violation, together with reasonable attorneys' fees and expenses.  Any
+judgment awarded in such an action may be collected from the escrow account
+upon application as set forth in Section 162.07 B.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.10.  CONTACT WITH TENANTS.
+
+
+
+   (Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   The Department may contact the tenants of any property before or after
+placement into REAP.  This contact may be in person or by mail or by both,
+and the Department may contract with other persons or organizations to carry
+out this activity.  During this contact, the tenants shall be informed of
+the principal provisions of REAP, of the mechanism for payment into the
+escrow account by tenants of untenantable residential units where the
+building is accepted into REAP, and of their legal rights with respect to
+eviction and rent increases under the provisions of this article and the RSO.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.11.  RECORDING OF REAP ORDER AND TERMINATION OF REAP.
+
+
+
+   (Added by Ord. No. 173,810, Eff. 4/16/01.)
+
+
+
+ 
+
+
+
+   After the decision accepting the building into REAP becomes final, the
+Department shall file and record with the County Recorder of the County of
+Los Angeles a certificate legally describing the real property and stating
+that the subject building has been placed into REAP and that the owner of the
+building has been so notified.  After the building has been removed from
+REAP, the Department shall file and record with the County Recorder a
+certificate terminating the above-recorded status of the subject building. 
+The Department may, by regulation, provide for the reimbursement to the
+Department from the escrow trust account for the fees and costs incurred.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.12.  COLLECTION OF REAP FEES.
+
+
+
+   (Added by Ord. No. 175,890, Eff. 5/12/04.)
+
+
+
+ 
+
+
+
+   The Department shall collect a non-refundable administrative fee of
+$50.00 per residential unit accepted into REAP per month.  Upon acceptance
+into REAP, owners shall be notified of the information contained in this
+Section.
+
+
+
+ 
+
+
+
+   A.   REAP Administrative Fees:  For each individual rent payment
+made into the escrow account, the administrative fee of $50.00 per unit per
+month shall be collected from the escrow account in accordance with Section
+162.07 B.1.  For units in which the tenant has not made individual rent
+payments into the escrow account, the administrative fee of $50.00 per unit
+shall be billed to the property owner/landlord by the Department.  If
+administrative fees are unpaid, they may be collected from the escrow
+account.  (Amended by Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   B.   Collection of Fees:  For units in which the $50.00
+administrative fee has not been paid, the fee may be collected from the
+escrow account in accordance with Section 162.08 D.  (Amended by Ord. No.
+184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   C.   Collection Remedies:  All fees and costs incurred pursuant to
+Section 162.12 shall be a personal obligation against the property
+owner/landlord that owned the property on the date that City Council removes
+the property from REAP, recoverable by the City in an action before any court
+of competent jurisdiction.  In addition to the personal obligation and all
+other remedies provided by law, the City may collect any judgment, fee cost,
+penalty, or charge, including any permit fees, fines, late charges, or
+interest, incurred in relation to the provisions of this Section 162.12 as
+provided in Los Angeles Administrative Code Sections 7.35.1 through 7.35.8. 
+(Amended by Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   D.   Delinquent Fees and Late Fines:  Fees are due per unit, for
+each month, including partial months, that the unit remains in REAP and is
+inhabited.  Fees not paid by the owner within 60 days from the last day of
+each month that fees are due are deemed delinquent. A late fine may be
+imposed on delinquent fees equal to 100 percent of the amount due, if the
+owner is notified in accordance with Subsection E.  Interest may also be
+charged where an owner fails to pay the fee or late fine, if the owner is
+notified in accordance with Subsection E.  Interest shall be calculated at
+the rate of one percent per month, or fraction thereof, on the amount of the
+fee and late fine imposed, from the date the fee became delinquent until the
+date of payment. 
+
+
+
+ 
+
+
+
+   E.   Notice of Late Fine:  If the Department determines pursuant to
+Subsection D that late fines and interest are due, then it shall notify the
+owner by United States mail in a sealed envelope, with postage paid,
+addressed to the last known address of the owner as that address appears in
+the last equalized assessment roll.  The Department may also take reasonable
+steps to determine the address of the current owner.  The notice of late
+fine shall state the amount of the fee due and that:
+
+
+
+ 
+
+
+
+
+"if the fee is not remitted to the Department within 30 days after the date
+of mailing of this notice, the Department shall assess a late fine equal to
+100 percent of the fee due.  Any person who fails to pay the assessed fee
+and late fine shall also pay interest.  Interest shall be calculated at the
+rate of one percent per month, or fraction of a month, on the amount of the
+fee and late fine, from the 30th day after the date of mailing of this notice
+until the date of payment.  All costs incurred pursuant to LAMC Section
+162.12 shall be a personal obligation against the owner of the property,
+recoverable by the City in an action before any court of competent
+jurisdiction.  In addition to the personal obligation and all other remedies
+provided by law, the City may collect any judgment, fee, cost, or charge,
+including any permit fees, fines, late charges, or interest, incurred in
+relation to the provisions of LAMC Section 162.12 as provided in Los Angeles
+Administrative Code Sections 7.35.1 through 7.35.8."
+
+
+
+
+ 
+
+
+
+Service of the notice of late fine shall be deemed to have been completed at
+the time of deposit with the United States Postal Service.  The owner shall
+remit the fee to the Department within 30 days after the date of mailing the
+notice of the fee.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 162.13.  SEVERABILITY.
+
+
+
+   (Added by Ord. No. 184,446, Eff. 9/26/16.)
+
+
+
+ 
+
+
+
+   If any provision of this ordinance is found to be unconstitutional or
+otherwise invalid by any court of competent jurisdiction, that invalidity
+shall not affect the remaining provisions of this ordinance, which can be
+implemented without the invalid provisions, and to that end, the provisions
+of this ordinance are declared to be severable.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 3
+TENANT RELOCATION ASSISTANCE PROGRAM
+
+
+
+ 
+
+
+
+
+(Article Added by Ord. No. 175,156, Eff. 4/17/03.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+ 
+
+
+
+163.00   Title.
+
+
+
+163.01   Definitions.
+
+
+
+163.02   Eligibility for Relocation Benefits.
+
+
+
+163.03   Responsibilities of Enforcement Agency.
+
+
+
+163.04   When Relocation Benefits Are Required to be Paid.
+
+
+
+163.05   Amount of Relocation Benefits.
+
+
+
+163.06   Enforcement.
+
+
+
+163.07   Payment of Relocation Benefits by the City.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.00.  TITLE.
+
+
+
+ 
+
+
+
+   This article shall be known as the Tenant Relocation Assistance Program
+of the City of Los Angeles.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.01.  DEFINITIONS.
+
+
+
+ 
+
+
+
+   The following words and phrases, whenever used in this article, shall
+be construed as defined in this section unless the context within individual
+sections clearly indicates otherwise.  Words and phrases not defined here
+shall be construed as defined in Sections 12.03, 57.202, 91.201et seq.,
+91.8902, 151.02 and 161.201.
+
+
+
+ 
+
+
+
+   A.   Appeals Board.  The Board of Fire Commissioners, the Board of
+Building and Safety Commissioners or the Rent Adjustment Commission,
+depending on which Enforcement Agency issued the order to vacate.
+
+
+
+ 
+
+
+
+   B.   Board of Fire Commissioner. The Appeals Board for the Fire
+Department.
+
+
+
+ 
+
+
+
+   C.   Building and Safety Commission.  The Board of Building and
+Safety Commissioners.  The Appeals Board for the Department of Building and
+Safety.
+
+
+
+ 
+
+
+
+   D.   Enforcement Agency.  The Departments of Building and Safety,
+Fire, or Housing of the City of Los Angeles.
+
+
+
+ 
+
+
+
+   E.   General Manager.  The Superintendent of Building and the
+General Manager of the Department of Building and Safety or his or her
+designee, the General Manager of the Housing and Community Investment
+Department or his or her designee, and/or the Chief of the Fire Department or
+his or her designee. (Amended by Ord. No. 182,718, Eff. 10/30/13.)
+
+
+
+ 
+
+
+
+   F.   Landlord.  An owner, lessor, or sublessor, (including any
+person firm, corporation, partnership, or other entity) of residential rental
+property, or their designated agent, representative or successor.  (Amended
+by Ord. No. 184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+   G.    Order To Vacate.  Any order or notice to vacate issued by an
+Enforcement Agency or by a court of law, requiring the vacation of a
+residential unit as a result of a violation so extensive and of such a nature
+that the immediate health and safety of the residents is endangered. 
+(Amended by Ord. No. 184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+   H.   Qualified Tenant.  Any tenant who has attained age 62; is
+handicapped as defined in California Health and Safety Code Section 50072 or
+is disabled as defined in United States Code Title 42, Sec. 423; or is a
+person residing with and on whom is legally dependent (as determined for
+federal income tax persons) one or more minor children.
+
+
+
+ 
+
+
+
+   I.   The Rent Adjustment Commission (RAC). The Rent Adjustment
+Commission, or its successor.  The Appeals Board for the Housing and
+Community Investment Department.  (Amended by Ord. No. 182,718, Eff.
+10/30/13.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.02.  ELIGIBILITY FOR RELOCATION BENEFITS.
+
+
+
+ 
+
+
+
+   A.   Any tenant who is displaced or subject to displacement from a
+residential rental unit as result of an order to vacate or any order
+requiring the vacation of the residential unit by the Enforcement Agency due
+to a violation so extensive and of such a nature that the immediate health
+and safety of the residents is endangered, shall be entitled to relocation
+benefits payable by the landlord in the amounts prescribed in Section
+163.05.  The Enforcement Agency shall determine the eligibility of tenants
+for benefits paid pursuant to this article.  (Amended by Ord. No. 184,336,
+Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+   B.   No relocation benefits pursuant to this article shall be
+payable to any tenant who has caused or substantially contributed to the
+condition giving rise to the order to vacate, as determined by the
+Enforcement Agency, nor shall any relocation benefits be payable to a tenant
+if any guest or invitee of the tenant has caused or substantially contributed
+to the condition giving rise to the order to vacate, as determined by the
+Enforcement Agency.  The Enforcement Agency shall make the determination
+whether a tenant, tenant’s guest, or invitee caused or substantially
+contributed to the condition giving rise to the order to vacate at the same
+time that the order to vacate the tenants is made.
+
+
+
+ 
+
+
+
+   C.   A landlord shall not be liable for relocation benefits if the
+Enforcement Agency determines that the unit or structure became unsafe or
+hazardous as the result of a fire, flood, earthquake, or other event beyond
+the control of the landlord and the landlord did not cause or contribute to
+the condition.
+
+
+
+ 
+
+
+
+   D.   In the situations described in Subsections B. and C. of this
+section, the tenants of units within a multi-unit structure who did not cause
+or substantially contribute to the uninhabitable condition shall be eligible
+for relocation benefits from the City if the City elects at its discretion to
+pay relocation benefits, based on the recommendation from the Enforcement
+Agency.  (Amended by Ord. No. 184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.03.  RESPONSIBILITIES OF ENFORCEMENT AGENCY.
+
+
+
+ 
+
+
+
+   A.   Unless the Enforcement Agency determines that the tenants are
+not eligible for relocation benefits pursuant to the provisions of Section
+163.02 above, the Enforcement Agency shall issue an order requiring the
+landlord to pay relocation benefits in the amounts specified in Section
+163.05.  The order shall direct that relocation assistance be paid in the
+time set forth in Section 163.04, and the Enforcement Agency shall provide
+notice of the order to the landlord and the tenants in the manner set forth
+in that section.  If possible, the order to pay relocation benefits shall be
+made simultaneously with the issuance of the order to vacate.  When ordering
+the landlord to pay the relocation benefits, the Enforcement Agency shall
+adhere to the procedures set forth in Section 163.04.
+
+
+
+ 
+
+
+
+   B.   Any order to vacate issued by an Enforcement Agency shall be
+accompanied by a summary of the provisions of California Health and Safety
+Code Section 17975 et seq.  Failure to provide a summary shall not relieve
+any person of the obligations imposed by this article.  (Amended by Ord. No.
+184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+   C.   Any order to pay relocation assistance shall advise the
+landlord of the appeals process by which the landlord may challenge the
+determination of the Enforcement Agency.
+
+
+
+ 
+
+
+
+   D.   Where the landlord fails, neglects, or refuses to comply with
+an order to pay relocation benefits, the City, acting through the General
+Manager of the Enforcement Agency, may advance relocation benefits to
+displaced tenants and recover the advanced amount, penalties and costs from
+the landlord.  If the total amount of relocation benefits advanced pursuant
+to Section 163.05 exceeds $100,000 per property, the General Manager must
+obtain the concurrence of the Mayor and City Council before advancing
+benefits to displaced tenants.  (Sentence Amended by Ord. No. 182,768, Eff.
+12/13/13.)  The landlord shall be liable to the City of Los Angeles for
+reimbursement of the relocation benefits plus a penalty in the amount of
+one-half of the benefits paid, not to exceed $10,000, and the costs of the
+Enforcement Agency as set forth in California Health and Safety Code Section
+17975 et seq.  (Sentence Amended by Ord. No. 181,744, Eff. 7/15/11.)  The
+City may collect the reimbursement, penalties and costs in the manner set
+forth in that section, including the imposition of a lien on the property.
+
+
+
+ 
+
+
+
+   E.   The General Manager of the Enforcement Agency is empowered and
+designated to hear and adjudicate any appeal brought by a landlord from an
+order requiring payment of relocation benefits.  The Enforcement Agency's
+Appeals Board is empowered and designated to hear and adjudicate any appeal
+from the General Manager's decision.  The General Manager and the
+Enforcement Agency's Appeals Board shall adhere to the requirements of
+California Health and Safety Code Section 17975 et seq.  (Amended by Ord.
+No. 184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.04.  WHEN RELOCATION BENEFITS ARE REQUIRED TO BE PAID.
+
+
+
+ 
+
+
+
+   A.   The relocation benefits required by this article shall be paid
+by the landlord to the tenant within ten days after the date that the order
+to vacate is first mailed to the landlord and posted on the premises, or at
+least 20 days prior to the vacation date set forth in the order to vacate,
+whichever occurs later.  (Amended by Ord. No. 184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+   B.   If there are fewer than ten days between the first posting and
+mailing of the order to vacate and the vacation date, the relocation benefits
+shall be paid by the landlord to the tenant within 24 hours after the notice
+is posted and mailed.  The Enforcement Agency shall attempt to provide
+either telephonic or written notice to the landlord to notify the landlord
+that the benefits are payable immediately.  Failure to provide notice as
+specified in this section shall not relieve the landlord of any obligations
+imposed by this article.  (Amended by Ord. No. 184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+   C.   If a tenant is entitled to relocation benefits pursuant to
+Section 163.02 above, the Enforcement Agency shall provide either telephonic
+or written notice to the tenant of his or her entitlement to the benefits. 
+Written notice may be satisfied by posting a written notice on the premises
+stating that tenants may be entitled to relocation benefits.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.05.  AMOUNT OF RELOCATION BENEFITS.
+
+
+
+   (Amended by Ord. No. 184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+   The relocation payment shall be made available by the landlord to the
+tenant in each residential unit and shall be in the amounts set forth in
+Section 151.09 G. of this Code, or in an amount equal to the sum of two
+months of the established fair market rent for the Los Angeles/Long Beach
+area as determined by the Department of Housing and Urban Development
+pursuant to Section 1437(f) of Title 42 of the United States Code, whichever
+amount is greater.
+
+
+
+ 
+
+
+
+   Beginning on July 1, 2005, the relocation amount for qualified and all
+other tenants shall be adjusted on an annual basis pursuant to the formula
+set forth in Section 151.06 D.  The adjusted amount shall be rounded to the
+nearest fifty-dollar increment.  If the relocation payment is based on the
+established fair market rent for the Los Angeles/Long Beach area as
+determined by the Department of Housing and Urban Development pursuant to
+Section 1437(f) of Title 42 of the United States Code, then the relocation
+payment shall also include an amount, as determined by the Enforcement
+Agency, sufficient for utility service deposits.  The relocation benefits
+shall be paid by the landlord in addition to the return, as required by law,
+of any security deposits held by the landlord.  The relocation benefits
+shall be made on a per residential unit basis.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.06.  ENFORCEMENT.
+
+
+
+ 
+
+
+
+   A.   If the landlord fails, neglects or refuses to make timely
+payments to a tenant pursuant to an order to pay relocation benefits, except
+in the situations described in Sections 163.02 B. or 163.02 C., and if the
+tenant does not receive relocation payments from the City, the landlord shall
+be liable to the tenant in a civil action for an amount equal to one and
+one-half times the relocation benefits payable pursuant to Section 163.05. 
+The tenant shall also be entitled to recover reasonable attorneys’ fees and
+costs as determined by a court.
+
+
+
+ 
+
+
+
+   B.   Subsection A. of this section shall not apply when relocation
+benefits are payable fewer than ten days after the date the order to vacate
+is first mailed and posted on the premises, if the landlord makes the payment
+no later than ten days after the order is first mailed and posted.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.07.  PAYMENT OF RELOCATION BENEFITS BY THE CITY.
+
+
+
+   (Amended by Ord. No. 184,336, Eff. 7/19/16.)
+
+
+
+ 
+
+
+
+   A.   If the landlord fails, neglects or refuses to pay relocation
+payments to a tenant displaced or subject to displacement pursuant to an
+order to vacate except in the situations described in Section 163.02 B. or
+163.02 C. above, the City may advance relocation payments to the tenants in
+the amount set forth in Section 163.05 above.
+
+
+
+ 
+
+
+
+   B.   If the landlord fails to comply with an order to pay relocation
+assistance, the landlord shall be liable to the City for any relocation
+payments advanced, other than any payments made pursuant to Section 163.02
+D., in the amount of the payments plus a penalty in the amount set forth in
+California Health and Safety Code Section 17975.5(a).  The Enforcement
+Agency may place a lien against the property as set forth in California
+Health and Safety Code Section 17975.5(b).
+
+
+
+ 
+
+
+
+   C.   Prior to instituting any action to collect from the landlord or
+to impose a lien on the property, the Enforcement Agency shall send an
+accounting to the landlord as set forth in California Health and Safety Code
+Section 17975.  The landlord may contest the accounting within 20 days after
+receipt by filing a written request for a General Manager's hearing. 
+However, if there are fewer than ten days between the first posting and
+mailing of the order to vacate and the vacation date, and if the City
+advances relocation benefits to any tenants prior to the expiration of the
+ten-day period, the landlord shall have 30 days to file a written request
+contesting the charge after the itemized accounting is mailed.
+
+
+
+ 
+
+
+
+   D.   If the request is filed within the time set forth in Subsection
+163.07 C. above, the General Manager shall hold a hearing following the
+procedures for the Enforcement Agency.  Any person aggrieved by the decision
+of the General Manager may appeal to the Appeals Board following the
+procedures for that Enforcement Agency.  If the landlord fails to obtain a
+more favorable decision than that set forth in the itemized accounting, he or
+she shall be liable to the City for the costs of the administrative hearing
+and appeal, not to exceed $5,000.  If the accounting is not appealed as set
+forth in this paragraph, it is final and is subject to California Code of
+Civil Procedure Section 1094.5.  The failure to receive the itemized
+accounting shall not relieve the landlord of any obligation to the City.
+
+
+
+ 
+
+
+
+   E.   Nothing this in article shall be construed to require the
+Enforcement Agency to pay any relocation benefits to any tenant, or assume
+any obligation, requirements or duty of the landlord pursuant to this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 163.08.  URGENCY CLAUSE.
+
+
+
+   (Repealed by Ord. No. 175,980, Eff. 7/3/04.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 4
+FORECLOSURE REGISTRY PROGRAM
+
+
+
+ 
+
+
+
+
+(Article Amended in Entirety by Ord. No. 183,281, Eff. 12/20/14.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+164.00   Title.
+
+
+
+164.01   Purpose and Intent
+
+
+
+164.02   Definitions.
+
+
+
+164.03   Recordation of Transfer of Loan and/or Deed of Trust and/or
+Assignment of Rents.
+
+
+
+164.04   Registration of Properties in Foreclosure.
+
+
+
+164.05   Special Provisions Where Property Is Encumbered with  the
+Security Interests of Multiple Beneficiaries.
+
+
+
+164.06   Inspection Requirements.
+
+
+
+164.07   Maintenance of Properties and Enforcement of Property Maintenance
+Requirements.
+
+
+
+164.08   Utilities.
+
+
+
+164.09   Violations and Penalties.
+
+
+
+164.10   Severability.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.00.  TITLE.
+
+
+
+ 
+
+
+
+   This article shall be known as the City of Los Angeles Foreclosure
+Registry Program.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.01.  PURPOSE AND INTENT.
+
+
+
+ 
+
+
+
+   The purpose of this article is to promote the health, safety and
+welfare of the residents, workers, visitors and property owners of the City
+of Los Angeles, as well as protect the economic stability, viability and
+livability of neighborhoods in the City by requiring the registration and
+monitoring of defaulted and foreclosed residential properties. This
+Foreclosure Registry Program will also protect the public from health and
+safety hazards while reducing further compromise of neighboring property
+values resulting from the neglect and deterioration of real property.
+
+
+
+ 
+
+
+
+   It is the intent of the Los Angeles City Council, through the adoption
+of this article, to maintain a residential property registration program as a
+mechanism to protect residential neighborhoods from becoming blighted through
+the lack of adequate maintenance and security of residential properties. The
+Council further intends, through adoption of this article, to provide for the
+proactive inspection of foreclosed residential properties to assist in
+neighborhood stabilization efforts, because such properties have an increased
+potential to become blighted.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.02.  DEFINITIONS.
+
+
+
+ 
+
+
+
+   The following words and phrases, whenever used in this article, shall
+be construed as defined in this section unless the context within an
+individual section clearly indicates otherwise. Words and phrases not defined
+here shall be construed as defined in Sections 12.03, 12.20.3, 91.8901, et
+seq., and 98.0702, et seq., of this Code.
+
+
+
+ 
+
+
+
+   A.   "Abandoned" means any building, structure or real property that
+is vacant or occupied by a person or persons without a legal right of
+occupancy.
+
+
+
+ 
+
+
+
+   B.   "Assignment of rents" means an instrument that transfers the
+beneficial interest under a deed of trust from one lender/entity to another.
+
+
+
+ 
+
+
+
+   C.   "Beneficiary" means a lender or other person or entity holding,
+owning, participating in, or otherwise having an interest in the proceeds of
+a loan represented by a note secured by a deed of trust.
+
+
+
+ 
+
+
+
+   D.   "Days" means consecutive calendar days.
+
+
+
+ 
+
+
+
+   E.   "Deed in lieu of foreclosure and/or sale" means a recorded
+document that transfers ownership of a property from the trustor to the
+holder of a deed of trust upon consent of the beneficiary of the deed of
+trust, without completion of a foreclosure proceeding.
+
+
+
+ 
+
+
+
+   F.   "Deed of trust" means an instrument by which title to real
+estate is transferred to a third party trustee as security for a real estate
+loan. This definition applies to all deeds of trust regardless of priority.
+
+
+
+ 
+
+
+
+   G.   "Default" means the failure to fulfill a contractual
+obligation, monetary or nonmonetary.
+
+
+
+ 
+
+
+
+   H.   "Evidence of occupancy" means any condition that on its own or
+combined with other conditions would lead a reasonable person to believe that
+the property is legally occupied. Such conditions include, but are not
+limited to, secured/locked structures; active utility services; the absence
+of overgrown and/or dead vegetation; the absence of an accumulation of
+newspapers, circulars, flyers and/or mail; the presence of window coverings
+such as curtains, blinds, and/or shutters; the presence of furnishings and/or
+personal items consistent with residential habitation; statements by
+neighbors, delivery agents or government employees that the property is
+legally occupied; or actual contact with occupants.
+
+
+
+ 
+
+
+
+   I.   "Evidence of vacancy" means any condition that on its own or
+combined with other conditions would lead a reasonable person to believe that
+the property is vacant. Such conditions include, but are not limited to,
+overgrown and/or dead vegetation; accumulation of newspapers, circulars,
+flyers and/or mail; past due utility notices and/or disconnected utilities;
+accumulation of trash, junk, and/or debris; the absence of window coverings
+such as curtains, blinds, and/or shutters; the absence of furnishings and/or
+personal items consistent with residential habitation; and statements by
+neighbors, delivery agents or government employees that the property is
+vacant.
+
+
+
+ 
+
+
+
+   J.   "Foreclosed" or "foreclosed property" means a property that was
+the subject of a foreclosure sale where the title was transferred to the
+beneficiary or the trustee of a deed of trust involved in the foreclosure or
+transferred under a deed in lieu of foreclosure or sale, and for which the
+trustee's deed upon sale or deed in lieu of foreclosure has been recorded.
+
+
+
+ 
+
+
+
+   K.   "Foreclosure" means the process by which a property, placed as
+security for a real estate loan, is sold to satisfy the debt of the
+defaulting trustor, including a transfer by deed in lieu of foreclosure
+and/or sale.
+
+
+
+ 
+
+
+
+   L.   "Inspection" means a physical investigation by a beneficiary
+and/or trustee at a property to obtain evidence of occupancy or vacancy, to
+assess the physical condition of the property and to verify compliance with
+this article and any other applicable code or law.
+
+
+
+ 
+
+
+
+   M.   "Local" means within 100 road/driving miles distance of the
+subject property.
+
+
+
+ 
+
+
+
+   N.   "Notice of default" means a recorded notice that a default has
+occurred under a deed of trust.
+
+
+
+ 
+
+
+
+   O.   "Occupied" means the lawful habitation of the property by
+trustor or tenants.
+
+
+
+ 
+
+
+
+   P.   "Out of area" means in excess of 100 road/driving miles
+distance of the subject property.
+
+
+
+ 
+
+
+
+   Q.   "Property" means any unimproved or improved residential real
+property, or portion thereof, situated in the City of Los Angeles, including
+the buildings, structures or other improvements located on the property
+regardless of condition.
+
+
+
+ 
+
+
+
+   R.   "Property in foreclosure" means any property upon which a
+notice of default has been issued by a lender, mortgagee or beneficiary of
+any deed of trust.
+
+
+
+ 
+
+
+
+   S.   "Trustee" means the person, firm, entity or corporation holding
+a deed of trust on a property.
+
+
+
+ 
+
+
+
+   T.   "Trustor" means a borrower under a deed of trust, who deeds
+property to a trustee as security for the payment of a debt.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.03.  RECORDATION OF TRANSFER OF LOAN AND/OR DEED OF TRUST AND/OR
+ASSIGNMENT OF RENTS.
+
+
+
+ 
+
+
+
+   Within 10 days of the purchase and/or transfer of a loan and/or deed of
+trust secured by property the new beneficiary and/or trustee shall record,
+with the Los Angeles County Recorder's Office, an assignment of rents, or
+similar document, that lists the name of the corporation and/or individual,
+the mailing address and contact phone number of the new beneficiary and/or
+trustee responsible for receiving payments associated with the loan and/or
+deed of trust.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.04.  REGISTRATION OF PROPERTIES IN FORECLOSURE.
+
+
+
+ 
+
+
+
+   A.   Properties Subject to Registration Requirements.
+
+
+
+ 
+
+
+
+   1.   Any beneficiary or trustee who holds or has an interest in a
+deed of trust on a property in foreclosure located within the City of Los
+Angeles ("City") shall register the property in foreclosure with the Housing
+and Community Investment Department ("HCID") within 30 days of the issuance
+of a notice of default.
+
+
+
+ 
+
+
+
+   2.   The registration requirements of this article also apply to
+properties that have been the subject of a foreclosure sale where the title
+was transferred to the beneficiary or the trustee of a deed of trust involved
+in the foreclosure or transferred under a deed in lieu of foreclosure/sale.
+
+
+
+ 
+
+
+
+   Registration shall be renewed annually until the property is no longer
+subject to this article.
+
+
+
+ 
+
+
+
+   B.   Registration Methods. Registration in satisfaction of this
+article shall be with HCID pursuant to the rules, regulations and methodology
+it promulgates to carry out the provisions of this article. Registration
+shall only be deemed complete once the information and registration fees
+required under this article have been received by HCID.
+
+
+
+ 
+
+
+
+   C.   Required Registration Information.
+
+
+
+ 
+
+
+
+   1.   Registrants under this article shall provide HCID with contact
+information, including name, street address and direct telephone number for
+the beneficiary and/or trustee. Post office boxes do not constitute an
+acceptable address.
+
+
+
+ 
+
+
+
+   2.   The beneficiary and/or trustee must be empowered to promptly:
+(1) comply with code enforcement orders issued by the City and other
+enforcement entities; (2) provide a trespass authorization upon request of
+local law enforcement authorities; (3) conduct inspections of the property in
+foreclosure; and (4) accept rental payments from tenants of the property if
+no management company is otherwise employed for such purpose.
+
+
+
+ 
+
+
+
+   3.   If the beneficiary and/or trustee is located out of area,
+registrants under this article shall also provide the contact information,
+including street address and phone number for the staff of the local property
+management or property preservation company responsible for the security,
+maintenance, inspection and marketing of the property.
+
+
+
+ 
+
+
+
+   4.   The registration required by this section shall also include:
+the name of the beneficiary and/or trustee (corporation or individual); the
+direct street and/or office mailing address of the beneficiary and/or
+trustee; a direct contact name and phone number for the beneficiary and/or
+trustee; and, in the case of a corporation or out of area beneficiary and/or
+trustee, the local property management company responsible for the security,
+maintenance, inspection and marketing of the property. Post office boxes do
+not constitute an acceptable address.
+
+
+
+ 
+
+
+
+   D.   Change of Property Status and/or Information; De-Registering.
+
+
+
+ 
+
+
+
+   1.   Any person, firm or corporation that has registered a property
+under this article must report any change of status or information contained
+in the registration to HCID within 10 calendar days of the change. This
+includes, but is not limited to, a change in the property servicer or
+management, change in occupancy status and bank owned status, or any change
+affecting the ownership or condition of the property.
+
+
+
+ 
+
+
+
+   2.   The beneficiary and/or trustee are required to de-register the
+property within 10 calendar days after the property is no longer subject to
+the registry, as a result of notice of default being cancelled or the
+property being sold to a third party.
+
+
+
+ 
+
+
+
+   3.   It is the obligation of the beneficiary and/or trustee to
+inform the City of any pending action, such as bankruptcy or other court or
+administrative action, that would prohibit the beneficiary and/or trustee
+from taking any of the actions required in this article.
+
+
+
+ 
+
+
+
+   4.   If a property is found to be vacant and has already been
+registered, the beneficiary and/or trustee shall change the status of the
+property to vacant on the City's registration.
+
+
+
+ 
+
+
+
+   5.   All vacant properties subject to this article shall have
+recorded against the property with the county recorder a declaration stating
+that the property is and shall remain vacant, and shall provide that the
+property has been secured against unauthorized entry.
+
+
+
+ 
+
+
+
+   E.   Annual Registration Fee.
+
+
+
+ 
+
+
+
+   1.   A non-refundable annual registration fee in the amount of $155
+shall be paid to HCID at the time of registration.
+
+
+
+ 
+
+
+
+   2.   The fee and registration shall be valid for the calendar year,
+or remaining portion of the calendar year, in which the registration was
+initially required. Registration fees will not be prorated.
+
+
+
+ 
+
+
+
+   3.   Subsequent annual registrations and fees are due January 1st of
+each year and must be received no later than January 31st of the year due.
+
+
+
+ 
+
+
+
+   4.   Registration fees collected by HCID pursuant to this article
+shall be deposited into the Foreclosure Registry Program Fund established by
+Article 28 of Chapter 5 of Division 5 of the Los Angeles Administrative Code.
+
+
+
+ 
+
+
+
+   5.   The City Council may adjust the amount of the annual
+registration fee. Such adjustments must be supported by a fee study.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.05.  SPECIAL PROVISIONS WHERE PROPERTY IS ENCUMBERED WITH THE
+SECURITY INTERESTS OF MULTIPLE BENEFICIARIES.
+
+
+
+ 
+
+
+
+   In the event that a property is encumbered by the security interests of
+more than one beneficiary at the time when a notice of default is recorded,
+the beneficiary who first causes a notice of default for its security
+interest to be recorded shall be responsible for registering the property
+with the City as required by this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.06.  INSPECTION REQUIREMENTS.
+
+
+
+ 
+
+
+
+   A.   Inspection by Beneficiary or Trustee.
+
+
+
+ 
+
+
+
+   1.   Any beneficiary and/or trustee who holds a deed of trust on a
+property in foreclosure shall perform an inspection of the property that is
+the security for the deed of trust, upon default by the trustor, prior to
+recording a notice of default with the Los Angeles County Recorder's Office.
+
+
+
+ 
+
+
+
+   2.   A property with a recorded notice of default shall be inspected
+by the beneficiary and/or trustee monthly until the trustor or other party
+remedies the default, or until the foreclosure process is complete. The
+beneficiary and/or trustee shall provide monthly reports to HCID that record
+the date of the monthly inspection and the condition of the property as
+observed during that inspection.
+
+
+
+ 
+
+
+
+   3.   Once the foreclosure process is complete, if the beneficiary or
+trustee takes title to the property, the beneficiary or trustee shall
+continue to inspect the property monthly and provide monthly reports to HCID
+recording the date of the monthly inspection and the condition of the
+property as observed during that inspection.
+
+
+
+ 
+
+
+
+   4.   Failure to satisfy the inspection and reporting requirements of
+this section shall result in the imposition of penalties under Section 164.09
+of this article.
+
+
+
+ 
+
+
+
+   B.   Inspection by the Los Angeles Department of Building and Safety.
+
+
+
+ 
+
+
+
+   1.   The Department of Building and Safety shall inspect the
+exterior of all foreclosed single-family residential properties and vacant
+multi-family properties that are registered pursuant to this article. For
+purposes of this subsection and only as applicable to the Los Angeles
+Department of Building and Safety, "inspection" means a physical
+investigation to verify that the property is free from graffiti, debris,
+rubbish, garbage, trash, overgrown vegetation or other similar material, and
+is being maintained in a clean and sanitary condition.
+
+
+
+ 
+
+
+
+   2.   When a registered single-family residential property's status
+changes to foreclosed, the beneficiary or trustee who acquired the property
+shall pay a proactive inspection fee in the amount of $356. Failure to pay
+the inspection fee at the time the property's status is changed to reflect
+foreclosed on the registry, or at the time a foreclosed property is
+registered if it was not registered upon default, will result in penalties
+pursuant to Section 164.09 of this article.
+
+
+
+ 
+
+
+
+   C.   Inspection by the Los Angeles Housing and Community Investment
+Department. The Housing and Community Investment Department shall inspect all
+foreclosed occupied multi-family residential properties that are registered
+pursuant to this article. The Department's inspection shall be conducted
+consistent with and pursuant to the standards and procedures provided in
+Article 1 of Chapter XVI of this Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.07.  MAINTENANCE OF PROPERTIES AND ENFORCEMENT OF PROPERTY
+MAINTENANCE REQUIREMENTS.
+
+
+
+ 
+
+
+
+   A.   Properties shall be maintained by the beneficiary and/or
+trustee in accordance with the standards set forth in Section 91.8104.
+
+
+
+ 
+
+
+
+   B.   The provisions of Article 1, Division 89 (Section 91.8901, et
+seq.) and all requirements described therein shall apply to properties
+subject to this article. Should a property be deemed a nuisance, hazardous,
+or substandard by the City, the abatement procedures described in Article 1,
+Division 89 may be initiated against beneficiary and/or trustee by the City.
+
+
+
+ 
+
+
+
+   C.   If a property subject to this article is found to be a vacant
+structure, as defined in Section 98.0702 of this Code, the provisions of
+Article 8, Division 7 (Section 98.0701, et seq.), and all maintenance and
+security requirements described therein, shall apply. Enforcement by the Los
+Angeles Department of Building and Safety shall be pursuant to the provisions
+of Article 8, Division 7.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.08.  UTILITIES.
+
+
+
+ 
+
+
+
+   The beneficiary and/or trustee shall ensure that utility services to
+the property are not terminated if the property is lawfully occupied.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.09.  VIOLATIONS AND PENALTIES.
+
+
+
+ 
+
+
+
+   A.   Violations of this article shall be treated as a strict
+liability offense regardless of intent. Any person, firm and/or corporation
+that violates any portion of this article shall be subject to prosecution
+and/or administrative enforcement under the Los Angeles Municipal Code.
+
+
+
+ 
+
+
+
+   B.   A beneficiary and/or trustee who has failed to comply with the
+registration requirements of this article, including the payment of any fees
+and satisfaction of inspection and reporting requirements, will be notified
+by HCID in writing of such delinquency by letter deposited in the United
+States mail in a sealed envelope, postage prepaid, and addressed to such
+person to be notified at the address listed on the notice of default recorded
+with the Los Angeles County Recorder's Office.
+
+
+
+ 
+
+
+
+   C.   A beneficiary and/or trustee who fails to comply with all
+registry registration requirements of this article, including the payment of
+any fees and satisfaction of inspection and reporting requirements, within 30
+days of HCID's notification, shall be assessed a penalty in the amount of
+$250 per day for each day subsequent to such notification until the
+deficiency is cured.
+
+
+
+ 
+
+
+
+   D.   If the beneficiary and/or trustee fail to pay any fee or
+penalty imposed under this article, HCID may transmit any claim for unpaid
+fees to the appropriate City department for collection and/or appropriate
+legal recourse.
+
+
+
+ 
+
+
+
+   E.   Administrative penalties imposed pursuant to this ordinance
+shall not exceed $100,000 per property.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 164.10.  SEVERABILITY.
+
+
+
+ 
+
+
+
+   If any provision, section, paragraph, sentence or word of this article
+be determined or declared invalid by any final court action in a court of
+competent jurisdiction or by reason of any preemptive legislation, the
+remaining provisions, sections, paragraphs, sentences or words of this
+article shall remain in full force and effect.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+

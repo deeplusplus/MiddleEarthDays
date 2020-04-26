@@ -1,0 +1,2220 @@
+
+Los Angeles Municipal Code
+
+
+CHAPTER XIII
+THE EMERGENCY ENERGY CURTAILMENT PLAN OF THE CITY OF LOS ANGELES
+
+
+
+ 
+
+
+
+
+(Amended in Entirety by Ord. No. 155,396, Eff. 6/16/81.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+   Article
+
+
+
+ 
+
+
+
+
+   I   General Provisions
+
+
+
+
+
+
+
+
+
+
+   II   Emergency Energy Curtailment Plan
+
+
+
+
+
+
+
+
+
+
+   III   Emergency Capacity Curtailment Plan
+
+
+
+
+
+
+
+
+
+
+   IV   Failure to Comply
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE I
+GENERAL PROVISIONS
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+131.00   Scope.
+
+
+
+131.01   Declaration of Purpose.
+
+
+
+131.02   Definitions.
+
+
+
+131.03   Authorizations.
+
+
+
+131.04   Application.
+
+
+
+131.05   Authority of the Mayor to Implement this Chapter.
+
+
+
+131.06   Resolution of Conflicting Provisions.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 131.00.  SCOPE.
+
+
+
+ 
+
+
+
+   There is hereby established a City of Los Angeles Emergency Energy
+Curtailment Plan and a City of Los Angeles Emergency Capacity Curtailment
+Plan.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 131.01.  DECLARATION OF PURPOSE.
+
+
+
+ 
+
+
+
+   The purpose of this chapter is to provide an energy curtailment plan
+and a capacity curtailment plan to minimize the effect of a possible shortage
+of electrical energy or capacity on customers of the Department and to adopt
+provisions that will significantly reduce the consumption of electricity over
+an extended or peak period of time, thereby maximizing the available fuel and
+reducing power system loading while minimizing the hardship on the City and
+the general public.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 131.02.  DEFINITIONS.
+
+
+
+ 
+
+
+
+   The following words and phrases, whenever used in this chapter, shall
+be construed as defined in this section unless from the context a different
+meaning is intended or unless a different meaning is specifically defined
+within individual sections of this chapter:
+
+
+
+ 
+
+
+
+   a.   “City” means The City of Los Angeles.
+
+
+
+ 
+
+
+
+   b.   “Mayor” means the Mayor of The City of Los Angeles.
+
+
+
+ 
+
+
+
+   c.   “City Council” means the Council of The City of Los Angeles.
+
+
+
+ 
+
+
+
+   d.   “Board” means the Board of Water and Power Commissioners.
+
+
+
+ 
+
+
+
+   e.   “Citizens Advisory Committee” and “Committee” mean the
+advisory committee appointed by the City Council and Mayor and described in
+Section 134.10 of this ordinance.
+
+
+
+ 
+
+
+
+   f.   “Department” means the Department of Water and Power of the
+City of Los Angeles unless some other department of the City is expressly
+described.
+
+
+
+ 
+
+
+
+   g.   “General Manager” means the General Manager of the
+Department of Water and Power of the City of Los Angeles. (Amended by Ord.
+No. 173,307, Eff. 6/30/00, Oper. 7/1/00.)
+
+
+
+ 
+
+
+
+   h.   “Section” means a section of this chapter.
+
+
+
+ 
+
+
+
+   i.   “Customer” includes every person, firm, corporation, state
+or local governmental agency, or public district using or receiving
+electricity from the Department.
+
+
+
+ 
+
+
+
+   j.   “Chapter” means the ordinance providing for “The
+Emergency Energy and Capacity Curtailment Plan of The City of Los Angeles.”
+
+
+
+ 
+
+
+
+   k.   “Officer” means every person designated in Section 200 of
+the Los Angeles City Charter as being an officer of The City of Los Angeles.
+(Amended by Ord. No. 173,307, Eff. 6/30/00, Oper. 7/1/00.)
+
+
+
+ 
+
+
+
+   l.   “Base Period” means that period of time over which the base
+is computed.
+
+
+
+ 
+
+
+
+   m.   “Base” means the amount of electrical energy used on a
+customer’s premises for corresponding billing periods ending within twelve
+(12) months prior to the implementation date of this ordinance.
+
+
+
+ 
+
+
+
+   n.   “Peak Demand Hours” means those hours of each day when
+customer demand for electricity approaches and may exceed the Department’s
+total electrical generating capability, and shall be established pursuant to
+Section 131.06 of this chapter.
+
+
+
+ 
+
+
+
+   o.   “Street Lighting” means every electric lamp erected or
+suspended on or over a freeway, highway, street, sidewalk or parkway, whether
+publicly or privately owned and which is open to public access at any time,
+and is used in the lighting thereof, or any wire or other apparatus
+immediately attached to such lamp.  Utilitarian street lighting in
+residential areas shall not be deemed street lighting within the meaning of
+this chapter.
+
+
+
+ 
+
+
+
+   p.   “Recreational or cultural activity” means an activity to
+which the public generally is admitted for the purpose of participating in or
+witnessing an exhibition, including but not limited to, sporting events,
+plays, concerts, amusement parks and similar enterprises. “Noncommercial
+recreational or cultural activities” means those recreational or cultural
+activities such as playgrounds or school and college athletics from which no
+profit is derived or expected to be derived for any or all of the persons
+engaged in each such activity. “Commercial recreational or cultural
+activities” means all other recreational or cultural activities.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 131.03.  AUTHORIZATIONS.
+
+
+
+ 
+
+
+
+   The various officers, boards, departments, bureaus and agencies of the
+City are hereby authorized to immediately implement the provisions of this
+chapter upon a declaration by the Mayor as provided in Section 131.05.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 131.04.  APPLICATION.
+
+
+
+ 
+
+
+
+   The provisions of this chapter shall apply to all customers of the
+Department, to all property situated within the limits of the City, and to
+all property and facilities owned, maintained, operated or under the
+jurisdiction of the various officers, boards, departments, bureaus or
+agencies of the City.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 131.05.  AUTHORITY OF THE MAYOR TO IMPLEMENT THIS CHAPTER.
+
+
+
+ 
+
+
+
+   The Mayor is hereby granted the authority to order the implementation
+of the provisions of this chapter at such times as the General Manager
+determines that the Department’s fuel or capacity situation is, or appears
+that it may soon become, critical. Said order shall be made in writing and
+shall identify the applicable provisions and/or phases of the provisions of
+this chapter which are to be implemented and shall state with specificity the
+peak demand hours of the day during which the capacity curtailment provisions
+of Article III shall be in effect.
+
+
+
+ 
+
+
+
+   The Mayor shall have the discretionary authority to waive the monetary
+penalty provisions set forth in Section 134.02 and, if so waived, shall state
+such waiver in order implementing this chapter.
+
+
+
+ 
+
+
+
+   At such time as the General Manager determines the Department’s fuel
+or capacity situation is no longer critical or likely to become critical, he
+shall so notify the office of the Mayor who may order that the applicable
+provisions and/or phases of the provisions of this chapter, whichever may be
+in effect at the time of said order, shall no longer be in effect until
+further order is made in a like manner.
+
+
+
+ 
+
+
+
+   The Mayor may also order implementation of the provisions of this
+chapter at such times as the Governor of the State declares there is to be a
+state of emergency caused by a severe energy or capacity shortage pursuant to
+the California Emergency Services Act.
+
+
+
+ 
+
+
+
+   At such time as any provision of this chapter may be ordered to provide
+capacity, energy or both to another electric utility, the General Manager
+shall provide the Mayor with a written estimate of the cost to be incurred by
+the Department as the consequence of the Mayor’s order and a description of
+the method by which these costs will be recovered, whether by money,
+capacity, energy or a combination thereof.
+
+
+
+ 
+
+
+
+   This section shall not be construed as prohibiting the Department, in
+its sound discretion, from responding to an emergency call for assistance by
+another electric utility within normal operating procedures.
+
+
+
+ 
+
+
+
+   The City Council may, by a majority vote, ratify any order made by the
+Mayor in implementing this chapter or may, by a two-thirds vote, rescind any
+such order, or part thereof.
+
+
+
+ 
+
+
+
+   All orders made pursuant to this chapter shall be by public
+proclamation, and shall be published one (1) time in a daily newspaper of
+general circulation.  All such orders shall become effective immediately
+upon such publication or upon personal notice to the customer, whichever
+first occurs.  Upon the suspension of Phase II provisions as herein
+provided, the provisions of Phase I shall likewise be immediately suspended
+unless specifically reinstated in the order.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 131.06.  RESOLUTION OF CONFLICTING PROVISIONS.
+
+
+
+ 
+
+
+
+   At any time that the provisions of Article II of this chapter (the
+Emergency Energy Curtailment Plan) and the provisions of Article III of this
+chapter (the Emergency Capacity Curtailment Plan) are simultaneously
+implemented, those provisions of Article III which require a greater
+reduction in the consumption of electricity or capacity shall supercede
+conflicting provisions of Article II during the peak demand hours.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE II
+EMERGENCY ENERGY CURTAILMENT PLAN
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+132.01   Phase I.
+
+
+
+132.02   Phase II.
+
+
+
+132.03   Application of Surplus Reduction.
+
+
+
+132.04   Minimal Levels of Required Reduction.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 132.01.  PHASE I.
+
+
+
+ 
+
+
+
+   Effective upon declaration of the Mayor as provided in Section 131.05,
+no customer shall make, cause or permit any use of electricity provided by
+the Department in a manner which is contrary to the provisions of Subsections
+a through i of this section.
+
+
+
+ 
+
+
+
+   a.   Street Light Reduction.
+
+
+
+ 
+
+
+
+   (i)   Electricity Supplied to City Agencies.  The Director of the
+Bureau of Street Lighting of the Department of Public Works shall maintain a
+Council-approved plan which, upon implementation, will produce a twenty-five
+percent (25%) reduction in energy used for street lighting.
+
+
+
+ 
+
+
+
+   (ii)   Electricity supplied to agencies of the County of Los Angeles
+and State of California.  The appropriate agencies of the County of Los
+Angeles and State of California are hereby requested to maintain a plan
+which, upon implementation, will produce a twenty-five percent (25%)
+reduction in energy used for street lighting.
+
+
+
+ 
+
+
+
+   b.   Prohibited Use of Outdoor Advertising and Decorative Lighting.
+
+
+
+ 
+
+
+
+   (i)   No customer shall at any time make, cause or permit any use of
+electricity supplied by the Department to: light billboards or signs;
+advertise goods or services; identify the providers of goods or services;
+display goods, objects or designs symbolic of commercial enterprises,
+trademarks, or logo; operate motors or devices to rotate or move advertising
+signs; operate pumps or other devices in fountains which are primarily
+decorative; operate building floodlighting, architectural or decorative
+lighting, lights used for landscaping; or for any other purpose of those
+listed above.
+
+
+
+ 
+
+
+
+   (ii)   Exception.  Notwithstanding the provisions of Subsection (i)
+hereof, each business establishment may operate its window and display
+lighting and may illuminate one outdoor sign between the hours of sunset and
+10:30 p.m. local time or one-half (1/2) hour after closing, whichever is the
+later in time.
+
+
+
+ 
+
+
+
+   c.   Prohibited Use of Functional Outdoor Lighting.  No customer
+shall make, cause or permit any use of electricity from the Department for
+the floodlighting of outdoor business areas including, but not limited to,
+service stations, used car lots, new car lots, automobile parking lots, or
+similar businesses when not open for business.  After sunset, when such
+businesses are open, the use of electrical energy for such purposes shall not
+exceed fifty percent (50%) of the energy used during the base period.
+
+
+
+ 
+
+
+
+   d.   Comfort Heating and Cooling.
+
+
+
+ 
+
+
+
+   (i)   No customer shall make, cause or permit the use of electricity
+from the Department for the purpose of comfort space heating or cooling in
+any commercial or industrial establishment when such premises are not open
+for business.  During business hours, no electricity shall be used in such
+establishments to provide heat to raise the temperature therein above 65 F
+nor to provide cooling to reduce the temperature therein below 85 F except
+where other temperatures are specifically required by law.
+
+
+
+ 
+
+
+
+   (ii)   Exception.  Comfort space heating or cooling systems may be
+operated contrary to the requirement of this subsection if it is demonstrated
+to the satisfaction of the Department prior to such operation that to do so
+will thereby result in a lower total energy consumption.
+
+
+
+ 
+
+
+
+   e.   Prohibition of Electrical Use for Outdoor Public Exhibitions:
+
+
+
+ 
+
+
+
+   (i)   Commercial Recreational or Cultural Activities.  No customer
+shall make, cause or permit the use of electricity from the Department for
+commercial recreational or cultural activities in excess of seventy-five
+percent (75%) of the amount used by that customer in the base period for the
+same or similar activities.
+
+
+
+ 
+
+
+
+   (ii)   Non-Commercial Recreational or Cultural Activities.  No
+customer shall make, cause or permit the use of electricity from the
+Department for non-commercial recreational or cultural activities between the
+hours of 9:00 p.m. and sunrise, local time, on facilities other than those
+which are publicly owned.
+
+
+
+ 
+
+
+
+   (iii)   Exceptions.  The foregoing prohibitions on the use of
+electricity for outdoor public exhibitions shall not apply to drive-in
+theaters or to religious, educational and political assemblies, nor any
+recreational or cultural activity otherwise protected under the First
+Amendment to the Constitution of the United States.
+
+
+
+ 
+
+
+
+   f.   Prohibited Indoor Business Lighting.  The use of electricity
+is prohibited for window displays and for lighting the interior of any
+business establishment during that period of time that said establishment is
+not carrying on the usual and customary activities of that business,
+provided, however, that a business establishment may provide sufficient
+illumination to carry out ordinary and customary maintenance and janitorial
+services.
+
+
+
+ 
+
+
+
+   g.   Residential Restrictions.  No customer shall make, cause or
+permit the use of electricity from the Department for residential purposes in
+an amount in excess of ninety percent (90%) of the amount used during the
+base period, as defined in this chapter.  No customer shall use electricity
+provided by the Department for the heating or lighting, or both, of swimming
+pools located on private residential property. For the purpose of this
+subsection, a customer is deemed to be using electricity for residential
+purposes if he is receiving such electricity pursuant to the Departments D-1
+Domestic Service Schedule or is receiving such electricity solely for
+consumption on and in premises used exclusively for non-transient residential
+purposes.  As used in this subsection, premises shall be deemed to be used
+exclusively for non-transient residential purposes if substantially all of
+the residents therein occupy the dwelling units thereof on a month-to-month,
+or longer, tenancy, with rent therefor payable not more frequently than
+monthly.  Such premises include mobile home parks that meet the requirements
+of this subsection in all other respects.
+
+
+
+ 
+
+
+
+   h.   Commercial and Institutional Restrictions.  No customer shall
+make, cause or permit the use of electrical energy from the Department for
+any purpose whatever in the operation of an institution or commercial
+enterprise in an amount in excess of eighty percent (80%) of the amount of
+electrical energy consumed by that customer in that enterprise during the
+base period as defined in this chapter.  A customer is deemed to be using
+electricity for the operation of a commercial enterprise if he is receiving
+electricity pursuant to the Department’s General Service Schedules, other
+than customers receiving electricity for residential purposes as defined in
+Subsection g above, and is engaged in those activities described in Major
+Groups 40-86 and 89-99 inclusive, and Appendix ‘A’ thereto, of the
+Standard Industrial Classification Manual, 1972 Edition, prepared by the
+Statistical Policy Division of Executive Office of the President, Office of
+Management and Budget.
+
+
+
+ 
+
+
+
+   i.   Industrial Restrictions.  No customer shall make, cause or
+permit the use of electrical energy from the Department in the operation of
+any industrial enterprise in an amount in excess of ninety percent (90%) of
+the amount of electrical energy consumed by that customer during the base
+period as defined in this chapter.  A customer is deemed to be using
+electricity for the operation of an industrial enterprise if he is receiving
+electricity pursuant to the Department’s General Service Schedule and is
+engaged in those activities described in Major Group 01-39 inclusive, and
+Appendix “A” thereto, of the Standard Industrial Classification Manual,
+1972 Edition prepared by the Statistical Policy Division of the Executive
+Office of the President, Office of Management and Budget.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 132.02.  PHASE II.
+
+
+
+ 
+
+
+
+   At such time as the consumption of fuel by the Department’s
+electrical generating facilities exceeds fuel supplies, including inventory
+and firm deliveries, which are estimated to provide for less than 40 days of
+system operation and fuel supplies levels are expected to continue to
+decline, the Mayor may order that no customer shall make, cause or permit any
+use of electrical energy provided by the Department of Water and Power in a
+manner which is contrary to the provisions of Subsections a through d of this
+section.  Said order shall be made in accordance with Section 131.05.
+
+
+
+ 
+
+
+
+   a.   Prohibited Uses.
+
+
+
+ 
+
+
+
+   (i)   Any use prohibited in Subsection a through f of Section 132.01.
+
+
+
+ 
+
+
+
+   (ii)   The illumination of billboards at any time whatsoever.
+
+
+
+ 
+
+
+
+   (iii)   Functional outdoor business lighting at any time whatsoever.
+
+
+
+ 
+
+
+
+   (iv)   the illumination of or in connection with outdoor
+non-commercial recreational or cultural activities of any nature whatsoever
+at any time whatsoever.
+
+
+
+ 
+
+
+
+   (v)   Outdoor commercial or cultural activities of any nature
+whatsoever in an amount in excess of fifty percent (50%) of the amount used
+by that customer in the base period for the same or similar activity.
+
+
+
+ 
+
+
+
+   b.   Residential Restrictions.  No customer shall make, cause or
+permit the use of electricity from the Department for residential purposes in
+an amount in excess of eighty-eight percent (88%) of the amount used during
+the base period, as defined in this chapter.  No customer shall use
+electricity provided by the Department for the heating or lighting, or both,
+of swimming pools located on private residential property. For the purpose of
+this subsection, a customer is deemed to be using electricity for residential
+purposes if he is receiving such electricity pursuant to the Department’s
+D-1 Domestic Service Schedule or is receiving such electricity solely for
+consumption on and in premises used exclusively for non-transient residential
+purposes.  As used in this subsection, premises shall be deemed to be used
+exclusively for non-transient residential purposes if substantially all of
+the residents therein occupy the dwelling units thereof on a month-to-month,
+or longer, tenancy, with rent therefor payable not more frequently than
+monthly.  Such premises include mobile home parks that meet the requirements
+of this subsection in all other respects.
+
+
+
+ 
+
+
+
+   c.   Commercial and Institutional Restrictions.  No customer shall
+make, cause or permit the use of electricity from the Department for any
+purpose whatever in the operation of an institutional or commercial
+enterprise in an amount in excess of sixty-seven percent (67%) of the amount
+of electrical energy consumed by that customer in that enterprise during the
+base period as defined in this chapter.  A customer is deemed to be using
+electricity for the operation of a commercial enterprise if he is receiving
+electricity pursuant to the Department’s General Service Schedules, other
+than customers receiving electricity for residential purposes as defined in
+Subsection b above, and is engaged in those activities described in Major
+Groups 40-86 and 89-99, inclusive, and Appendix ‘A’ thereto, of the
+Standard Industrial Classification Manual, 1972 Edition, prepared by the
+Statistical Policy Division of the Executive Office of the President, Office
+of Management and Budget.
+
+
+
+ 
+
+
+
+   d.   Industrial Restrictions.  No customer shall make, cause or
+permit the use of electricity from the Department in the operation of any
+industrial enterprise in an amount in excess of eighty-four percent (84%) of
+the amount of electricity consumed by that customer during the base period as
+defined in this chapter.  A customer is deemed to be using electricity for
+the operation of an industrial enterprise if he is receiving electricity
+pursuant to the Department’s General Service Schedule and is engaged in
+those activities described in Major Groups 01-39, inclusive of Appendix
+‘A’ thereto, of the Standard Industrial Classification Manual, 1972
+Edition, prepared by the Statistical Policy Division of the Executive Office
+of the President, Office of Management and Budget.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 132.03.  APPLICATION OF SURPLUS REDUCTION.
+
+
+
+ 
+
+
+
+   Notwithstanding any other provision of this article, any reduction in
+the use of electrical energy by any customer during any single period in
+excess of the amount required by this article shall be applied as follows:
+
+
+
+ 
+
+
+
+   a.   Said surplus shall be applied to that customer’s electrical
+energy consumption figure for the immediately preceding billing period and
+thereby reduce or avoid a penalty incurred during said period.  Any penalty
+so avoided in its entirety shall not be considered a prior violation for the
+purpose of computing increased penalties pursuant to Section 134.02.
+
+
+
+ 
+
+
+
+   b.   Any surplus remaining after the application of the surplus as
+provided immediately above shall be applied to offset that customer’s
+excessive usage of electrical energy by him during the billing period
+immediately following the accumulation of said surplus.  Said carry-forward
+of the surplus shall operate only as an offset to excessive usage and shall
+not be applied to any use of electrical energy in an amount at or below his
+allowable maximum consumption thereof.
+
+
+
+ 
+
+
+
+   c.   Exception.  In no event may any surplus reduction be applied
+as an offset to any billing period other than that immediately preceding or
+immediately following the billing period in which said surplus reduction
+occurred, or both, nor may any surplus reduction be applied by any customer
+to offset excessive consumption of electricity by any other customer or at
+any other location, whether or not owned or operated by that customer, except
+as expressly permitted by the Department pursuant to the discretionary powers
+vested in it by this chapter. Notwithstanding the accumulation of any surplus
+reduction, in no event shall any customer use electricity for any use
+specifically prohibited by this chapter.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 132.04.  MINIMAL LEVELS OF REQUIRED REDUCTION.
+
+
+
+ 
+
+
+
+   Nothing contained in Subsections g, h and i of Section 132.01 or
+Subsections b, c and d of Section 132.02 shall be deemed to require any
+customer of the Department to reduce his consumption of electrical energy
+provided by the Department to an amount less than 400 kilowatt hours at each
+meter during any monthly billing period or 800 kilowatt hours at each meter
+during any bimonthly billing period, nor shall anything contained therein be
+deemed to require those customers falling within Major Group 80 or Group No.
+866 of the Standard Industrial Classification Manual, 1972 Edition, prepared
+by the Statistical Policy Division of the Executive Office of the President,
+Office of Management and Budget, to reduce their consumption of electrical
+energy to less than ninety percent (90%) of their base during Phase I, or
+less than eighty percent (80%) of their base during Phase II, of the
+Emergency Energy Curtailment Plan.
+
+
+
+ 
+
+
+
+   For customers who have installed dual metering (time-of-day metering),
+the total consumption from all registers shall be considered in computing
+total consumption for the purpose of this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE III
+EMERGENCY CAPACITY CURTAILMENT PLAN
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+133.01   Electrical Capacity Plan.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 133.01.  ELECTRICAL CAPACITY PLAN.
+
+
+
+ 
+
+
+
+   No customer shall, during those peak demand hours established by the
+Mayor pursuant to Section 131.05, make, cause or permit any use of
+electricity energy provided by the Department in a manner which is contrary
+to the provisions of Subsections a through f of this section.
+
+
+
+ 
+
+
+
+   a.   Outdoor Advertising and Decorative Lighting.  Any use of
+electrical energy for the following purposes is prohibited:
+
+
+
+ 
+
+
+
+   (i)   to light billboards or signs;
+
+
+
+ 
+
+
+
+   (ii)   to advertise goods or services;
+
+
+
+ 
+
+
+
+   (iii)   to identify the providers of goods or services;
+
+
+
+ 
+
+
+
+   (iv)   to display goods, objects, or designs symbolic of commercial
+enterprises, trademarks, or logo;
+
+
+
+ 
+
+
+
+   (v)   to operate motors or devices to rotate or move advertising
+signs;
+
+
+
+ 
+
+
+
+   (vi)   to operate pumps or other devices in fountains which are
+primarily decorative;
+
+
+
+ 
+
+
+
+   (vii)   to operate building floodlighting, architectural or
+decorative lighting, or lights used for landscaping;
+
+
+
+ 
+
+
+
+   (viii)   any other purpose similar to items (i) through (vii) above.
+
+
+
+ 
+
+
+
+   b.   Functional Outdoor Lighting.  Any use of electricity energy
+for the floodlighting of outdoor commercial areas, including, but not limited
+to, service stations, used car lots, new car lots, automobile parking lots,
+or similar businesses is prohibited.
+
+
+
+ 
+
+
+
+   c.   Comfort Heating and Cooling.  Any use of electricity energy
+for the following purposes is prohibited:
+
+
+
+ 
+
+
+
+   (i)   to provide space heating to raise the temperature in any
+occupied establishment, building, structure or residence above 65° F or, if
+unoccupied, above 55° F;
+
+
+
+ 
+
+
+
+   (ii)   to provide space cooling for unoccupied areas or to lower the
+temperature in any occupied establishment, building structure or residence
+below 85° F;
+
+
+
+ 
+
+
+
+   (iii)   notwithstanding (i) and (ii) above, to heat or cool vacant
+hotel, motel, banquet, convention, recreational, or similar guest
+accommodation facilities
+
+
+
+ 
+
+
+
+   (iv)   notwithstanding (i) and (ii) above, to heat sleeping
+facilities, including residences, above 55° F during sleeping hours.
+
+
+
+ 
+
+
+
+   During periods of extreme capacity shortages as determined by the
+General Manager, the Mayor may, by following the procedures established in
+Section 131.05, order that the use of heating and air conditioning equipment
+be discontinued or that they be set at a temperature setting to be designated
+in the order during peak demand hours, except in those buildings where this
+section would close off all ventilation.
+
+
+
+ 
+
+
+
+   d.   Indoor Business Lighting.  The use of electricity is
+prohibited for window displays and for lighting the interior of any business
+establishment during that period of time that said establishment is not
+carrying on the usual and customary activities of that business, provided,
+however, that a business establishment may provide sufficient illumination to
+carry out ordinary and customary maintenance and janitorial services.
+
+
+
+ 
+
+
+
+   e.   Swimming Pool Timer.  Timers associated with private swimming
+pool pumps and filtration equipment maintained by an individual for the use
+of his family and friends shall not be set to operate such equipment during
+the peak demand hours.
+
+
+
+ 
+
+
+
+   f.   Nonessential Uses of Electricity.  All nonessential uses of
+electricity during the peak demand hours shall be deferred to nonpeak
+hours.  Such uses include, but are not limited to, use of appliances such as
+clothes washers and dryers, dishwashers, hydro-message comfort pools, and
+unneeded lighting.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE IV
+FAILURE TO COMPLY
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+134.01   Enforcement.
+
+
+
+134.02   Penalties.
+
+
+
+134.03   Notice.
+
+
+
+134.04   Hearing.
+
+
+
+134.05   Reservation of Rights.
+
+
+
+134.06   Relief from Compliance.
+
+
+
+134.07   Department Not to Discriminate.
+
+
+
+134.08   Public Health and Safety Not to Be Affected.
+
+
+
+134.09   Powers of the Department.
+
+
+
+134.10   Citizens Advisory Committee.
+
+
+
+134.11   Severability.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.01.  ENFORCEMENT.
+
+
+
+ 
+
+
+
+   The Department of Water and Power shall enforce the provisions of
+Article II and Article III of this chapter.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.02.  PENALTIES.
+
+
+
+ 
+
+
+
+   It shall be unlawful for any customer to fail to comply with any of the
+provisions contained in Article II or Article III of this chapter.
+Notwithstanding any other provisions of the Los Angeles Municipal Code the
+penalties set forth herein shall be exclusive, and not cumulative with any
+other penalty prescribed in any other section of this Code.  The penalties
+for failure to comply with any of the provisions of this chapter shall be as
+follows:
+
+
+
+ 
+
+
+
+   a.   Violations of the Provisions of Article II.
+
+
+
+ 
+
+
+
+   (i)   On the first and second violations by any customer, a warning
+notice of the fact of such Article II violations shall be issued by the
+Department and delivered to the customer as provided herein, and if the
+violation is of Subsections a, b, c, d, e, or f of Section 132.01 hereof or
+of Section 132.02 hereof and the customer fails to comply promptly with the
+requirements of this chapter after receiving notice of said violation, the
+Department shall terminate service to said customer until such time as
+compliance thereto is assured, as determined by the Department in its sound
+discretion.  If the violation is of Subsections h, i, or j of Section
+132.01, a surcharge for the 1st and 2nd violations shall be made to the
+customer in an amount equal to not less than ten percent (10%) nor more than
+one-hundred percent (100%) of that customer’s electrical bill for the
+billing period during which the violation occurred in accordance with the
+following schedule:
+
+
+
+ 
+
+
+
+
+Residential/Industrial Customers
+
+
+
+
+
+(Ten Percent (10%) Reduction Required):
+
+
+
+
+ 
+
+
+
+ 
+
+Reduction Achieved
+ 
+1st Violation Surcharge
+ 
+2nd Violation Surcharge
+
+
+
+8% but less than 10%
+
+ 
+
+10%
+
+ 
+
+20%
+
+
+
+
+6% but less than 8%
+
+ 
+
+20%
+
+ 
+
+40%
+
+
+
+
+4% but less than 6%
+
+ 
+
+30%
+
+ 
+
+60%
+
+
+
+
+2% but less than 4%
+
+ 
+
+40%
+
+ 
+
+80%
+
+
+
+
+less than 2%
+
+ 
+
+50%
+
+ 
+
+100%
+
+
+
+
+ 
+
+
+
+
+Commercial/lnstitutional Customers
+
+
+
+
+
+(Twenty Percent (20%) Reduction Required):
+
+
+
+
+ 
+
+
+
+ 
+
+Reduction Achieved
+ 
+1st Violation Surcharge
+ 
+2nd Violation Surcharge
+
+
+
+16% but less than 20%
+
+ 
+
+10%
+
+ 
+
+20%
+
+
+
+
+12% but less than 16%
+
+ 
+
+20%
+
+ 
+
+40%
+
+
+
+
+8% but less than 12%
+
+ 
+
+30%
+
+ 
+
+60%
+
+
+
+
+4% but less than 8%
+
+ 
+
+40%
+
+ 
+
+80%
+
+
+
+
+less than 4%
+
+ 
+
+50%
+
+ 
+
+100%
+
+
+
+
+ 
+
+
+
+   (ii)   For a third violation by any customer during the effective
+dates of the particular Phase during which the violation occurred or during
+the preceding twelve (12) calendar months, whichever is the shorter the
+Department shall access a surcharge where applicable equal to that scheduled
+for a second violation and shall discontinue electrical service to that
+customer at the premises at which the violation occurred for a period of two
+(2) days, upon the giving of notice of the third violation to said customer
+in the manner herein set forth.
+
+
+
+ 
+
+
+
+   (iii)   For a fourth violation by any customer, during the effective
+dates of the particular Phase during which the violation occurred or during
+the preceding twelve (12) calendar months, whichever is the shorter the
+Department shall assess a surcharge where applicable equal to that scheduled
+for a second violation and shall discontinue electrical service to that
+customer at the premises at which the violation occurred for a period of five
+(5) days, upon the giving of notice of such violation to said customer in the
+manner herein set forth.
+
+
+
+ 
+
+
+
+   (iv)   For each subsequent violation by any customer during the
+effective dates of the particular Phase during which the violation occurred
+or during the preceding twelve (12) calendar months, whichever is the
+shorter, the Department shall access a surcharge where applicable equal to
+that scheduled in a second violation and shall discontinue electrical service
+to that customer at the premises at which the violation occurred for a period
+of not less than five (5) days or more than thirty (30) days, as determined
+by the General Manager.
+
+
+
+ 
+
+
+
+   b.   Violations of Provisions of Article III.  The Department shall
+discontinue service to a customer for non-compliance with any of the
+provisions contained in Article III hereof if, after notice as provided
+herein, a customer has not initiated compliance or sought a hearing regarding
+such notice.  Service will be restored only after the customer has
+established compliance with the provision of Article III hereof.
+
+
+
+   c.   Service Charge.  The Department shall have the right to
+recover from the customer all reasonable expenses incurred by the Department
+in disconnecting and reconnecting the customer’s service pursuant to the
+provisions of this chapter and the Department’s rules and regulations
+adopted pursuant thereto.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.03.  NOTICE.
+
+
+
+ 
+
+
+
+   The Department shall give notice of each violation to the customer
+committing such violation as follows:
+
+
+
+ 
+
+
+
+   a.   If the penalty assessed is limited to the surcharge described
+hereinabove, by enclosing with the billing on which said surcharge appears a
+written notice of the violation.
+
+
+
+ 
+
+
+
+   b.   If the penalty assessed is, or includes, the termination of
+service to the customer for any period of time whatever, notice of the
+violation shall be given in the following manner:
+
+
+
+ 
+
+
+
+   (i)   By giving written notice thereof to the customer personally; or
+
+
+
+ 
+
+
+
+   (ii)   If the customer be absent from his place of residence and
+from his assumed place of business, by leaving a copy with some person of
+suitable age and discretion at either place, and sending a copy through the
+United States mail addressed to the customer at either his place of business
+or residence; or
+
+
+
+ 
+
+
+
+   (iii)   If such place of residence and business cannot be
+ascertained, or a person of suitable age and discretion cannot be located at
+the premises, then by affixing a copy in a conspicuous place on the property
+where the failure to comply is occurring and also by delivering a copy to a
+person there residing, if such person can be found, and also sending a copy
+through the United States mail addressed to the customer at the place where
+the property is situated.
+
+
+
+ 
+
+
+
+   Said notice shall contain, in addition to the facts of the violation, a
+statement of the possible penalties for each violation and a statement
+informing the customer of his right to a hearing on the violation.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.04.  HEARING.
+
+
+
+ 
+
+
+
+   Any customer against whom a penalty is or may be levied pursuant to
+this chapter shall have a right to a hearing on the merits of the alleged
+violation upon the written request of that customer.  The Council and Mayor
+shall adopt such regulations and rules as they, in their sound discretion,
+deem reasonable and necessary to the formation, procedure and operation of
+one or more appeal boards to conduct hearings pursuant to this section.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.05.  RESERVATION OF RIGHTS.
+
+
+
+ 
+
+
+
+   The rights of the Department hereunder shall be cumulative to any other
+right of the Department to discontinue service.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.06.  RELIEF FROM COMPLIANCE.
+
+
+
+ 
+
+
+
+   a.   Prerequisites to Relief.  Any customer who is dissatisfied
+with the application of any of the provisions of this chapter, as the same
+relate to him, may seek relief as set forth below.  No relief shall be
+granted to any customer in the absence of a showing by the customer that he
+has achieved the maximum practical reduction in electricity consumption in
+his residential, commercial or industrial energy usage, as the case may be,
+other than in the specific area in which relief is sought. In deciding what
+is the maximum practical reduction in electricity consumption, the appeal
+board shall take into consideration all relevant factors, specifically
+including, although not limited to, the particular question of whether any
+additional reduction in electrical energy consumption will result in a
+significant rise in unemployment.  Any relief granted pursuant to this
+subsection shall be only to the extent minimally necessary to avoid a
+significant rise in unemployment and to achieve the ends reasonably sought in
+making the application.  No relief shall be granted to any customer who,
+when requested by the Department, fails to provide the Department with
+information whereby the services provided to him can be classified for the
+purpose of establishing an appropriate base or classification pursuant to the
+provisions of this chapter.
+
+
+
+ 
+
+
+
+   b.   Relief Available.  A customer may seek relief as herein
+provided for any application of the provisions of this chapter that adversely
+affect him at such times as Phase I of the energy curtailment plan is in
+effect. During Phase II of the energy curtailment plan or any subsequent
+phase which may hereinafter be imposed, or during the capacity curtailment
+plan, a customer may seek relief as herein provided only as to the issue of
+whether that customer committed the particular act or acts, or omitted to
+perform the particular act or acts, as alleged by the Department.
+
+
+
+ 
+
+
+
+   c.   Procedure for Application for Relief.  The Mayor, with the
+concurrence of the City Council, shall establish such number of review boards
+and appeal boards as he deems necessary.  Each such board shall be composed
+of 3 members, one of whom shall represent business, one of whom shall
+represent labor, and one of whom shall represent the general public.
+
+
+
+ 
+
+
+
+   (i)   A review board shall promptly examine all Department
+administrative action regarding resolution of applications for relief which
+affect commercial, industrial or institutional customers and shall promptly
+examine a representative sample of the administrative action taken by the
+Department regarding the request for relief by residential customers.
+
+
+
+ 
+
+
+
+   (ii)   As to each request for relief considered by it, a review
+board shall, in its discretion, either: not take exception to the
+Department’s disposition of the matter; return said matter to the
+Department for reconsideration; or forward the matter to an appeal board. 
+If no exception is taken to the Department’s disposition of the matter, or
+if the Department’s disposition of the matter is not considered by a review
+board, and the customer has not filed a timely application for a hearing
+pursuant to Subsection (d) below, said disposition shall become final.
+
+
+
+ 
+
+
+
+   (iii)   Applications for relief from the provisions of this chapter
+and the operation of the review and appeals board shall be in accordance with
+the rules and regulation established by the Mayor with the concurrence of the
+City Council.
+
+
+
+ 
+
+
+
+   d.   Administrative Remedies.  The filing by a customer of an
+application for a hearing before an appeal board, within five (5) days of the
+Departmental action complained, shall automatically stay the implementation
+of the proposed course of action by the Department pending the decision of
+the appeal board. No other or further stay shall be granted by the
+Department. Requests for relief hereunder may be filed immediately upon this
+chapter becoming effective.
+
+
+
+ 
+
+
+
+   e.   Wilful Misrepresentation.  Notwithstanding any other provision
+of law, and in addition thereto and not in lieu thereof, any wilful
+misrepresentation of material fact by any person to the Department or to any
+review or appeal board established pursuant to this chapter, made for the
+purpose of securing relief from the provisions of the chapter for any
+customer, is unlawful.  A violation of this subsection shall be punishable
+by a fine not exceeding the sum of five hundred dollars ($500), or by
+imprisonment in the county jail for a period not to exceed six (6) months, or
+both such fine and imprisonment.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.07.  DEPARTMENT NOT TO DISCRIMINATE.
+
+
+
+ 
+
+
+
+   The Department shall provide electricity to its customers in accordance
+with the provisions of this chapter, and in a manner reasonably calculated to
+effectuate the intent thereof and without regard to the status or nature of
+the customer.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.08.  PUBLIC HEALTH AND SAFETY NOT TO BE AFFECTED.
+
+
+
+ 
+
+
+
+   Nothing contained in this chapter shall be construed to require the
+Department to curtail the supply of electricity to any customer when, in the
+discretion of the Department or an appeal board, such energy is required by
+that customer to maintain an adequate level of public health and safety, nor
+shall anything in this chapter be construed so as to require action by any
+customer which would violate any federal, state or local law, rule, or
+regulation, or endanger the health and safety of any person, or fail to
+provide a minimal level of security.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.09.  POWERS OF THE DEPARTMENT.
+
+
+
+ 
+
+
+
+   a.   The Department, in its discretion, may adjust the base assigned
+to any customer if that customer establishes, to the satisfaction of the
+Department, that the base, as herein provided, would cause him great hardship
+for reasons including but not necessarily limited to demonstration of
+substantial conservation achievements, technological improvements to that
+customer’s premises since the base period, increased employment in said
+customer’s business since the base period, a substantial change in either
+the manner or the extent of use of electricity at the location in question
+since the base period, and abnormal temperature changes, economic
+fluctuations, and occupancy factors occurring since the base period.
+
+
+
+ 
+
+
+
+   b.   The Department shall have the power to reclassify any
+residential commercial, institutional, or industrial customer to any other
+classification upon a showing of good cause by said customer of why all
+customers similarly situated should be so reclassified.
+
+
+
+ 
+
+
+
+   c.   The Department shall have the power, upon the filing by a
+customer of an application for relief as herein provided, to take such steps
+as it deems reasonable and to set up such procedures as it deems appropriate
+thereto to resolve said appeal prior to the submission of said appeal to an
+appeal board. If a resolution of the appeal is mutually agreed upon between
+the Department and the customer, the agreement and the fact of concurrence
+therewith shall be in writing subscribed by the customer, and shall be
+submitted to a review board as required by Section 134.04. No further appeal
+may then be taken by the customer on the same, or substantially similar,
+circumstances and facts.
+
+
+
+ 
+
+
+
+   d.   The Department shall have the power to take any and all other
+steps it deems reasonable and proper to facilitate the fair and just
+enforcement of this chapter and appeals taken pursuant thereto.
+
+
+
+ 
+
+
+
+   e.   The Department shall consult with and consider the advice and
+recommendations submitted to it by the Citizens Advisory Committee.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.10.  CITIZENS ADVISORY COMMITTEE.
+
+
+
+ 
+
+
+
+   a.   Upon the enactment by the Mayor of the Emergency Energy
+Curtailment provisions of this ordinance, the City Council, subject to the
+approval of the Mayor, may create a Citizens Advisory Committee comprised of
+16 members to give counsel to and make recommendations to the Department and
+the City with respect to the implementation and administration of those
+provisions of the ordinance and to recommend such amendments thereto as the
+Committee believes appropriate.
+
+
+
+ 
+
+
+
+   b.   Upon creation of the Citizens Advisory Committee, the
+Councilperson for each Council district shall appoint one person to represent
+his office and the Mayor shall appoint one person to serve on each
+committee.  Once created, the committee shall conduct its first meeting at
+the call of the Chief Legislative Analyst and organize itself by the election
+of a Chairman and Secretary.  Thereafter such committee shall meet at the
+call of either its Chairman, the Mayor, or the City Council.
+
+
+
+ 
+
+
+
+   c.   The City Departments of Building and Safety, Police, Fire,
+Public Works, Airports, Harbor, Recreation and Parks, Transportation, and
+Water and Power shall each appoint a representative to attend the meetings of
+such committee and provide such staff support as the committee shall request.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 134.11.  SEVERABILITY.
+
+
+
+ 
+
+
+
+   If any section, subsection, clause, or phrase in this chapter or the
+application thereof to any person or circumstances is for any reason held
+invalid, the validity of the remainder of the chapter or the application of
+such provision to other persons or circumstances shall not be affected
+thereby. The City Council hereby declares that it would have passed this
+chapter and each section, subsection, sentence, clause, or phrase thereof,
+irrespective of the fact that one or more sections, subsections, sentences,
+clauses, or phrases of the application thereof to any person or circumstance
+be held invalid.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+

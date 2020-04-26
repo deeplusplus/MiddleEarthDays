@@ -1,0 +1,4084 @@
+
+Los Angeles Municipal Code
+
+
+CHAPTER VII
+TRANSPORTATION
+
+
+
+ 
+
+
+
+
+(Chapter Title Amended by Ord. No. 152,426, Eff. 6/29/79.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+   Article
+
+
+
+ 
+
+
+
+
+   1   Public Transportation
+
+
+
+
+
+
+
+
+
+
+   2   Railroads and Railways
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 1
+PUBLIC TRANSPORTATION
+
+
+
+ 
+
+
+
+
+(Art. 1, Title, Amended by Ord. No. 161,249, Eff. 6/20/86.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+71.00   Scope and Definitions.
+
+
+
+71.01   Authority of Board to Adopt Rules.
+
+
+
+71.01.1   Authority of Designated Employees of the Department of
+Transportation to Make Arrests and Issue Citations.
+
+
+
+71.01.2   Authority of Designated Employees of the Department of
+Transportation to Have Access to Summary Criminal History Information.
+
+
+
+71.02   Operation of Vehicles – Permits or Franchises Required.
+
+
+
+71.02.1   Suspension of Taxicab Franchise.
+
+
+
+71.02.2   Monetary Penalties for Taxicab Operators.
+
+
+
+71.02.3   Use of Public Rights-of-way.
+
+
+
+71.03   Driving of Vehicles – Permits Required.
+
+
+
+71.04   Ambulance Attendants – Permits Required.
+
+
+
+71.04.1   Non-ambulatory Passenger Vehicle Attendants – Permits Required.
+
+
+
+71.05   Application and Annual or Monthly Fee for Vehicle Permits.
+
+
+
+71.06   Application for Driver and Ambulance Attendant Permits.
+
+
+
+71.06.1   Application Processing and Other Fees.
+
+
+
+71.06.2   Fees for Services Provided Outside of Normal Working Hours.
+
+
+
+71.06.3   Review of Fees for Service.
+
+
+
+71.07   The Board’s Power to Revoke or Suspend Driver, Attendant, or
+Vehicle Permits.
+
+
+
+71.08   Grounds for Denial, Revocation, Suspension or Cancellation of
+Permit.
+
+
+
+71.09   Procedures for Denial, Revocation, Suspension or Cancellation of
+Permits by the General Manager or His Authorized Representative.
+
+
+
+71.09.1   Rehearing.
+
+
+
+71.09.2   Monetary Penalties for Driver, Vehicle and Attendant Permittees.
+
+
+
+71.10   Regulations During Suspension Period.
+
+
+
+71.11   Duration and Renewal of Permits.
+
+
+
+71.12   Requirements of Public Convenience and Necessity.
+
+
+
+71.13   Specific Findings Required.
+
+
+
+71.14   Insurance or Bond Required.
+
+
+
+71.15   Contracts Between Owners and Employees.
+
+
+
+71.16   Taxicab Identification.
+
+
+
+71.16.1   Vehicle Identification.
+
+
+
+71.17   Licenses.
+
+
+
+71.18   Permitted Vehicle Zones.
+
+
+
+71.19   Vehicle Signs.
+
+
+
+71.20   Taxicab Signs.
+
+
+
+71.21   Other Signs – Permit Required.
+
+
+
+71.22   Taximeters.
+
+
+
+71.23   Circuitous Routes.
+
+
+
+71.24   Excess Charges.
+
+
+
+71.25   Authority of Board to Establish Rates.
+
+
+
+71.26   Transportation Regulation and Enforcement Trust Fund.
+
+
+
+71.27   Inspection of Limousine Waybills.
+
+
+
+71.28   Compensation to Gain Access to Passengers.
+
+
+
+71.29   Regulation of Shared Mobility Devices.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.00.  SCOPE AND DEFINITIONS.
+
+
+
+   (Amended by Ord. No. 170,068, Eff. 11/18/94.)
+
+
+
+ 
+
+
+
+   Scope.  The provisions of this chapter apply when the provisions are
+not in conflict with any paramount regulations by the state or nation.
+
+
+
+ 
+
+
+
+   For the purposes of this chapter, the following words and phrases are
+defined and shall be construed as hereinafter set out, unless it shall be
+apparent from the context that they have a different meaning:
+
+
+
+ 
+
+
+
+   “Automobile-For-Hire” shall mean every automobile, other than
+taxicabs, used for prearranged transportation of passengers over the streets
+of this City and not over a defined route within the boundary limits of said
+City at rates per mile, per trip, per hour, per day, per week or per month. 
+Such vehicle shall not be equipped with a taximeter or facsimile thereof,
+shall not display advertisements or possess a top light, is not required to
+display a company logo or maintain a two-way radio and is not permitted to
+solicit passengers from City streets, sidewalks or other public areas.
+
+
+
+ 
+
+
+
+   “Board” shall mean the Board of Taxicab Commissioners of this City
+exclusively with regard to all taxicab rules and regulations, and “Board”
+shall mean the Board of Transportation Commissioners of this City exclusively
+with regard to all other vehicle rules and regulations other than taxicab
+matters.  (Amended by Ord. No. 172,023, Eff. 6/26/98.)
+
+
+
+ 
+
+
+
+   “Department” shall mean the Department of Transportation of this
+City.
+
+
+
+ 
+
+
+
+   “Driver” shall mean every person who drives or is in actual
+physical control of a vehicle defined in this section, either as an agent,
+employee or otherwise.
+
+
+
+ 
+
+
+
+   “Motor Bus” shall mean every automobile, jitney bus, stage and
+autostage, and every other motor-propelled vehicle owned, controlled,
+operated and managed for public use in the transportation of persons over any
+public street in the City of Los Angeles, and into which passengers are
+received and from which passengers are discharged along the route traversed
+by such vehicle, provided that other vehicles defined herein shall not be
+deemed included in said term.
+
+
+
+ 
+
+
+
+   “Non-ambulatory Passenger Vehicle” shall mean every motor vehicle
+specially constructed, modified, equipped, or arranged for the purpose of
+transporting passengers in litters or wheelchairs on a non-emergency basis,
+used for the purpose of serving the public, and driven by any person other
+than a governmental agency, whether or not the transportation extends beyond
+the City limits and whether or not any fee, compensation, or consideration is
+charged, paid, or received for such transportation.
+
+
+
+ 
+
+
+
+   “Non-motorized Vehicle” shall mean every vehicle for hire powered
+by people or animal whether pulled, drawn, pushed or pedaled, and used for
+the transportation of passengers over streets or ways of the City.  The
+Board shall determine the suitability of streets and pickup zones to be
+permitted for use, the hours of operation, insurance requirements and other
+restrictions for non-motorized vehicle service.
+
+
+
+ 
+
+
+
+   “Operator” shall mean any person or corporation who conducts or
+manages a business using the vehicles defined in Section 71.00.
+
+
+
+ 
+
+
+
+   “Private Ambulance” shall mean every vehicle equipped with a siren
+and specially constructed, modified, equipped or arranged for the purpose of
+transporting sick, injured, convalescent, infirm or otherwise incapacitated
+persons, used for the purpose of serving the public, and driven by any person
+other than governmental agency.
+
+
+
+ 
+
+
+
+   “Public Transportation Vehicle” shall mean every automobile or
+motor propelled vehicle, not otherwise defined in this section, used for the
+transportation of passengers over streets of this City, whether or not the
+transportation extends beyond the City and whether or not any fee,
+compensation or consideration of any character is charged, paid or received
+for such transportation.
+
+
+
+ 
+
+
+
+   “School Bus” shall mean every motor vehicle used for the
+transportation of pupils to or from any school or institution of learning, or
+to or from school activities, over the streets of this City, irrespective of
+whether such operations extend beyond the boundary limits of this City, and
+regardless of whether or not any fee, compensation or consideration is paid
+for such transportation, except the following vehicles:
+
+
+
+ 
+
+
+
+   1.   A motor vehicle of the pleasure type carrying only members of
+the household and the guests of the owner thereof;
+
+
+
+ 
+
+
+
+   2.   A motor vehicle while being operated by or under contract with
+the Board of Education.
+
+
+
+ 
+
+
+
+   “Sightseeing Automobile” shall mean every automobile or motor
+propelled vehicle used for the transportation of passengers over streets of
+this City, irrespective of whether such operations extend beyond the boundary
+limits of this City, for sightseeing purposes or showing points of interest
+and charging a fee or compensation therefor, regardless of whether any fee,
+compensation or consideration is paid to the driver of such sightseeing
+automobile by the passenger or by the owner, or by the person who employs or
+contracts with the driver, or charters such sightseeing automobile with a
+driver to transport or convey any passenger, and irrespective of whether or
+not such driver receives any fee or compensation for the services.
+
+
+
+ 
+
+
+
+   “Taxicab” shall mean every automobile or motor propelled vehicle
+which is designed to carry not more than eight persons, excluding the driver,
+and either is equipped with a taximeter or a top light or has the words
+“taxi”, “cab” or “taxicab” displayed on the exterior of the
+vehicle, and used for the transportation of passengers for hire over the
+streets of this City, irrespective of whether the operations extend beyond
+the boundary limits of said City, at rates for distance traveled, or for
+zones, or for waiting, standby or traffic delay time, or for any combination
+of such rates, and not operating over a defined route but routed under the
+direction of such passengers or persons hiring the same.
+
+
+
+ 
+
+
+
+   “Taxicab Operator” shall mean a taxicab franchise grantee, and the
+management and officers of those grantees.  (Amended by Ord. No. 174,058,
+Eff. 8/9/01.)
+
+
+
+ 
+
+
+
+   “Taximeter” shall mean a device that automatically calculates at
+predetermined rate or rates, and indicates the charge for hire of a vehicle.
+
+
+
+ 
+
+
+
+   “Zone” shall mean a place established by the Department and
+designated as a zone for the use while waiting employment of any vehicle
+defined in Section 71.00 or operated in passenger transportation service by
+authority of the California Public Utilities Commission.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.01.  AUTHORITY OF BOARD TO ADOPT RULES.
+
+
+
+   (Amended by Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   The Board shall have the power to adopt such rules and regulations as
+may be necessary to implement the purposes of this article. Such rules and
+regulations may include but are not limited to the following:  rules and
+regulations pertaining to the service, safety and operation of the vehicles
+defined in this article; rules and regulations prescribing limitations,
+conditions and qualifications of applicants for vehicle permits, driver
+permits, and ambulance attendant permits; rules and regulations relating to
+hearings conducted pursuant to Section 71.09 of this article, and rules and
+regulations specifying the monetary penalties and the procedures to collect
+the penalties that may be levied against franchise, operating permit, vehicle
+permit, driver permit and attendant permit grantees pursuant to Sections
+71.02.2 and 71.09.2 of this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.01.1.  AUTHORITY OF DESIGNATED EMPLOYEES OF THE DEPARTMENT OF
+TRANSPORTATION TO MAKE ARRESTS AND ISSUE CITATIONS.
+
+
+
+   (Amended by Ord. No. 173,901, Eff. 5/31/01.)
+
+
+
+ 
+
+
+
+   (a)   The Taxicab Administrator and the Senior Transportation
+Engineer assigned to franchise regulation functions shall have the power,
+authority and immunity of a public officer or employee, as set forth in the
+Penal Code of the State of California, Section 836.5, to make arrests without
+a warrant whenever he or she has reasonable cause to believe that the person
+to be arrested has committed a misdemeanor or an infraction in his or her
+presence which is a violation of this article, or of any ordinance of the
+City of Los Angeles or penal law of the State relating to such matters as
+public transportation and parking control, and, in addition, all violations
+set forth in Section 80.01.1.
+
+
+
+ 
+
+
+
+   (b)   The Chief Transportation Investigators, Senior Transportation
+Investigators and Transportation Investigators shall have the immunity,
+authority and powers of arrest of a peace officer pursuant to the California
+Penal Code Section 830.7(h) to enforce any law of this State or any ordinance
+of this Code pertaining to matters under the jurisdiction of the Department
+of Transportation.
+
+
+
+ 
+
+
+
+   (c)   The above designated employees shall also be authorized to
+issue citations for the various offenses under their jurisdiction and the
+cited persons shall be subject to either administrative hearings and
+penalties (for Board Order violations) or as provided for in the Penal Code
+Sections 853.5 and/or 853.6. (for Infractions and Misdemeanors).
+
+
+
+ 
+
+
+
+   (d)   Each of the above designated employees shall carry upon his or
+her person a metallic badge, of a size and design to be determined as
+provided in Sec 52.32 of this Code, while performing his or her respective
+duties applicable to Chapters VII and VIII of the Municipal Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.01.2.  AUTHORITY OF DESIGNATED EMPLOYEES OF THE DEPARTMENT OF
+TRANSPORTATION TO HAVE ACCESS TO SUMMARY CRIMINAL HISTORY INFORMATION.
+
+
+
+   (Title and Section Amended by Ord. No. 182,704, Eff. 10/15/13.)
+
+
+
+ 
+
+
+
+   The following persons shall have the authority to obtain federal, state
+and local summary criminal history information pursuant to the California
+Penal Code, Section 11105(b)(11) and Section 13300(b)(11), in fulfilling
+their duties applicable to Chapter VII and Chapter VIII of the Los Angeles
+Municipal Code:  the Board of Transportation Commissioners, the Commission
+Executive Assistant to the Board of Transportation Commissioners, the Board
+of Taxicab Commissioners, the Commission Executive Assistant to the Board of
+Taxicab Commissioners, the General Manager and the Assistant General Manager,
+the Chief of Transit Programs, the Taxicab Administrator, the Senior
+Transportation Engineer, the Transportation Engineer, the Senior Management
+Analyst I, the Chief Transportation Investigator, the Senior Transportation
+Investigators, and the Transportation Investigators assigned to or having
+responsibility for permitting and licensing, and for parking control
+functions within the Department of Transportation.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.02.  OPERATION OF VEHICLES – PERMITS OR FRANCHISES REQUIRED.
+
+
+
+   (Amended by Ord. No. 174,058, Eff. 8/9/01.)
+
+
+
+ 
+
+
+
+   (a)   No person or corporation shall drive, operate or use, whether
+as owner, lessor, lessee or otherwise, any of the vehicles defined in Section
+71.00 to pick up or attempt to pick up passengers within the limits of the
+City of Los Angeles, or allow or permit to be operated, driven, or used,
+whether as owner, lessor, lessee, or otherwise, any of the vehicles defined
+in Section 71.00 to pick up or attempt to pick up passengers within the
+limits of the City of Los Angeles unless a written vehicle permit for the
+operation of such specifically defined vehicles has been obtained from the
+Board; provided, however, that no vehicle permit shall be required for the
+operation of any vehicle under and in accordance with the terms and
+conditions of a franchise granted by the City of Los Angeles.
+
+
+
+ 
+
+
+
+   (b)   No person or corporation or membership organization shall
+drive or operate a taxicab without a franchise granted by the City of Los
+Angeles.  The Board may grant a taxicab vehicle permit to grantee or a
+member of grantee for each vehicle operated under a taxicab franchise.  No
+taxicab shall be operated under a franchise unless the Board has issued such
+a permit for each specific vehicle.  A taxicab operated under a franchise
+may not continue in service if the taxicab vehicle permit is expired,
+suspended, canceled or revoked. The Board may authorize the decaling of each
+individual taxicab by the Department as approval for a taxicab vehicle permit.
+
+
+
+ 
+
+
+
+   (c)   Every corporation, person, cooperative, or association who
+operates a taxicab and who knowingly and willfully issues, publishes or
+affixes, or causes or permits the issuance, publishing or affixing of any
+oral or written advertisement, broadcast or holding out to the public or any
+portion thereof, in any manner whatsoever, that the corporation or person is
+in operation as a taxicab company or an individual taxicab without having a
+valid vehicle permit and franchise granted by the City of Los Angeles is
+guilty of a misdemeanor.
+
+
+
+ 
+
+
+
+   (d)   In no event shall any person or corporation who drives or
+operates a taxicab in the City of Los Angeles publish, advertise or broadcast
+in any manner, written or oral, a telephone number either by itself or
+connected to a rotary or call forwarding system for taxicab service, which is
+the same telephone number as that for other vehicles for hire.
+
+
+
+ 
+
+
+
+   (e)   No person or corporation shall knowingly dispatch a vehicle or
+respond to a request for a “taxi”, “cab” or “taxicab” for pick-up
+within the City of Los Angeles unless the responding vehicle is operated
+pursuant to a franchise granted by the City of Los Angeles.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.02.1.  SUSPENSION OF TAXICAB FRANCHISE.
+
+
+
+   (Title Amended by Ord. No. 174,058, Eff. 8/9/01.)
+
+
+
+ 
+
+
+
+   (a)   (Amended by Ord. No. 174,058, Eff. 8/9/01.)  The Board may,
+after due notice and an opportunity to be heard, suspend a taxicab franchise
+or any portion thereof for one or more days, upon any of the following
+grounds:
+
+
+
+ 
+
+
+
+   (1)   Noncompliance with franchise terms and conditions as specified
+therein; Board rules and orders as specified therein; Department directives;
+or the State Vehicle Code.
+
+
+
+ 
+
+
+
+   (2)   The holder of a majority interest in the Grantee or the
+Grantee illegally conducts any type of public transportation operation
+licensed by the City or any other governmental agency.  Such suspension may
+be of one or more fleet vehicles throughout the City and/or suspension of the
+right to pick up at certain taxicab stands and at Los Angeles International
+Airport.
+
+
+
+ 
+
+
+
+   (b)   Any suspension of 30 days or more or any suspension after an
+aggregate of 30 days suspension in any 12-month period, is subject to appeal
+to the City Council.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.02.2.  MONETARY PENALTIES FOR TAXICAB OPERATORS.
+
+
+
+   (Amended by Ord. No. 170,068, Eff. 11/18/94.)
+
+
+
+ 
+
+
+
+   (a)   The Board may levy monetary penalties in addition to or in
+lieu of suspension of franchise or operating permit pursuant to 71.02
+above.  Monetary penalties may be levied on a per violation, a per day or an
+accumulated penalty point basis and may escalate on a first, second, or third
+violation basis.  Deficiencies in operations which endanger the public
+health, welfare, and/or safety shall receive the maximum penalties.
+
+
+
+ 
+
+
+
+   (b)   The Board shall adopt by resolution a schedule of monetary
+penalties, a procedure for assessing monetary penalties or penalty points for
+specific driver and/or operator violations, and an appeal procedure. 
+Monetary penalties for taxicab operators shall be no more than $1,000 for
+each penalty point over an established limit, or for each day, as
+appropriate, up to a maximum of $25,000 in monetary penalties for penalty
+points accumulated in a calendar quarter; except penalties assessed on a per
+day basis for failure to correct operator deficiencies shall accumulate
+without limit for each day that the violation exists.  Any single penalty
+assessment that exceeds $30,000 is subject to appeal to the City Council.
+
+
+
+ 
+
+
+
+   (c)   Payment of a monetary penalty or the serving of a suspension
+shall constitute a waiver of the right to further appeal of any monetary
+penalty or suspension to the City Council or Superior Court.
+
+
+
+ 
+
+
+
+   (d)   Judicial review of an action by the Board levying such
+monetary penalty or of an action of the City Council in denying an appeal, as
+provided for herein, shall be available only if a petition for a writ of
+mandate is filed in the Superior Court not later than the 90th day following
+the date upon which the decision of the Board or City Council becomes final,
+which shall be the expiration of the period during which reconsideration can
+be sought, provided that if reconsideration is sought the decision is final
+for the purposes of this section on the date that reconsideration is rejected.
+
+
+
+ 
+
+
+
+   (e)   The total monetary penalty payment is due by the date
+established by the Board or 30 days after the end of the month in which
+payment has accrued, whichever comes first.  The payment is delinquent if
+not paid on or before the due date.
+
+
+
+ 
+
+
+
+   (f)   A penalty of 10% of the amount of the payment shall be
+assessed on any payment which has become delinquent.  Failure to pay any
+delinquent payment on or before the last day of the fourth month following
+the date on which the payment first became delinquent will result in the
+assessment of a second penalty of 10% of the amount of the payment in
+addition to the amount of the payment and the 10% penalty first imposed.
+
+
+
+ 
+
+
+
+   (g)   In addition to the penalties imposed above, failure to pay any
+payment required by ordinance and by the franchise or operating permit will
+result in the assessment of interest charges at the rate of 1-1/2% per month,
+or fraction thereof, on the amount of the payment, exclusive of penalties,
+from the date on which the payment first became delinquent until it is paid.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.02.3.  USE OF PUBLIC RIGHTS-OF-WAY.
+
+
+
+   (Added by Ord. No. 170,068, Eff. 11/18/94.)
+
+
+
+ 
+
+
+
+   (a)   It shall be unlawful for any person, corporation, association
+or cooperative to operate, maintain, drive or park any vehicle, as defined in
+Section 71.00, on any street, roadway, thoroughfare, highway or public
+right-of-way within the boundaries of the City of Los Angeles without a
+permit or business license granted or issued for the operation of the
+specified vehicle by an authorized governmental entity in the State of
+California.
+
+
+
+ 
+
+
+
+   (b)   Violation of this section will subject the violator to
+impoundment of the unlawful vehicle by the City of Los Angeles and is deemed
+a misdemeanor.
+
+
+
+ 
+
+
+
+   (c)   Whenever any peace officer, public officer or employee of the
+City of Los Angeles arrests any person for violation of this section, the
+officer or employee shall impound and retain possession of any vehicle used
+in violation of this section until a court of competent jurisdiction or an
+officer or employee of the City of Los Angeles shall release said vehicle.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.03.  DRIVING OF VEHICLES – PERMITS REQUIRED.
+
+
+
+   (Amended by Ord. No. 173,901, Eff. 5/31/01.)
+
+
+
+ 
+
+
+
+   (a)   No person shall drive a private ambulance as defined in
+Section 71.00 without first having obtained an ambulance driver permit from
+the Board.
+
+
+
+ 
+
+
+
+   (b)   No person shall drive a non-ambulatory passenger vehicle as
+defined in Section 71.00 without first having obtained a non-ambulatory
+passenger vehicle driver permit from the Board.
+
+
+
+ 
+
+
+
+   (c)   No person shall drive or operate a taxicab as defined in
+Section 71.00 without first having obtained a taxicab driver permit from the
+Board.
+
+
+
+ 
+
+
+
+   (d)   No person shall drive or operate any other type of vehicle
+defined in Section 71.00 without first having obtained a driver permit from
+the Board.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.04.  AMBULANCE ATTENDANTS – PERMITS REQUIRED.
+
+
+
+ 
+
+
+
+   No person shall act as an ambulance attendant in a private ambulance
+unless such person holds an ambulance attendant permit or an ambulance driver
+permit issued by the Board.  (Amended by Ord. No. 141,670, Eff. 5/7/71.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.04.1.  NON-AMBULATORY PASSENGER VEHICLE ATTENDANTS – PERMITS
+REQUIRED.
+
+
+
+ 
+
+
+
+   No person shall act as a non-ambulatory passenger vehicle attendant in
+a non-ambulatory passenger vehicle as defined in §71.00 unless such person
+holds a non-ambulatory passenger vehicle attendant permit or an ambulance
+attendant permit from the Board. (Added by Ord. No. 154,996, Eff. 4/26/81.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.05.  APPLICATION AND ANNUAL OR MONTHLY FEE FOR VEHICLE PERMITS.
+
+
+
+   (Title Amended by Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   (a)   Applicants for vehicle permits shall file with the department
+an application upon forms provided by the department, containing such
+information as is required by the rules and regulations of the Board.
+(Amended by Ord. No. 149,526, Eff. 5/21/77.)
+
+
+
+ 
+
+
+
+   (b)   Taxicab Operators and Taxicab Vehicle Permittees.  (Amended
+by Ord. No. 177,843, Eff. 10/1/06.)
+
+
+
+ 
+
+
+
+      (1)   Each new or replacement member of a franchised taxicab
+operator who makes application for membership as a taxicab vehicle permittee
+shall submit with an application a nonrefundable processing fee, in the
+amount specified in Section 71.06.1.
+
+
+
+ 
+
+
+
+   (2)   Each franchised taxicab operator shall pay an annual taxicab
+vehicle permit fee, in the amount specified in Section 71.06.1, for each
+vehicle fleet position slot used during the calendar year.
+
+
+
+ 
+
+
+
+   (3)   The monthly franchise base fee for each authorized taxicab
+fleet position shall be $128.00 multiplied by a meter rate adjustment factor
+(MRAF).  The MRAF shall be determined by the Board and shall be the ratio of
+the cost of a five paid-mile trip at the level of rates that may be approved
+by Board Order from time to time to the cost of a five paid-mile trip at the
+meter rates in effect at the effective date of this ordinance.
+
+
+
+ 
+
+
+
+   (4)   The total monthly franchise fee for each authorized taxicab
+fleet position shall be the base fee multiplied by the Service Factor.
+
+
+
+ 
+
+
+
+   (5)   Upon the effective date of this ordinance, the Service Factor
+shall be fifty percent until modified by the Board.
+
+
+
+ 
+
+
+
+   (6)   The total monthly franchise fee payment is due 30 days after
+the end of the month in which payment has accrued.  The payment is
+delinquent if not paid on or before the due date.
+
+
+
+ 
+
+
+
+   (7)   A penalty of ten percent of the amount of the payment shall be
+assessed on any payment that has become delinquent.  Failure to pay any
+delinquent payment on or before the last day of the fourth month following
+the date on which the payment first became delinquent will result in the
+assessment of a second penalty of ten percent of the amount of the payment in
+addition to the amount of the payment and the ten percent penalty first
+imposed.
+
+
+
+ 
+
+
+
+   (8)   In addition to the penalties imposed above, failure to pay any
+payment required by ordinance and by the franchise will result in the
+assessment of interest charges at the rate of one and one-half percent per
+month, or fraction of a month, on the amount of the payment, exclusive of
+penalties, from the date on which the payment first became delinquent until
+it is paid.
+
+
+
+ 
+
+
+
+   (9)   The amount of any monthly franchise fee in excess of the
+monthly fee that is calculated using a Service Factor of fifty percent shall
+not be allowed as a permit fee expense for the rate making purposes.
+
+
+
+ 
+
+
+
+   (10)   Each franchised taxicab operator shall pay a monthly taxicab
+vehicle bandit enforcement fee, in the amount specified in Section 71.06.1,
+for each taxicab in service (provided a City Seal by the City) during any
+part of the billing month.  This assessment shall be collected only if a
+portion of the taximeter activation "flag drop" charge, or other funding
+mechanism, has been established and approved for bandit enforcement by the
+Board of Taxicab Commissioners.  Revenue generated from the collection of
+taxicab vehicle bandit enforcement fees shall be placed into a separately
+designated account in the Transportation Regulation and Enforcement Trust
+Fund, and shall be used for the establishment and maintenance of a unit of
+police officers dedicated to enforcing the City's laws prohibiting the
+operation of illegal taxicabs and vehicles for hire.  Revenue collected in
+excess of the funding level contractually agreed to or stipulated by the
+Department for these police officer enforcement efforts shall be retained and
+used by the Department exclusively for bandit taxicab enforcement purposes.
+
+
+
+ 
+
+
+
+   (c)   (Amended by Ord. No. 180,541, Eff. 3/28/09.) Each application
+for a new, or renewal vehicle permit, other than a taxicab, shall be
+accompanied by a non-refundable filing fee in the amount specified in Section
+71.06.1 for each vehicle covered by the application.
+
+
+
+ 
+
+
+
+   If the application is for a permit to operate a vehicle, other than a
+taxicab that is inspected at least annually by another governmental agency,
+then the non-refundable Vehicle Permit processing fee for such vehicle shall
+be reduced by $25.00.
+
+
+
+ 
+
+
+
+   If the application is for a permit to use a vehicle, other than a
+taxicab or non-motorized vehicle, for a period not exceeding 30 days, as a
+substitute for a vehicle for which a permit is in full force and effect, no
+processing fee shall be required.  If the application is for a temporary
+permit in excess of 30 days, it shall be accompanied by a non-refundable
+processing fee of $50.00 for each vehicle covered by such application. 
+Temporary permits, other than for taxicabs or non-motorized vehicles, will
+not be issued for a period in excess of 60 days.
+
+
+
+ 
+
+
+
+   (d)   Any money due to the Department of Transportation by any
+applicant for a vehicle permit, including money owed for outstanding parking
+tickets or other fines assessed by the Department, must first be paid, or the
+matter otherwise resolved to the satisfaction of the Department, prior to the
+issuance of such permit.  (Amended by Ord. No. 166,534, Eff. 1/31/91.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.06.  APPLICATION FOR DRIVER AND AMBULANCE ATTENDANT PERMITS.
+
+
+
+   (Amended by Ord. No. 173,901, Eff. 5/31/01.)
+
+
+
+ 
+
+
+
+   Every applicant for a driver permit or an attendant permit shall file
+with the Department an application upon a form furnished by the Department,
+containing such information as is required by the rules and regulations of
+the Board.  Any money due the Department of Transportation by any 
+applicant for a driver or attendant permit including money owed for
+outstanding parking tickets or other fines assessed by the Department, must
+be paid, or the matter otherwise resolved to the satisfaction of the
+Department, prior to the issuance of such permit.  Every application for a
+driver permit or an attendant permit shall be accompanied by a non refundable
+processing fee in the amount specified in Section 71.06.1 or Section 71.06.2.
+
+
+
+ 
+
+
+
+   Each applicant for a taxicab driver permit must also be issued an
+identification badge and shall pay a non refundable processing fee in the
+amount specified in Section 71.06.1.
+
+
+
+ 
+
+
+
+   Every application for a driver permit for a non-motorized vehicle shall
+be accompanied by a non refundable processing fee in the amount specified in
+Section 71.06.1.
+
+
+
+ 
+
+
+
+   The Board may require an applicant to furnish via live-scan capture or
+on forms prescribed by the Board, the fingerprints of the applicant.  A non
+refundable fingerprint processing fee in the amount specified in Section
+71.06.1, which is in addition to the application processing fee, shall
+accompany the application for which fingerprint processing is required.
+
+
+
+ 
+
+
+
+   Upon approval of the application, the Department shall issue to the
+permittee a conditional permit in the form prescribed by the Board, pending
+receipt of applicant’s criminal history record.  If such record proves to
+be satisfactory to the Department, the permit issued shall no longer be
+considered conditional.
+
+
+
+ 
+
+
+
+   Notwithstanding Sections 71.07, 71.08 and 71.09 hereof, falsification
+of an application for driver permit shall be grounds for immediate
+cancellation of a permit and/or denial of an application for a permit by the
+Department.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.06.1.  APPLICATION PROCESSING AND OTHER FEES.
+
+
+
+   (Amended by Ord. No. 183,255, Eff. 11/30/14.)
+
+
+
+ 
+
+
+
+   The Department shall collect the following fees for processing the
+indicated permit applications or providing the indicated items:
+
+
+
+ 
+
+
+
+ 
+
+
+
+(a)
+ 
+
+Taxicab Vehicle Permit   
+
+ 
+
+$81.00
+
+
+
+(b)
+ 
+
+Initial and Renewal Private Ambulance Vehicle Permit   
+
+ 
+
+645.00
+
+
+
+(c)
+ 
+
+Initial and Renewal Non-ambulatory Passenger Vehicle Permit   
+
+ 
+
+567.00
+
+
+
+(d)
+ 
+
+Initial and Renewal Public Transportation Vehicle Permit   
+
+ 
+
+526.00
+
+
+
+(e)
+ 
+
+Initial and Renewal Automobile for Hire Vehicle Permit   
+
+ 
+
+250.00
+
+
+
+(f)
+ 
+
+Initial and Renewal Motor Bus Vehicle Permit   
+
+ 
+
+314.00
+
+
+
+(g)
+ 
+
+Initial and Renewal Non-motorized Passenger Vehicle Permit   
+
+ 
+
+196.00
+
+
+
+(h)
+ 
+
+Initial Driver or Attendant Permit   
+
+ 
+
+106.00
+
+
+
+(i)
+ 
+
+Renewal Driver or Attendant Permit   
+
+ 
+
+146.00
+
+
+
+(j)
+ 
+
+Initial Non-motorized Driver Permit   
+
+ 
+
+47.00
+
+
+
+(k)
+ 
+
+Renewal Non-motorized Driver Permit   
+
+ 
+
+47.00
+
+
+
+(l)
+ 
+
+Taxicab Vehicle Decal (for each decal set)   
+
+ 
+
+45.00
+
+
+
+(m)
+ 
+
+Vehicle Decal (for other than taxicabs)   
+
+ 
+
+45.00
+
+
+
+(n)
+ 
+
+Taxicab Driver Identification Badge   
+
+ 
+
+5.00
+
+
+
+(o)
+ 
+
+Replacement of existing Driver or Attendant Permit (for lost permit, name
+change or change of company)   
+
+ 
+
+52.00
+
+
+
+(p)
+ 
+
+Fingerprint Processing   
+
+ 
+
+88.00
+
+
+
+(q)
+ 
+
+Outside Agency Service Fees   
+
+ 
+
+As Required
+
+
+
+(r)
+ 
+
+Taxicab Rule Book   
+
+ 
+
+3.00
+
+
+
+(s)
+ 
+Taxicab Membership Application   
+ 
+
+277.00
+
+
+
+(t)
+ 
+
+Monthly Taxicab Vehicle Bandit Enforcement Fee (per sealed taxicab)   
+
+ 
+
+30.00
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.06.2.  FEES FOR SERVICES PROVIDED OUTSIDE OF NORMAL WORKING HOURS.
+
+
+
+   (Re-added by Ord. No. 171,247, Eff. 9/27/96.)
+
+
+
+ 
+
+
+
+   Upon request to the Department of Transportation with respect to
+matters involving the regulation of vehicles defined in Section 71.00, the
+Department may assign staff to provide services outside of normal working
+hours, subject to payment to the City of its costs as hereinafter provided:
+
+
+
+ 
+
+
+
+   (a)   Each such request must be received by the Department no less
+than one week prior to the time for which services are requested.
+
+
+
+ 
+
+
+
+   (b)   In each such instance the Department of Transportation shall
+charge and collect the total costs of Departmental work, services, and
+materials provided outside of normal working hours.
+
+
+
+ 
+
+
+
+   (c)   Prior to the Department proceeding pursuant to any such
+request, the applicant requesting services outside of normal working hours
+shall deposit with the City that sum estimated by the Department to be
+sufficient to pay the City for all City costs with respect thereto.
+
+
+
+ 
+
+
+
+   (d)   The deposit may vary in amount from time to time depending
+upon the scope of the costs and expenses reasonably anticipated as necessary
+to provide the work, services, and materials to be used for the services
+requested, provided that the estimated sum required to be deposited shall be
+based upon and not be inconsistent with the actual costs of similar work done
+by, and materials used by, the Department in the regular course of its duties.
+
+
+
+ 
+
+
+
+   (e)   The Department shall estimate the amount of the deposit in
+conformity with a schedule adopted by the General Manager on a semiannual or
+less frequent basis which sets forth and applies then current salary
+schedules and verifiable time and materials costs of the City with respect to
+those types of Departmental activities.  The schedule shall be kept on file
+by the Department and be available to any applicant depositor at the time an
+application is made or as otherwise requested.
+
+
+
+ 
+
+
+
+   (f)   Money received as a deposit from an applicant shall be
+deposited into the Department of Transportation Trust Fund and shall be
+transferred to the General Fund to first reimburse the Departmental costs
+incurred in providing services and materials referred to in Subsection (b)
+above for the applicant-depositor.
+
+
+
+ 
+
+
+
+   (g)   As a condition to the Department proceedings set forth above,
+any deposit accepted pursuant to this section shall be adjusted at the
+completion of the services requested to conform to actual costs as follows:
+
+
+
+ 
+
+
+
+   1.   In the event actual costs incurred by the City are less than
+the deposit received by the City, the applicant shall be entitled to
+reimbursement of the excess from the deposit; and
+
+
+
+ 
+
+
+
+   2.   In the event the costs exceed the sum on deposit, all such
+additional costs shall be paid by the applicant-depositor to the City upon
+demand.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.06.3.  REVIEW OF FEES FOR SERVICE.
+
+
+
+   (Added by Ord. No. 180,541, Eff. 3/28/09.)
+
+
+
+ 
+
+
+
+   The Department of Transportation shall provide an annual review of the
+vehicle and driver permitting fees designated in Section 71.06.1, subsections
+(a) through (s), and shall submit recommendations for changes in these fees
+for special services to the Council, as follows:
+
+
+
+ 
+
+
+
+   (a)   By May 1st of each odd numbered year, the Department shall
+provide a comprehensive study of fees for services, and shall provide a
+report and proposed draft ordinance to the Mayor and the City Council
+detailing any requested changes in the fees for special services for any
+particular item listed in Section 71.06.1.  The comprehensive study shall
+include:  1) measurement of the average salary increase in effect for all
+vehicle-for-hire staff members from the previous calendar year; 2)
+measurement of changes in material, equipment and contract costs related to
+any and all fee-for-service items; 3) adjustment of any changes required in
+the amount of personnel time necessary to complete any fee-for-service
+activity; and 4) current indirect costs for labor provided by the City's Cost
+Allocation Plan.  Cost figures shall be compared to the current baseline
+established for each fee.  Recommended fee changes shall be rounded to the
+nearest whole dollar.  The recommended fee changes shall be requested to
+take effect beginning July 1st of the reporting year.
+
+
+
+ 
+
+
+
+   (b)   By May 1st of each even numbered year, the Department shall
+provide a proposal for adjustment of fees for services, and shall provide a
+report and proposed draft ordinance to the Mayor and the City Council
+detailing any requested changes in the fees for service for any particular
+item listed in Section 71.06.1.  The adjustment shall include a measurement
+of the average salary increase in effect for all vehicle-for-hire staff
+members from the previous calendar year.  Current indirect costs for labor
+derived from the City's Cost Allocation Plan also shall be included as part
+of the adjustment and assessment report.  Cost figures shall be compared to
+the current baseline established for each fee.  Recommended fee changes
+shall be rounded to the nearest whole dollar.  The recommended fee changes
+shall be requested to take effect beginning July 1st of the reporting year.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.07.  THE BOARD’S POWER TO REVOKE OR SUSPEND DRIVER, ATTENDANT, OR
+VEHICLE PERMITS.
+
+
+
+   (Section and Title Amended by Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   The Board shall have the power after public hearing to deny, revoke,
+suspend or cancel any driver, attendant, or vehicle permit for which this
+article makes provision. The exercise of such power, except in an emergency
+situation involving public health and safety, shall be subject to the
+affected permittee having been given adequate notice of the hearing, the
+proposed action, the reasons thereof, a copy of the charges upon which the
+action is based, and the permittee shall have the right to respond, either
+orally or in writing.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.08.  GROUNDS FOR DENIAL, REVOCATION, SUSPENSION OR CANCELLATION OF
+PERMIT.
+
+
+
+   (Amended by Ord. No. 150,456, Eff. 12/30/77.)
+
+
+
+ 
+
+
+
+   The following shall constitute grounds for denial, revocation,
+suspension or cancellation of any driver, attendant, or vehicle permit for
+which this article makes provision:  (First para. amended by Ord. No.
+165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   (a)   Arrest for the commission of any crime while driving a vehicle
+defined in Section 71.00 or any crime involving moral turpitude;
+
+
+
+ 
+
+
+
+   (b)   Violation of any rule or regulation of the Board, any section
+of the Los Angeles Municipal Code, Los Angeles Administrative Code and other
+ordinances of the City, any rule or regulation of the Department of Airports,
+and any section of a State Statute or Administrative Code, relating to the
+operation of a vehicle defined in Sec. 71.00 and for which a permit is
+required under this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.09.  PROCEDURES FOR DENIAL, REVOCATION, SUSPENSION OR CANCELLATION
+OF PERMITS BY THE GENERAL MANAGER OR HIS AUTHORIZED REPRESENTATIVE.
+
+
+
+   (Amended by Ord. No. 150,456, Eff. 12/30/77.)
+
+
+
+ 
+
+
+
+   (a)   Immediate suspension:  The General Manager of the Department
+or his authorized representative may immediately suspend a permit when it is
+determined that an emergency involving public health or safety requires such
+suspension. Permittee shall be given notice of such suspension in writing
+delivered to the permittee either in person or by registered letter.
+
+
+
+ 
+
+
+
+   (b)   Temporary suspension:  The General Manager of the Department
+or his authorized representative may temporarily suspend any permit. Such
+temporary suspension shall be after the permittee has been given notice to
+appear before the General Manager or his authorized representative for a
+hearing on the charges. Such notice shall include the basis for the proposed
+charges. The permittee shall have the right to respond either orally or in
+writing. If after hearing it is determined that cause for suspension exists
+the permittee may accept the suspension of the permit or fill out a
+prescribed form requesting a hearing before the Board. The Board shall
+consider such request and the grounds therefor and shall take appropriate
+actions thereon subject to the provisions of Section 71.07.  (Amended by
+Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   (c)   Permanent suspension, revocation or cancellation:  Whenever
+investigation determines that cause for permanent suspension, revocation or
+cancellation of a permit exists, the permittee shall be given notice to
+appear before the Board for a hearing.  (Amended by Ord. No. 165,491, Eff.
+3/19/90.)
+
+
+
+ 
+
+
+
+   (d)   Waiver of hearing:  Failure of permittee to respond to a
+notice to appear for a hearing before the General Manager of the Department
+or his authorized representative or before the Board is a waiver of the right
+to a hearing and action may be taken without permittee being present.
+
+
+
+ 
+
+
+
+   (e)   (Added by Ord. No. 165,491, Eff. 3/19/90.)  The General
+Manager of the Department or his authorized representative, or any officer of
+the Los Angeles Police Department, may take possession of any badge, card,
+permit, license or vehicle decal issued under the provisions of this chapter,
+upon expiration, revocation, cancellation or suspension thereof, or which is
+fictitious or which has been unlawfully or erroneously issued. Any decal, or
+other taxicab or vehicle identification as approved by the Board, which is
+not attached to the vehicle for which it was issued may be seized.
+
+
+
+ 
+
+
+
+   Any such document or decal seized shall be delivered to the Department.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.09.1.  REHEARING.
+
+
+
+ 
+
+
+
+   Upon receipt of a written request from a person whose permit has been
+denied, suspended revoked or cancelled stating the grounds for protesting
+such action, the Board shall consider the basis of the request and may set
+the matter for rehearing, notify the applicant and take appropriate action. 
+(Added by Ord. No. 150,456, Eff. 12/30/77.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.09.2.  MONETARY PENALTIES FOR DRIVER, VEHICLE AND ATTENDANT
+PERMITTEES.
+
+
+
+   (Amended by Ord. No. 173,901, Eff. 5/31/01.)
+
+
+
+ 
+
+
+
+   (a)   Monetary penalties may be levied against an individual permit
+holder in lieu of or in addition to suspension, revocation or cancellation of
+permits as described in Sec. 71.09.  Monetary penalties may be levied on a
+per violation or a per day basis and may escalate on a first, second, or
+third violation basis.  Violations which endanger the public health,
+welfare, and/or safety shall receive the maximum penalties.
+
+
+
+ 
+
+
+
+   (b)   The Board shall adopt by resolution a schedule of monetary
+penalties for specific violations.  (Amended by Ord. No. 177,715, Eff.
+9/4/06.)
+
+
+
+ 
+
+
+
+   (c)   The monetary penalties established by the Board in (b) above
+may be assessed and collected by the General Manager of the Department or
+authorized representative.
+
+
+
+ 
+
+
+
+   (d)   The Board may adopt a hearing examiner procedure in accordance
+with Div. 19, Ch. 3, Art. 1 of the Los Angeles Administrative Code.
+
+
+
+ 
+
+
+
+   (e)   Payment of a monetary penalty or the serving of a suspension
+shall constitute a waiver of the right to further appeal of any monetary
+penalty or suspension to the Board.
+
+
+
+ 
+
+
+
+   (f)   The provisions of Section 71.02.2 (f) are applicable herein.
+
+
+
+ 
+
+
+
+   (g)   The total monetary penalty payment is due by the date
+established by the Board or 30 days after the end of the month in which
+payment has accrued, whichever comes first.  The payment  is delinquent if
+not paid on or before the due date.
+
+
+
+ 
+
+
+
+   (h)   A penalty of 10% or as otherwise established by the Board  of
+the amount of the payment shall be assessed on any payment which has become
+delinquent.  Failure to pay any delinquent payment on or before the last day
+of the fourth month following the date on which the payment first became
+delinquent will result in the assessment of a second penalty of 10% of the
+amount of the payment in addition to the amount of the payment and the 10%
+penalty first imposed.
+
+
+
+ 
+
+
+
+   (i)   In addition to the penalties imposed above, failure to pay any
+payment required by ordinance and by the franchise or operating permit will
+result in the assessment of interest charges at the rate of 1-1/2% per month,
+or fraction thereof, on the amount of the payment, exclusive of penalties,
+from the date on which the payment first became delinquent until it is paid.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.10.  REGULATIONS DURING SUSPENSION PERIOD.
+
+
+
+ 
+
+
+
+   From the time of the revocation or during the suspension of any permit,
+no person whose permit is suspended or revoked shall drive, operate or be in
+charge of any of the vehicles defined in Section 71.00, or permit the
+vehicles on which the permit has been suspended or revoked to engage in the
+several classes of business mentioned in Section 71.00 or allow any such
+vehicle to stand while awaiting employment at a location designated in such
+suspended or revoked permit until a new permit has been procured or until the
+period of suspension shall have expired.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.11.  DURATION AND RENEWAL OF PERMITS.
+
+
+
+   (Amended by Ord. No. 145,593, Eff. 3/28/74.)
+
+
+
+ 
+
+
+
+   Permits issued under the provisions of this article shall be for the
+following durations:
+
+
+
+ 
+
+
+
+   (a)   Vehicle permit shall be issued initially for a period not to
+exceed one year and renewals thereof shall be for maximum one year periods
+thereafter.  (Amended by Ord. No. 157,741, Eff. 7/9/83.)
+
+
+
+ 
+
+
+
+   (b)   (Amended by Ord. No. 165,491, Eff. 3/19/90.)  Driver permits
+and attendant permits shall be issued initially for a period not to exceed
+one year and renewals shall be for two-year periods thereafter.
+
+
+
+ 
+
+
+
+   Vehicle, driver and attendant permits shall expire upon such date or
+dates as may be fixed by the Department.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.12.  REQUIREMENTS OF PUBLIC CONVENIENCE AND NECESSITY.
+
+
+
+   (Amended by Ord. No. 161,493, Eff. 8/11/86.)
+
+
+
+ 
+
+
+
+   (a)   The applicant shall have the burden of proof to establish by
+clear and convincing evidence that public convenience and necessity requires
+the operation of the vehicle for which the permit application was made.
+
+
+
+ 
+
+
+
+   No vehicle permit for the operation of any vehicle defined in Section
+71.00 shall be granted until the Board, after a public hearing, conducted in
+accordance with rules and regulations prescribed by the Board, determines
+that the applicant has presented the necessary evidence to justify the
+issuance of such vehicle permit.
+
+
+
+ 
+
+
+
+   Evidence of public convenience and necessity shall not be necessary for
+the granting of the same number of permits held by the applicant under the
+same name and color scheme on the date prescribed by the Department for the
+expiration of permits, and said permits shall be classed as renewals and
+shall be granted automatically on the filing of an application unless
+applicant violates other provisions of this article. In addition, evidence of
+public convenience and necessity shall not be necessary for granting of
+vehicle permits for vehicles operated pursuant to any government grant
+program provided, however, that such vehicles are dedicated to such program
+use.
+
+
+
+ 
+
+
+
+   Such authority shall not be used in support of an application for
+authority to operate any other type of service and such authority shall cease
+whenever the government grant program is terminated.
+
+
+
+ 
+
+
+
+   (b)   No franchise for the operation of any vehicle defined in
+Section 71.00 shall be granted except pursuant to and in accordance with the
+provisions of Article 2 through Article 13 inclusive of Chapter 1, Division
+13 of the Los Angeles Administrative Code, which prescribes the procedure for
+the granting of franchises, and the Board shall consider public convenience
+and necessity prior to making its recommendation to Council on any
+application for such franchise.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.13.  SPECIFIC FINDINGS REQUIRED.
+
+
+
+   (Amended by Ord. No. 161,493, Eff. 8/11/86.)
+
+
+
+ 
+
+
+
+   The Board, in determining whether or not public convenience and
+necessity exists, may take into consideration all facts as it may deem
+pertinent and proper which include, but are not limited to,  consideration
+of the following:
+
+
+
+ 
+
+
+
+   (a)   Evidence presented by the applicant to the Board in support of
+applicant’s financial capability, e.g., financial statements: current and
+pro forma profit and loss statements and current balance sheet.
+
+
+
+ 
+
+
+
+   (b)   Evidence that the persons holding permits for the operation of
+particular vehicles are or are not, under efficient management, earning a
+fair and reasonable return on their capital devoted to such service.
+
+
+
+ 
+
+
+
+   (c)   Evidence from the applicant that the persons holding permits
+for the operation of the type of vehicle for which the application is being
+made are or are not, under normal conditions, adequately serving the public.
+
+
+
+ 
+
+
+
+   (d)   Testimony (written and/or verbal) and statistical data daily
+trip volume, trips referred, delays in response time, etc.) presented in
+support of application.
+
+
+
+ 
+
+
+
+   (e)   Results of a Department investigation of users and suppliers
+of the service in the area indicating whether existing services are meeting
+the need or demand. Applicants for additional vehicles must be providing the
+minimum acceptable quality of service as established by the Board.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.14.  INSURANCE OR BOND REQUIRED.
+
+
+
+ 
+
+
+
+   (a)   (Amended by Ord. No. 170,068, Eff. 11/18/94.)  Before any
+vehicle permit or franchise is issued for any vehicle mentioned in Section
+71.00, the operator of the vehicle shall file with the Department, and 
+shall thereafter keep in full force and effect a policy of insurance in such
+form and amounts as the  Board in consultation with the City Administrative
+Officer’s Risk Management Section may from time to time require but not
+less than the appropriate sums specified in the following table.  Such
+insurance shall be written by an insurance company authorized to do business
+in the State of California, insuring the operator against liability for any
+loss or damage that may result to any persons or property from the operation
+of such vehicle:
+
+
+
+
+
+
+
+ 
+
+
+Seating Capacity of Vehicle
+
+ 
+
+For Bodily Injury to or Death of One Person
+
+ 
+
+For Bodily Injury to or Death of More Than One Person in Any One Accident
+
+ 
+
+For Loss or Damage to Property in Any One Accident
+
+
+
+1-7 passengers
+ 
+
+$100,000
+
+ 
+
+$300,000
+
+ 
+
+$50,000
+
+
+
+8-12 passengers
+ 
+
+100,000
+
+ 
+
+350,000
+
+ 
+
+100,000
+
+
+
+13-20 passengers
+ 
+
+100,000
+
+ 
+
+450,000
+
+ 
+
+100,000
+
+
+
+21-30 passengers
+ 
+
+100,000
+
+ 
+
+500,000
+
+ 
+
+100,000
+
+
+
+Over 30 passengers
+ 
+
+100,000
+
+ 
+
+600,000
+
+ 
+
+100,000
+
+
+
+
+ 
+
+
+
+   EXCEPTION:
+
+
+
+ 
+
+
+
+   Operators of non-motorized vehicles shall maintain a policy of
+insurance for public liability and property damage in amounts to be
+determined by the Board.
+
+
+
+ 
+
+
+
+   Such operator may, in lieu of the aforesaid policy of insurance, file
+with the Department a bond in such form as the Department may require,
+approved by the City Attorney, executed by a corporate surety authorized to
+conduct business under the laws of the State of California as a surety in a
+sufficient amount which bond shall be conditioned upon the payment of all
+final judgments which may be rendered against such operator for damages on
+account of injuries to any person or property from the operation of such
+vehicle, and which bond shall be in the amount specified in the following
+table, according to the size and number of motor vehicles permitted or
+franchised.
+
+
+
+
+
+
+
+ 
+
+
+Number of Vehicles Owned or Offered For Hire
+
+ 
+
+Amount of Bond as to Vehicles Having a Seating Capacity of Less than 11
+Passengers
+
+ 
+
+Amount of Bond as to Vehicles Having a Seating Capacity of More than 10
+Passengers
+
+
+
+1
+ 
+
+$220,000.00
+
+ 
+
+$440,000.00
+
+
+
+2-5
+ 
+
+300,000.00
+
+ 
+
+600,000.00
+
+
+
+6-20
+ 
+
+400,000.00
+
+ 
+
+800,000.00
+
+
+
+21-60
+ 
+
+500,000.00
+
+ 
+
+1,000,000.00
+
+
+
+61-100
+ 
+
+600,000.00
+
+ 
+
+1,200,000.00
+
+
+
+Over 100
+ 
+
+700,000.00
+
+ 
+
+1,400,000.00
+
+
+
+
+ 
+
+
+
+   (b)   In the event of the return unsatisfied of any execution issued
+on any judgment rendered against such operator for damages on amount of
+injury to person or property occasioned by such motor vehicle, such operator
+shall, within ten days after the return of such execution unsatisfied, pay
+such judgment or increase the amount of his bond by the amount thereof, and
+failing to do so, he shall forthwith cease his operations until such judgment
+is paid or such bond is so increased.  (Amended by Ord. No. 165,491, Eff.
+3/19/90.)
+
+
+
+ 
+
+
+
+   (c)   All policies or bonds shall contain a provision for continuing
+liability thereunder up to the full amount thereof notwithstanding any
+recovery thereon.
+
+
+
+ 
+
+
+
+   (d)   If an operator has net assets of at least $500,000.00, he/she
+may file with the Department a current balance sheet certified by a certified
+public accountant, and if such balance sheet be approved by the Board, and if
+the Board shall find that such person has net assets of at least $500,000.00,
+as aforesaid, and has stipulated in writing to meet all other conditions
+prescribed by the Board, after Board’s consideration of recommendations of
+the City’s Risk Manager, as required for self-insurance, then no policy of
+liability insurance or bond need be filed by such operator; subject, however,
+to the provisions of Subsection (e) of this section.  (Amended by Ord. No.
+165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   (e)   Any operator electing to file a balance sheet in lieu of a
+policy of liability insurance or bond as hereinabove provided shall
+thereafter file with the Department, at such period or periods as may be
+prescribed by the Board from time to time, but not less than annually,
+current balance sheets certified to by a certified public accountant. The
+Board may at any time make a further investigation of the net assets of any
+such person, and whenever the Board find that such person does not appear to
+have net assets of at least $500,000, as aforesaid, or has not complied with
+other provisions required as conditions of self-insurance, the Board may
+revoke the authority of such person to file balance sheets in lieu of a
+policy of liability insurance or bond, as aforesaid, and shall require such
+person immediately to file with the City a policy of liability insurance or
+bond as hereinabove required.  (Amended by Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   (f)   No person shall operate any vehicle described in Section 71.00
+unless there is a policy or bond on file in full force and effect as provided
+by this section or there is a current balance sheet on file with the
+Department approved by the Board as aforesaid, and such person is in
+compliance with all other Board requirements for self-insurance.  (Amended
+by Ord. No. 162,615, Eff. 8/16/87.)
+
+
+
+ 
+
+
+
+   (g)   Any operator may file with the Department such combination of
+policy of insurance and bond as will afford the public protection at least
+equivalent to the insurance specified above with respect to the payment of
+judgments obtained against said operator. Such filing shall be subject to
+approval by the City Attorney.  (Amended by Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.15.  CONTRACTS BETWEEN OWNERS AND EMPLOYEES.
+
+
+
+   (Amended by Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   Vehicles described in Section 71.00 for which a permit or franchise has
+been granted shall be driven by the grantee thereof or by an employee of the
+grantee. No grantee or driver of such vehicle shall enter into any contract,
+agreement or understanding between themselves by the terms of which such
+driver pays to, or for the account of, such grantee a fixed or determinable
+sum for the use of such vehicle. Notwithstanding the foregoing provisions of
+this section, however, any motor bus or taxicab as described in Section 71.00
+for which a permit or franchise has been granted may be driven pursuant to a
+contract, agreement, or understanding between the grantee and the driver
+provided the grantee secures the prior authorization of the Board regarding
+the extent thereof and in the granting of such permission, if the Board does
+grant such permission, the Board is empowered to impose such conditions as it
+deems necessary. The Board is further empowered to impose any such conditions
+as it deems necessary as to any authorizations heretofore given by the Board
+permitting such leasing or contracting.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.16.  TAXICAB IDENTIFICATION.
+
+
+
+ 
+
+
+
+   (a)   No taxicab shall be operated by any person without a
+distinctive and uniform color scheme or identification which designates the
+operator of said vehicle and which has been approved by the Department. 
+(Amended by Ord. No. 149,526, Eff. 5/21/77.)
+
+
+
+ 
+
+
+
+   (b)   No color scheme, name, monogram, or identification shall be
+in  conflict with or imitate any color scheme, monogram, or name of 
+identification used by another taxicab grantee in such a manner as to  be
+misleading or to tend to confuse or defraud the public.  (Amended by Ord.
+No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   (c)   Each taxicab operated under a franchise shall be identified as
+a City of Los Angeles authorized taxicab by decals or other suitable means as
+adopted by the Board.  Identifying decals shall be provided by the Board for
+such purpose upon payment of the Taxicab Vehicle Decal fee specified in
+Section 71.06.1.  No person shall identify any vehicle by means of such
+decal, or any facsimile thereof, unless authorized to do so by the
+regulations of the Board.  (Amended by Ord. No. 174,058, Eff. 8/9/01.) 
+
+
+
+ 
+
+
+
+   (d)   No person shall identify any vehicle by means of a City of Los
+Angeles decal or facsimile thereof unless authorized to do so by the Board. 
+(Added by Ord. No. 175,004, Eff. 1/26/03.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.16.1.  VEHICLE IDENTIFICATION.
+
+
+
+   (Amended by Ord. No. 173,901, Eff. 5/31/01.)
+
+
+
+ 
+
+
+
+   (a)   Each vehicle, other than taxicabs, operated pursuant to a
+permit issued under the provisions of this Article shall be identified as
+such by decals or other suitable means as adopted by the Board.  Such
+identification shall be displayed as specified by the Board.  Identifying
+decals shall be provided by the Board for such purpose upon payment of the
+Vehicle Decal fee specified in Section 71.06.1.  No person shall identify
+any vehicle by means of such decal, or any facsimile thereof, unless
+authorized to do so by the regulations of the Board.
+
+
+
+ 
+
+
+
+   (b)   Every motor vehicle other than taxicabs or autos for hire used
+and defined herein to carry passengers for hire, shall have displayed on both
+sides of each vehicle the name or trademark of the person under whose
+authority the vehicle is being operated or the name of the lessor or lessee
+thereof.  The display of the name or trademark shall be permanently marked
+in letters in sharp contrast to the background and shall be of such size,
+shape, or color as to be readily legible during daylight hours from a
+distance of 50 feet.  This section does not prohibit additional displays
+approved by the Board not inconsistent with this section.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.17.  LICENSES.
+
+
+
+   (Amended by Ord. No. 173,301, Eff. 6/30/00, Oper. 7/1/00.)
+
+
+
+ 
+
+
+
+   Each permit issued under the provisions of this article shall entitle
+the holder thereof to obtain a license to engage in the business described in
+said permit from the Office of Finance upon the payment of the license fee,
+and the Office of Financeshall issue to the holder, a license setting forth
+the kind of transportation for which such license is issued and the year when
+issued.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.18.  PERMITTED VEHICLE ZONES.
+
+
+
+   (Amended by Ord. No. 173,901, Eff. 5/31/01.)
+
+
+
+ 
+
+
+
+   (a)   The Department may establish zones to be used for the parking
+of vehicles defined in Section 71.00, or operated in passenger transportation
+service by authority of the California Public Utilities Commission, while
+awaiting employment.
+
+
+
+ 
+
+
+
+   (b)   Any zone so designated shall be occupied only by the permittee
+or permittees so authorized where such zone has been established in
+accordance with the provisions herein contained, and shall be occupied only
+during such hours of the day as may be specified by said Department.
+
+
+
+ 
+
+
+
+   (c)   All existing and future taxicab zones established in the City
+shall be open to use by all taxicab operators franchised by the City to
+operate in the service area of said zone.  The Department  shall make such
+conditions as it finds necessary to regulate such joint use of taxicab
+zones.  The Board may, after public hearing, determine that public interest
+requires that one or more taxicab operators be restricted or prohibited from
+the use of any specified zone.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.19.  VEHICLE SIGNS.
+
+
+
+ 
+
+
+
+   (a)   Automobiles for hire while standing upon any street awaiting
+employment may display a sign with the words thereon “For Hire”. Such
+sign shall be of metal and of a uniform size of 6 by 9 inches.
+
+
+
+ 
+
+
+
+   (b)   Every vehicle used for carrying passengers for sightseeing
+purposes while standing upon any street awaiting employment may display a
+sign with the words thereon “Sightseeing Bus” giving the route, points
+visited or destination. Sightseeing bus signs shall be of metal of a uniform
+size of 8  by 24 inches.
+
+
+
+ 
+
+
+
+   (c)   The outer surface of all signs specified in this paragraph
+shall be painted or enamelled a dark color and the letters and figures
+appearing thereon shall be white.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.20.  TAXICAB SIGNS.
+
+
+
+ 
+
+
+
+   (a)   Every taxicab shall display in both the front seat and the
+rear seat, in full view of passengers in either of said seats, in letters and
+figures which are clearly legible and not less than one-quarter inches high
+the rates to be charged. The rate display shall either be of a permanent
+character or be protected by glass or other suitable transparent material and
+shall have printed thereon the name under which the owner of said taxicab
+operates and the business address and telephone number of such owner.
+
+
+
+ 
+
+
+
+   (b)   Every taxicab shall have lettered upon the sides of said
+taxicab the name under which the owner thereof operates together with the
+telephone number and the cab number of such owner. The number of the cab
+shall also be displayed in such a manner that it is plainly visible from the
+rear. All of the lettering mentioned in this subsection shall be of not less
+than 2 inches in height and not less than 5/16-inch stroke.
+
+
+
+ 
+
+
+
+   (c)   Every taxicab may display an electrically lighted
+identification or vacant sign or combination of both attached to the top of
+such cab. Every such sign shall not be more than 34 inches in length, 10
+inches in height, or 10 inches in width.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.21.  OTHER SIGNS – PERMIT REQUIRED.
+
+
+
+   (Amended by Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   No person shall display any sign other than those provided in Sections
+71.19 and 71.20 without first obtaining the written permission of the Board
+to do so.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.22.  TAXIMETERS.
+
+
+
+ 
+
+
+
+   (a)   No owner operating any taxicab shall operate such vehicle
+unless it is equipped with a taximeter of such type and design as has been
+accepted by the Department of Agriculture. Every owner using any taximeter
+shall at all times keep such meter accurate as established by order as
+adopted by the California Department of Agriculture.
+
+
+
+ 
+
+
+
+   (b)   Any inspector of the Department of Transportation or peace
+officer is authorized to remove any vehicle equipped with an inaccurate
+taximeter from the streets until said taximeter shall have been correctly
+adjusted. (Amended by Ord. No. 151,833, Eff. 2/10/79, Oper. 2/25/79.)
+
+
+
+ 
+
+
+
+   (c)   Except as hereinafter otherwise provided all taxicabs shall
+base their charges on taximeters at rates established by the Board and all
+taximeters shall be placed so that the reading dial showing the amount to be
+charged shall be well lighted and readily discernible by the passenger riding
+in such taxicab.
+
+
+
+ 
+
+
+
+   (d)   (Amended by Ord. No. 173,301, Eff. 6/30/00, Oper. 7/1/00.) The
+Board, in accordance with the procedures set forth in the Los Angeles
+Administrative Code, may, by resolution, establish flat or mileage rates to
+be charged to points beyond taxicab service areas, said rates to be charged
+in addition to or in lieu of the amount shown on such taximeter.
+
+
+
+ 
+
+
+
+   (e)   If rates are so established by the Board, the per-mile charge
+shall be conspicuously posted in each taxicab, and shall be charged when
+applicable. Payment of a zone rate, when applicable, shall entitle such
+passenger to be transported to any location within such zone.
+
+
+
+ 
+
+
+
+   (f)   No operator of any taxicab, upon receiving payment of a fare
+as indicated by the taximeter thereon, or as determined by a zone rate
+established by the Board shall refuse to give a receipt upon the request of
+any passenger making said payment.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.23.  CIRCUITOUS ROUTES.
+
+
+
+ 
+
+
+
+   Any driver employed to carry passengers to a definite point shall take
+the most direct route practicable that will carry the passengers safely and
+expeditiously to their destination.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.24.  EXCESS CHARGES.
+
+
+
+   (Amended by Ord. No. 165,491, Eff. 3/19/90.)
+
+
+
+ 
+
+
+
+   No person shall charge, collect, demand, receive or arrange for any
+compensation for the service of any vehicle defined in Section 71.00 in this
+City used for the conveyance of passengers, any amount, rate, or compensation
+different than the charges or rates established by the Board.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.25.  AUTHORITY OF BOARD TO ESTABLISH RATES.
+
+
+
+ 
+
+
+
+   (a)   The Board shall have the authority to establish and prescribe
+by Board order the rates to be charged for transportation by the motor
+vehicles mentioned in Section 71.00. Any Board Order fixing rates must be
+approved by the City Council, by ordinance, before taking effect. However,
+the Board may by Board Order establish rates to be effective on final
+publication and without subsequent ratification by the City Council within
+the range of maximum and minimum rates established by ordinance.
+
+
+
+ 
+
+
+
+   (b)   (Amended by Ord. No. 173,193, Eff. 5/29/00, Oper. 7/1/00.) 
+No provision of this section shall prevent the Board from approving and
+establishing rates outside any ordinance-prescribed maximum and minimum
+rates, subject to approval by the City Council in accordance with the
+provisions of Section 22.484 (g) of the Los Angeles Administrative Code.
+
+
+
+ 
+
+
+
+   (c)   No rate shall be placed in effect, charged, demanded or
+collected for passenger transportation service until the Board, after hearing
+upon its own motion, or upon application, or upon complaint, shall have found
+and determined said rate to be just, reasonable non-discriminatory,
+non-preferential, and not in violation of any provision herein contained or
+any provision of law; nor until said rate to be placed in effect, charged,
+demanded or collected shall have been approved and established.
+
+
+
+ 
+
+
+
+   (d)   The Board shall have power, upon a hearing upon its own motion
+or upon complaint, to investigate a single rate or fare, or the entire
+schedule of rates in effect, charged, demanded or collected for
+transportation, service, and to establish a new rate or schedule of rates in
+lieu thereof. Nothing contained herein shall be construed to empower the
+Board to approve or establish any rate, or any schedule of rates for
+passenger transportation service that will, by means of rebate, discount,
+sale of script books, excursion or commutation tickets, or in anywise,
+violate the minimum or maximum rate or the provisions contained in this
+section or any provision of law.
+
+
+
+ 
+
+
+
+   (e)   No provision of this article shall be deemed to prevent the
+Board upon notice and after hearing, from prescribing boundaries and
+establishing rates to be charged for point-to-point trips within such
+prescribed boundaries, subject to Paragraphs (a) and (b) above.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.26.  TRANSPORTATION REGULATION AND ENFORCEMENT TRUST FUND.
+
+
+
+   (Added by Ord. No. 170,068, Eff. 11/18/94.)
+
+
+
+ 
+
+
+
+   All monies collected for monetary penalties from taxicab operators,
+monetary penalties from individual permit holders or any other fines,
+penalties and bond forfeitures collected pursuant to this article shall be
+placed in a separate fund entitled “Transportation Regulation and
+Enforcement Trust Fund”, to be administered by the Department of
+Transportation.  All monies paid into the fund and any interest earned
+thereon shall be used for Citywide regulation and enforcement, in excess of
+that authorized in the Department’s annual budget, of this article as it
+relates to operators, vehicles, and drivers providing both legal and illegal
+(“bandit”) transportation services in the City.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.27.  INSPECTION OF LIMOUSINE WAYBILLS.
+
+
+
+   (Added by Ord. No. 180,999, Eff. 1/7/10.)
+
+
+
+ 
+
+
+
+   (a)   The Taxicab Administrator, Chief Transportation Investigator,
+Senior Transportation Investigator, Transportation Investigator and any
+individual holding Peace Officer status with jurisdictional authority in the
+City, may, upon request, inspect the waybill of any charter-party carrier of
+passengers operating within the City for the purpose of verifying valid
+pre-arranged travel.  As required by Part 3.01 of General Order 157-C
+promulgated by the California Public Utilities Commission, or any successor
+regulation, the waybill must include the following:
+
+
+
+ 
+
+
+
+   (1)   Name of carrier and TCP number;
+
+
+
+ 
+
+
+
+   (2)   Vehicle license plate number;
+
+
+
+ 
+
+
+
+   (3)   Driver's name;
+
+
+
+ 
+
+
+
+   (4)   Name and address of person requesting or arranging the charter;
+
+
+
+ 
+
+
+
+   (5)   Time and date when charter was arranged;
+
+
+
+ 
+
+
+
+   (6)   Whether the transportation was arranged by telephone or
+written contract;
+
+
+
+ 
+
+
+
+   (7)   Number of persons in the charter group;
+
+
+
+ 
+
+
+
+   (8)   Name of at least one passenger in the traveling party, or
+identifying information about the traveling party's affiliation; and
+
+
+
+ 
+
+
+
+   (9)   Points of origination and destination.
+
+
+
+ 
+
+
+
+   The party arranging the transportation must have exclusive use of the
+vehicle.
+
+
+
+ 
+
+
+
+   (b)   Any person operating a charter-party carrier of passengers
+within the City who, upon request by an individual authorized under
+Subsection (a) of this Section, fails or refuses to produce his or her
+waybill for inspection is guilty of an infraction punishable under this
+Section, as provided in Subsection (c) hereof.
+
+
+
+ 
+
+
+
+   (c)   Upon conviction of a violation charged under this Section, the
+person so convicted shall be punished for the first offense by a fine of
+$100.00; and for a second additional violation within one year of the first
+offense, by a fine of $250.00.  A third violation of this Section within one
+year shall be prosecuted as a misdemeanor.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.28.  COMPENSATION TO GAIN ACCESS TO PASSENGERS.
+
+
+
+   (Added by Ord. No. 182,483, Eff. 4/21/13.)
+
+
+
+ 
+
+
+
+   (a)   It shall be unlawful for any person to pay, or offer or agree
+to pay, any owner of any hotel, apartment house, motel, inn, rental unit,
+restaurant, bar, or other business establishment, or an agent or employee of
+any such owner, for recommending or directing any passenger without a
+reservation made on a pre-arranged basis to ride in a specific
+automobile-for-hire or taxicab, or to a specific company that owns an
+automobile-for-hire or taxicab.
+
+
+
+ 
+
+
+
+   (b)   It shall be unlawful for any owner of a hotel, apartment
+house, motel, inn, rental unit, restaurant or bar, or other business
+establishment, or for an agent or employee of any such owner, to accept or
+offer or agree to accept payment for recommending or directing a passenger
+without a reservation made on a pre-arranged basis to ride in a specific
+Automobile-For-Hire or Taxicab, or to a specific company that owns an
+automobile-for-hire or taxicab.
+
+
+
+ 
+
+
+
+   (c)   Violation – Penalties.  A first time violation of this
+Section shall result in a fine of Two Hundred Dollars ($200).  A subsequent
+offense of this Section is a misdemeanor, punishable upon conviction by a
+fine of not less than Two Hundred Fifty Dollars ($250) nor more than One
+Thousand Dollars ($1,000), or by imprisonment in the county jail for not more
+than six months, or by both fine and imprisonment.
+
+
+
+ 
+
+
+
+   (d)   Severability.  If any section, subsection, sentence, clause,
+or phrase of this Ordinance is for any reason held to be invalid or
+unconstitutional by a decision of any court of any competent jurisdiction,
+such decision shall not affect the validity of the remaining portions of this
+Ordinance.  The City Council hereby declares that it would have passed this
+Ordinance and each and every section, subsection, sentence, clause and phrase
+thereof not declared invalid or unconstitutional without regard to whether
+any portion of the ordinance would be subsequently declared invalid or
+unconstitutional.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 71.29.  REGULATION OF SHARED MOBILITY DEVICES.
+
+
+
+   (Added by Ord. No. 185,785, Eff. 10/5/18.)
+
+
+
+ 
+
+
+
+   The Department shall implement a Shared Mobility Device Pilot Program,
+and issue a permit to a qualified pilot program operator, as defined in the
+Department's Rules and Guidelines, including, but not limited to, an operator
+of a dockless bicycle, electric bicycle, motorized scooter and electric
+scooter.  Under the Pilot Program, an operator of a shared mobility device
+shall obtain a permit from the Department and comply with all Department
+permit rules, regulations, indemnification, insurance and fee requirements
+set forth in the Department's Rules and Guidelines.  Failure to comply with
+the Department's Rules and Guidelines may result in the suspension,
+revocation, or a reduction of the number of permits issued by the Department
+to an operator.  The Department may amend its Rules and Guidelines as
+necessary during the life of the Pilot Program.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 2
+RAILROADS AND RAILWAYS
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+72.06   Trains – Lights On.
+
+
+
+72.07   Trains – Flagman to Precede.
+
+
+
+72.10   Trains – Speed.
+
+
+
+72.10.1   Clearing Crossings.
+
+
+
+72.11   Railroad Connections – Permits.
+
+
+
+72.12   Regulation of Train Whistles.
+
+
+
+72.16   Sprinkling or Oiling of Roadbed.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 72.06.  TRAINS – LIGHTS ON.
+
+
+
+ 
+
+
+
+   No person shall run, propel or operate any railroad car or train of
+railroad cars upon, along or across any street or across any railroad track,
+interurban railroad track or street railway track, during the period from one
+hour after sunset to one hour before sunrise, unless there is attached to
+such car or train on the end thereof toward the direction in which such car
+or train is proceeding, a bright white light visible in the direction in
+which such car or train is proceeding. Such light shall have a reflector
+equal in power to the kind usually and customarily used by car inspectors of
+steam railroads.
+
+
+
+ 
+
+
+
+   This section and Section 72.07 shall not apply to any car or train if a
+competent flagman precedes such car or train carrying a bright white light
+visible in the direction in which such car or train is proceeding, and shall
+not apply to any car or train when the same is crossing any street, any
+railroad track, interurban track or street railway track, if such street or
+track is, at the time of such crossing, protected by an interlocking device
+or apparatus.
+
+
+
+ 
+
+
+
+   Municipal Corporations may enact and enforce ordinances not
+inconsistent with the State law requiring lights on trains.
+
+
+
+   7 McQuillen, Municipal Corporations, 768, Sec. 24.710.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 72.07.  TRAINS – FLAGMAN TO PRECEDE.
+
+
+
+ 
+
+
+
+   No person shall run, propel or operate any railroad car or train of
+railroad cars upon, along or across any street or across any railroad track,
+interurban railroad track or street railway track, during the period from one
+hour before sunrise to one hour after sunset, unless a competent flagman
+shall proceed in advance of such car or train or shall be upon the end
+thereof toward which such car or train is proceeding. This section shall not
+apply to any car or train if a locomotive is attached to the end thereof
+toward which such car or train is proceeding.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 72.10.  TRAINS – SPEED.
+
+
+
+ 
+
+
+
+    a.   (Amended by Ord. No. 122,281, Eff. 7/23/62.) The operator of
+any steam, electric, diesel or other propelled railroad train, car, or other
+rolling stock shall not drive, or cause or permit to be driven such train,
+car, or other equipment into or upon a highway or street in excess of the
+following speeds:
+
+
+
+ 
+
+
+
+   (1)   At a speed greater than is reasonable or prudent having due
+regard for the traffic on, and the surface and width of the highway;
+
+
+
+ 
+
+
+
+   (2)   At a speed which endangers the safety of persons or property;
+
+
+
+ 
+
+
+
+   (3)   At a speed greater than thirty-five (35) miles per hour when
+entering any highway or street grade crossing within the following described
+boundaries: Beginning at the intersection of the north boundary of the City
+of Los Angeles with the Golden State Freeway, thence southerly along said
+Golden State Freeway to Foothill Boulevard, thence easterly and southerly
+along Foothill Boulevard to Osborne Street, thence southerly along Osborne
+Street to Glenoaks Boulevard, thence easterly along Glenoaks Boulevard to the
+Los Angeles-Burbank City boundary, thence along said City boundary westerly
+and southerly to Riverside Drive, thence westerly along Riverside Drive to
+the Ventura Freeway, thence westerly along Ventura Freeway to Topanga Canyon
+Boulevard, thence northerly along Topanga Canyon Boulevard to Santa Susana
+Avenue, thence northerly along Santa Susana to the Los Angeles City boundary,
+thence easterly and northerly along Los Angeles City boundary to the point of
+beginning;
+
+
+
+ 
+
+
+
+   (4)   At a speed greater than ten (10) miles per hour whenever such
+a train, car or equipment is operated within the City longitudinally over the
+same portion of a highway or street that is also used by motor vehicles.
+
+
+
+ 
+
+
+
+   b.   The speed of any such train, car or equipment not in excess of
+the limits herein specified is lawful unless clearly proved to be in
+violation of the basic rule hereinabove in this section declared.
+
+
+
+ 
+
+
+
+   c.   The speed of any such train, car or equipment upon a highway in
+excess of any of the limits specified in this section is prima facie unlawful
+unless the defendant establishes by competent evidence that any speed in
+excess of said limits did not constitute a violation of the basic rule
+hereinabove in this section declared, at the time, place and under the
+conditions then existing.
+
+
+
+ 
+
+
+
+   d.   The prima facie limits referred to above are as follows:
+
+
+
+ 
+
+
+
+   1.   Fifteen (15) miles per hour:
+
+
+
+ 
+
+
+
+   (a)   When entering any highway crossing within the district
+included within the following described boundaries: Beginning at the
+intersection of Soto Street and Huntington Drive, southerly along Soto Street
+to the southerly city limits; thence southerly and westerly along the city
+boundary to Florence Avenue, thence westerly along Florence Avenue to the
+west city boundary, thence northerly along the west city boundary and West
+Boulevard to Slauson Avenue, thence easterly on Slauson Avenue to Western
+Avenue, thence northerly along Western Avenue to Vernon Avenue, thence
+easterly along Vernon Avenue to Broadway, thence northerly along Broadway and
+North Broadway to Mission Road, thence northerly along Mission Road and
+Huntington Drive to the point of beginning.
+
+
+
+ 
+
+
+
+   2.   Twenty-five (25) miles per hour:
+
+
+
+ 
+
+
+
+   (a)   When entering any highway crossing within the district
+included within the following described boundaries: Beginning at the
+intersection of the boundary of the City of Los Angeles with Kendall Avenue
+and Huntington Drive North, thence southerly and westerly along said city
+boundary to the intersection of said city boundary with Soto Street, thence
+northerly along Soto Street to Mission Road, thence southerly and westerly
+along Mission Road and North Broadway to the Los Angeles River, thence
+northerly along the Los Angeles River to North Figueroa Street, thence
+northerly along North Figueroa Street, Marmion Way, and Monte Vista Street to
+Avenue 61, thence southeasterly along Avenue 61 to Piedmont Avenue, thence
+northerly and easterly along Piedmont Avenue, North Figueroa Street, and
+Pasadena Avenue to the east city boundary, thence southerly and easterly
+along the city boundary to the starting point.
+
+
+
+ 
+
+
+
+   e.   The Board is hereby authorized to determine those streets and
+intersections at and on which movement of such train, car or equipment is
+hazardous or dangerous to life or property by reason of the volume of traffic
+upon such streets or at such intersections, or the lack of visibility of the
+drivers of vehicles approaching said streets or intersections, or by reason
+of other physical conditions likely to render any such street or intersection
+dangerous or hazardous to life and property. (Amended by Ord. No. 151,833,
+Eff. 2/10/79, Oper. 2/25/79.)
+
+
+
+ 
+
+
+
+   The Board, after not less the five (5) days written notice of hearing
+to such utility company whose operation is affected, and in accordance with
+the provisions established by law, shall have power and authority to adopt
+resolutions establishing as to said streets and intersections lesser prima
+facie speed limits than those set forth above in this section. No such lesser
+prima facie speed limits and resolutions shall be effective for more than
+thirty (30) days unless the resolution is approved by the City Council.
+(Amended by Ord. No. 151,833, Eff. 2/10/79, Oper. 2/25/79.)
+
+
+
+ 
+
+
+
+   An ordinance limiting the speed of trains with the corporate limits of
+a City is valid. Gillum v. Pacific Coast Ry. Co. (Wash.), 279 Pac. 114.
+
+
+
+   Frazer v. Northern Pac. Ry. Co., 28 Fed. Supp. 20.
+
+
+
+ 
+
+
+
+   But see: Cincinnati v. Lucky (Ohio), 87 N.E. 2d 894.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 72.10.1.  CLEARING CROSSINGS.
+
+
+
+ 
+
+
+
+   After having entered any highway crossing, any steam, diesel or
+gasoline-propelled railroad train, car or rolling equipment shall be so
+operated as to clear such crossing for longitudinal highway traffic as
+quickly as practicable, consistent with the speed limits prescribed by law.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 72.11.  RAILROAD CONNECTIONS – PERMITS.
+
+
+
+   (Amended by Ord. No. 173,301, Eff. 6/30/00, Oper. 7/1/00.)
+
+
+
+ 
+
+
+
+   No person operating a street railroad shall construct or maintain
+curved tracks connecting its tracks at any street intersection with the
+tracks of any other street railroad operated by the same person without first
+obtaining a permit therefor as provided in this section.
+
+
+
+ 
+
+
+
+   (a)   Such person shall first make a written application, signed by
+the applicant which shall be filed with the Office of Finance and shall be
+accompanied by
+
+
+
+ 
+
+
+
+   (1)   Payment of Twenty-seven dollars and fifty cents ($27.50) to
+cover the cost incident to the applicant. (Amended by Ord. No. 137,137,
+Eff.9/29/78.)
+
+
+
+ 
+
+
+
+   (2)   A map or diagram showing in detail the location of the work to
+be done for which the application is sought, and all intersecting streets at
+the point of construction of the proposed work.
+
+
+
+ 
+
+
+
+   (b)   At the next regular meeting of the Council after the filing of
+the application, the Office of Finance shall submit the same to the Council.
+Before any action is taken thereon, it shall be referred to the Board for its
+recommendation. The Board shall proceed to inquire into the application and
+within thirty days after such application shall have been referred to it, or
+longer if allowed by the Council, shall report to the Council its
+recommendation relative thereto. If, in the judgment of the Board, the
+application should not be granted, it shall so report, stating its reasons
+therefor; and if, in the judgment of the Board, the application should be
+granted, it shall recommend the terms and conditions upon which it shall be
+granted. Permits shall not be granted by the Council contrary to the
+recommendation of the Board except upon two-thirds vote of the entire Council.
+
+
+
+ 
+
+
+
+   (c)   Each permit granted under the provisions of this section shall
+be granted by ordinance and not otherwise and shall be revocable at the
+pleasure of the Council; provided that in no event shall such permit continue
+for a period exceeding the unexpired term of the franchise first to expire
+under which street railway tracks are maintained at such street
+intersections; and provided further that in no event shall such permit
+continue for a period exceeding twenty-one years.
+
+
+
+ 
+
+
+
+   (d)   Each such connection or connecting curve constructed or
+maintained under permission granted shall be at all times constructed and
+maintained in accordance with the restrictions and limitations contained in
+Sec. 49 of the Civil Code of the State of California and in the ordinances of
+this City, and in accordance with the regulations prescribed by the Council
+in the ordinance granting such permission.
+
+
+
+ 
+
+
+
+   (e)   The payment of the amount required by Subsection (a) hereof
+shall be deposited in the Treasury to the credit of the General Expense Fund.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 72.12.  REGULATION OF TRAIN WHISTLES.
+
+
+
+ 
+
+
+
+   It shall be unlawful and a public nuisance for any operator of a
+railroad train in the Mount Washington and Highland Park areas of the City of
+Los Angeles between the intersection of Figueroa Street and Marmion Way up to
+and including the area at the intersection of Figueroa and Avenue 61, to blow
+or otherwise activate, or permit to be blown or activated, any horn or
+whistle when approaching any railroad crossing at grade, protected by
+automatic crossing gates, EXCEPT in the case of any emergency. (Amended by
+Ord. No. 150,410, Eff. 1/20/78.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 72.16.  SPRINKLING OR OILING OF ROADBED.
+
+
+
+ 
+
+
+
+   It shall be the duty of every railroad and street railroad to so
+sprinkle with water, or treat with oil, or otherwise treat that part of the
+surface of each street occupied or used by its tracks between the rails and
+between the tracks and a strip two (2) feet in width on each side thereof,
+that dust will remain settled on said portions of such street when any train,
+car or rolling equipment is operated on such tracks; provided, however, that
+said requirement shall not apply when such streets are paved.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+

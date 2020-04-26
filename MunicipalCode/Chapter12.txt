@@ -1,0 +1,4554 @@
+
+Los Angeles Municipal Code
+
+
+CHAPTER XII
+THE WATER CONSERVATION PLAN OF THE CITY OF LOS ANGELES
+
+
+
+ 
+
+
+
+
+(Title amended, Ord. No. 166,080, Eff. 7/25/90.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+   Article
+
+
+
+ 
+
+
+
+
+   I   Emergency Water Conservation Plan
+
+
+
+
+
+
+
+
+
+
+   II   Water Closet, Urinal and Showerhead Regulations
+
+
+
+
+
+
+
+
+
+
+   III   [Reduction of Sewer Flows]
+
+
+
+
+
+
+
+
+
+
+   IV   Large Turf Water Conservation Regulations
+
+
+
+
+
+
+
+
+
+
+   V   Water Efficiency Requirements for New Development and Renovation
+of Existing Buildings
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE I
+EMERGENCY WATER CONSERVATION PLAN
+
+
+
+ 
+
+
+
+
+(Amended in Entirety by Ord. No. 184,250, Eff. 5/3/16.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+121.00   Scope and Title.
+
+
+
+121.01   Declaration of Policy.
+
+
+
+121.02   Declaration of Purpose.
+
+
+
+121.03   Definitions.
+
+
+
+121.04   Authorization.
+
+
+
+121.05   Application.
+
+
+
+121.06   Water Conservation Phases.
+
+
+
+121.07   Conservation Phase Implementation.
+
+
+
+121.08   Water Conservation Phases.
+
+
+
+121.09   Unreasonable Use of Water.
+
+
+
+121.10   Failure to Comply.
+
+
+
+121.11   General Provisions.
+
+
+
+121.12   Severability.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.00.  SCOPE AND TITLE.
+
+
+
+ 
+
+
+
+   This Article shall be known as The Emergency Water Conservation Plan of
+the City of Los Angeles.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.01.  DECLARATION OF POLICY.
+
+
+
+ 
+
+
+
+   It is hereby declared that because of the conditions prevailing in the
+City of Los Angeles and in the areas of this State and elsewhere from which
+the City obtains its water supplies, the general welfare requires that the
+water resources available to the City be put to the maximum beneficial use to
+the extent to which they are capable, and that the waste or unreasonable use
+or unreasonable method of use of water be prevented, and the conservation of
+such waters is to be exercised with a view to the reasonable and beneficial
+use thereof in the interests of the people of the City and for the public
+welfare.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.02.  DECLARATION OF PURPOSE.
+
+
+
+ 
+
+
+
+   The purpose of this Article is to provide a mandatory water
+conservation plan to minimize the effect of a shortage of water to the
+Customers of the City and, by means of this Article, to adopt provisions that
+will significantly reduce the consumption of water over an extended period of
+time, thereby extending the available water required for the Customers of the
+City while reducing the hardship of the City and the general public to the
+greatest extent possible, voluntary conservation efforts having proved to be
+insufficient.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.03.  DEFINITIONS.
+
+
+
+ 
+
+
+
+   The following words and phrases, whenever used in this Article, shall
+be construed as defined in this section unless from the context a different
+meaning is intended or unless a different meaning is specifically defined
+within individual sections of this Article:
+
+
+
+ 
+
+
+
+   a.   "Article" means the ordinance providing for "The Emergency
+Water Conservation Plan of the City of Los Angeles."
+
+
+
+ 
+
+
+
+   b.   "Baseline Water Usage" means the amount of water necessary for
+existing landscape based on a water budget developed by the Department.
+
+
+
+ 
+
+
+
+   c.   "Billing Unit" means the unit amount of water used to apply
+water rates for purposes of calculating commodity charges for Customer water
+usage and equals one hundred (100) cubic feet or seven hundred forty-eight
+(748) gallons of water.
+
+
+
+ 
+
+
+
+   d.   "City" means the City of Los Angeles.
+
+
+
+ 
+
+
+
+   e.   "City Council" means the Council of the City of Los Angeles.
+
+
+
+ 
+
+
+
+   f.   "Conservation Phase" means that level of mandatory water
+conservation presently required from Customers pursuant to this Article.
+
+
+
+ 
+
+
+
+   g.   "Customer" means any person, persons, association, corporation
+or governmental agency supplied or entitled to be supplied with water service
+by the Department.
+
+
+
+ 
+
+
+
+   h.   "Department" means the Los Angeles Department of Water and
+Power.
+
+
+
+ 
+
+
+
+   i.   "Drip Irrigation" means an efficient and targeted form of
+irrigation in which water is delivered in drops directly to the plants roots
+where no emitter produces more than four (4) gallons of water per hour.
+
+
+
+ 
+
+
+
+   j.   "Even-numbered" means street addresses ending with the
+following numerals: 0 (Zero), 2 (Two), 4 (Four), 6 (Six), 8 (Eight). Street
+addresses ending in 1/2 or any fraction shall conform to the permitted uses
+for the last whole number in the address.
+
+
+
+ 
+
+
+
+   k.   "Gray Water" means a Customer's second or subsequent use of
+water supplied by the Department on the Customer's premises, such as the use
+of laundry or bathing water for other purposes.
+
+
+
+ 
+
+
+
+   l.   "Irrigate" means any exterior application of water, other than
+for firefighting purposes, dust control, or as process water, including, but
+not limited to, the watering of any vegetation whether it be natural or
+planted.
+
+
+
+ 
+
+
+
+   m.   "Large Landscape Area" means an area of vegetation at least
+three acres in size supporting a business necessity or public benefit uses
+such as parks, golf courses, schools and cemeteries.
+
+
+
+ 
+
+
+
+   n.   "Mayor" means the Mayor of the City of Los Angeles.
+
+
+
+ 
+
+
+
+   o.   "Notice to the Department" means written communication
+documenting compliance with all requirements and directed to the Department.
+
+
+
+ 
+
+
+
+   p.   "Odd-numbered" means street addresses ending with the following
+numerals: 1 (One), 3 (Three), 5 (Five), 7 (Seven), 9 (Nine). Street addresses
+ending in 1/2 or any fraction shall conform to the permitted uses for the
+last whole number in the address.
+
+
+
+ 
+
+
+
+   q.   "Officer" means every person designated in Section 200 of the
+Los Angeles City Charter as an officer of the City of Los Angeles.
+
+
+
+ 
+
+
+
+   r.   "Potable Water" means water supplied by the Department which is
+suitable for drinking and excludes recycled water from any source.
+
+
+
+ 
+
+
+
+   s.   "Private Golf Course" means a facility with a business license
+where play is restricted to members and their guests, and does not include
+personal use facilities such as backyard golf greens or courses.
+
+
+
+ 
+
+
+
+   t.   "Process Water" means water used to manufacture, alter,
+convert, clean, heat or cool a product, or the equipment used for such
+purpose; water used for plant and equipment washing and for transporting of
+raw materials and products; and water used for community gardens, or to grow
+trees, plants, or turf for sale or installation.
+
+
+
+ 
+
+
+
+   u.   "Recycled Water" means water which, as a result of treatment of
+wastewater, is suitable for a direct beneficial use or a controlled use as
+approved by the California Department of Public Health.
+
+
+
+ 
+
+
+
+   v.   "Section" means a section of this Article unless some other
+ordinance or statute is specifically mentioned.
+
+
+
+ 
+
+
+
+   w.   "Single-Family Residential Customer" means a customer who is
+currently subject to Rate Schedule A of the LADWP water rate ordinance.
+
+
+
+ 
+
+
+
+   x.   "Single Pass Cooling Systems" means equipment where water is
+circulated only once to cool equipment before being disposed.
+
+
+
+ 
+
+
+
+   y.   "Sports Field" means a public or private facility supporting a
+business necessity or public benefit use that provides turf areas as a
+playing surface for individual and team sports, and does not include a
+facility on a residential property.
+
+
+
+ 
+
+
+
+   z.   "Station" means those sprinklers or other water-emitting
+devices controlled by a single valve.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.04.  AUTHORIZATION.
+
+
+
+ 
+
+
+
+   The various officers, boards, departments, bureaus and agencies of the
+City are hereby authorized and directed to immediately implement the
+applicable provisions of this Article upon the effective date hereof.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.05.  APPLICATION.
+
+
+
+ 
+
+
+
+   The provisions of this Article shall apply to all Customers and
+property served by the Department wherever situated, and shall also apply to
+all property and facilities owned, maintained, operated or under the
+jurisdiction of the various officers, boards, departments, bureaus or
+agencies of the City.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.06.  WATER CONSERVATION PHASES.
+
+
+
+ 
+
+
+
+   A.   No Customer of the Department shall make, cause, use or permit
+the use of water from the Department for any residential, commercial,
+industrial, agricultural, governmental, or any other purpose in a manner
+contrary to any provision of this Article. The waste or unreasonable use of
+water is prohibited.
+
+
+
+ 
+
+
+
+   B.   For the purposes of this Article, a use of water by a tenant or
+by an employee, agent, contractor or other acting on behalf of a Customer
+whether with real or ostensible authority shall be imputed to the Customer.
+Nothing contained in this Article shall limit the remedies available to a
+Customer under law or equity for the actions of a tenant, agent, contractor
+or other acting on behalf of a Customer.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.07.  CONSERVATION PHASE IMPLEMENTATION.
+
+
+
+ 
+
+
+
+   A.   Notwithstanding any other provisions of this Article, the
+provisions of Section 121.08 A. shall take effect immediately upon the
+effective date of this Article, shall be permanent, and shall not be subject
+to termination pursuant to the provisions of this Article providing for the
+termination of a conservation phase.
+
+
+
+ 
+
+
+
+   B.   The Department shall monitor and evaluate the projected supply
+and demand for water by its Customers monthly, and shall recommend to the
+Mayor and Council by concurrent written notice the extent of the conservation
+required by the Customers of the Department in order for the Department to
+prudently plan for and supply water to its Customers. The Mayor shall, in
+turn, independently evaluate such recommendation and notify the Council of
+the Mayor's determination as to the particular phase of water conservation,
+Phase II through Phase VI, that should be implemented. Thereafter, the Mayor
+may, with the concurrence of the Council, order that the appropriate phase of
+water conservation be implemented in accordance with the applicable
+provisions of this Article. Said order shall be made by public proclamation
+and shall be published one time only in a daily newspaper of general
+circulation and shall become effective immediately upon such publication. The
+prohibited water uses for each phase shall take effect with the first full
+billing period commencing on or after the effective date of the public
+proclamation by the Mayor.
+
+
+
+ 
+
+
+
+   In the event the Mayor independently recommends to the Council a phase
+of conservation different from that recommended by the Department, the Mayor
+shall include detailed supporting data and the reasons for the independent
+recommendation in the notification to the Council of the Mayor's
+determination as to the appropriate phase of conservation to be implemented.
+
+
+
+ 
+
+
+
+   C.   Phase Termination.
+
+
+
+ 
+
+
+
+   1.   At such time as the Department reports an April 1 forecast of
+annual Owens Valley and Mono Basin Runoff equal to or exceeding 110 percent
+of normal and the Metropolitan Water District of Southern California
+officially states that the sum of its Colorado River and State Water Project
+supplies exceeds 100 percent of projected demand, the Mayor shall forthwith
+recommend to the Council the termination of any Customer curtailment phase
+then in effect. Said recommendation to terminate shall take effect upon
+concurrence of the Council.
+
+
+
+ 
+
+
+
+   2.   The provisions of Subsection C.1., above, shall not preclude
+the Department on the basis of information available to it from recommending
+to the Mayor the termination of a water conservation phase then in effect.
+The Mayor shall forward said recommendation to the Council, and it shall take
+effect upon concurrence by the Council.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.08.  WATER CONSERVATION PHASES.
+
+
+
+ 
+
+
+
+   A.   PHASE I - Prohibited Uses Applicable to All Customers.
+
+
+
+ 
+
+
+
+   1.   No Customer of the Department shall use a water hose to wash
+any paved surfaces, including, but not limited to, sidewalks, walkways,
+driveways and parking areas, except to alleviate immediate safety or
+sanitation hazards. This section shall not apply to Department-approved
+water-conserving spray cleaning devices. Use of water-pressure devices for
+graffiti removal is exempt. A simple spray nozzle does not qualify as a
+water-conserving spray cleaning device.
+
+
+
+ 
+
+
+
+   2.   No Customer of the Department shall use water to clean, fill or
+maintain levels in decorative fountains, ponds, lakes or similar structures
+used for aesthetic purposes unless such water is part of a recirculating
+system.
+
+
+
+ 
+
+
+
+   3.   No restaurant, hotel, café, cafeteria, or other public place
+where food is sold, served or offered for-sale, shall serve drinking water to
+any person unless expressly requested.
+
+
+
+ 
+
+
+
+   4.   No Customer of the Department shall permit water to leak from
+any pipe or fixture on the Customer's premises. Failure or refusal to affect
+a timely repair of any leak of which the Customer knows or has reason to know
+shall subject said Customer to all penalties provided herein for a prohibited
+use of water.
+
+
+
+ 
+
+
+
+   5.   No Customer of the Department shall wash a vehicle with a hose
+if the hose does not have a self-closing water shut-off or device attached to
+it, or otherwise allow a hose to run continuously while washing a vehicle.
+
+
+
+ 
+
+
+
+   6.   No Customer of the Department shall irrigate during periods of
+rain and within 48 hours after a measurable rain event.
+
+
+
+ 
+
+
+
+   7.   No Customer of the Department shall water or irrigate lawn,
+landscape or other vegetated areas between the hours of 9:00 a.m. and 4:00
+p.m. During these hours, public and private golf course greens and tees and
+professional Sports Fields may be irrigated in order to maintain play areas
+and accommodate event schedules. Supervised testing or repairing of
+irrigation systems is allowed anytime with proper signage.
+
+
+
+ 
+
+
+
+   8.   All irrigating of landscape with potable water using spray head
+sprinklers and bubblers shall be limited to no more than ten (10) minutes per
+watering day per station. All irrigating of landscape with potable water
+using standard rotors and multi-stream rotary heads shall be limited to no
+more than fifteen (15) minutes per cycle and up to two (2) cycles per
+watering day per station. Exempt from these landscape irrigation restrictions
+are irrigation systems using very low-flow drip-type irrigation when no
+emitter produces more than four (4) gallons of water per hour and
+micro-sprinklers using less than fourteen (14) gallons per hour.
+
+
+
+ 
+
+
+
+   9.   No Customer of the Department shall use water in a manner that
+causes or allows excess or continuous water flow or runoff onto an adjoining
+sidewalk, driveway, street, gutter or ditch.
+
+
+
+ 
+
+
+
+   10.   No installation of single pass cooling systems shall be
+permitted in buildings requesting new water service.
+
+
+
+ 
+
+
+
+   11.   No installation of non-recirculating systems shall be
+permitted in new conveyor car wash and new commercial laundry systems.
+
+
+
+ 
+
+
+
+   12.   Operators of hotels and motels shall provide guests with the
+option of choosing not to have towels and linens laundered daily. The hotel
+or motel shall prominently display notice of this option in each bathroom
+using clear and easily understood language. The Department shall make
+suitable displays available.
+
+
+
+ 
+
+
+
+   13.   No Large Landscape Areas shall have irrigation systems without
+rain sensors that shut off the irrigation systems. Large Landscape Areas with
+approved weather-based irrigation controllers registered with the Department
+are in compliance with this requirement.
+
+
+
+ 
+
+
+
+   B.   PHASE II.
+
+
+
+ 
+
+
+
+   1.    Prohibited Uses Applicable to All Customers. Should Phase II
+be implemented, uses applicable to Phase I of this section shall continue to
+be applicable, except as specifically provided below.
+
+
+
+ 
+
+
+
+   2.   Non-Watering Days. No landscape irrigation shall be permitted
+on any day other than Monday, Wednesday or Friday for odd-numbered street
+addresses, and Tuesday, Thursday or Sunday for even-numbered street
+addresses. Street addresses ending in 1/2 or any fraction shall conform to
+the permitted uses for the last whole number in the address. Watering times
+shall be limited to:
+
+
+
+ 
+
+
+
+   (a)   Non-conserving nozzles (spray head sprinklers and bubblers) -
+no more than eight (8) minutes per watering day per station for a total of 24
+minutes per week.
+
+
+
+ 
+
+
+
+   (b)   Conserving nozzles (standard rotors and multi-stream rotary
+heads) - no more than fifteen (15) minutes per cycle and up to two (2) cycles
+per watering day per station for a total of 90 minutes per week.
+
+
+
+ 
+
+
+
+(With the above watering times, water consumption used for both types of
+nozzles is essentially equal.)
+
+
+
+ 
+
+
+
+   3.   Upon written Notice to the Department, irrigation of Sports
+Fields may deviate from the non-watering days to maintain play areas and
+accommodate event schedules; however, to be eligible for this means of
+compliance, a Customer must reduce their overall monthly water use by the
+Department's Board of Water and Power Commissioners (Board)-adopted degree of
+shortage plus an additional five percent from the Customer Baseline Water
+Usage within 30 days.
+
+
+
+ 
+
+
+
+   4.   Upon written Notice to the Department, Large Landscape Areas
+may deviate from the non-watering days by meeting the following requirements:
+1) must have approved weather-based irrigation controllers registered with
+the Department (eligible weather-based irrigation controllers are those
+approved by the Metropolitan Water District of Southern California or the
+Irrigation Association Smart Water Application Technologies [SWAT]
+initiative); 2) must reduce overall monthly water use by the Department's
+Board-adopted degree of shortage plus an additional five percent from the
+Customer Baseline Water Usage within 30 days; and 3) must use recycled water
+if it is available from the Department.
+
+
+
+ 
+
+
+
+   5.   These provisions do not apply to drip irrigation supplying
+water to a food source or to hand-held hose watering of vegetation, if the
+hose is equipped with a self-closing water shut-off device, which is allowed
+everyday during Phase II except between the hours of 9:00 am and 4:00 pm.
+
+
+
+ 
+
+
+
+   C.   PHASE III.
+
+
+
+ 
+
+
+
+   1.    Prohibited Uses Applicable to All Customers. Should Phase III
+be implemented, uses applicable to Phases I and II of this section shall
+continue to be applicable, except as specifically provided below.
+
+
+
+ 
+
+
+
+   2.   Non-Watering Days. No landscape irrigation shall be permitted
+on any day other than Monday or Friday for odd-numbered street addresses, and
+Sunday or Thursday for even-numbered street addresses. Street addresses
+ending in 1/2 or any fraction shall conform to the permitted uses for the
+last whole number in the address. Watering times shall be limited to:
+
+
+
+ 
+
+
+
+   (a)   Non-conserving nozzles (spray head sprinklers and bubblers) -
+no more than eight (8) minutes per watering day per station for a total of 16
+minutes per week.
+
+
+
+ 
+
+
+
+   (b)   Conserving nozzles (standard rotors and multi-stream rotary
+heads) - no more than fifteen (15) minutes per cycle and up to two (2) cycles
+per watering day per station for a total of 60 minutes per week.
+
+
+
+ 
+
+
+
+(With the above watering times, water consumption used for both types of
+nozzles is essentially equal.)
+
+
+
+ 
+
+
+
+   3.   Recommend use of pool covers to decrease water loss from
+evaporation.
+
+
+
+ 
+
+
+
+   4.   Recommend washing of vehicles at commercial car wash facilities.
+
+
+
+ 
+
+
+
+   5.   Upon written Notice to the Department, irrigation of Sports
+Fields may deviate from the non-watering days to maintain play areas and
+accommodate event schedules; however, to be eligible for this means of
+compliance, a Customer must reduce their overall monthly water use by the
+Department's Board-adopted degree of shortage plus an additional five percent
+from the Customer Baseline Water Usage within 30 days.
+
+
+
+ 
+
+
+
+   6.   Upon written Notice to the Department, Large Landscape Areas
+may deviate from the non-watering days by meeting the following requirements:
+1) must have approved weather-based irrigation controllers registered with
+the Department (eligible weather-based irrigation controllers are those
+approved by the Metropolitan Water District of Southern California or the
+Irrigation Association Smart Water Application Technologies [SWAT]
+initiative); 2) must reduce overall monthly water use by the Department's
+Board-adopted degree of shortage plus an additional five percent from the
+Customer Baseline Water Usage within 30 days; and 3) must use recycled water
+if it is available from the Department.
+
+
+
+ 
+
+
+
+   7.   These provisions do not apply to drip irrigation supplying
+water to a food source or to hand-held hose watering of vegetation, if the
+hose is equipped with a self-closing water shut-off device, which is allowed
+every day during Phase III except between the hours of 9:00 am and 4:00 pm.
+
+
+
+ 
+
+
+
+   D.   PHASE IV.
+
+
+
+ 
+
+
+
+   1.   Prohibited Uses Applicable to All Customers. Should Phase IV be
+implemented, uses applicable to Phase I, II, and III of this Section shall
+continue to be applicable, except as specifically provided below.
+
+
+
+ 
+
+
+
+   2.   Non-Watering Days. No landscape irrigation shall be permitted
+on any day other than Monday for odd-numbered street addresses and Tuesday
+for even-numbered street addresses. Street addresses ending in 1/2 or any
+fraction shall conform to the permitted uses for the last whole number in the
+address. Watering times shall be limited to:
+
+
+
+ 
+
+
+
+   (a)   Non-conserving nozzles (spray head sprinklers and bubblers) -
+no more than eight (8) minutes per watering day per station for a total of 8
+minutes per week.
+
+
+
+ 
+
+
+
+   (b)   Conserving nozzles (standard rotors and multi-stream rotary
+heads) - no more than fifteen (15) minutes per cycle and up to two (2) cycles
+per watering day per station for a total of 30 minutes per week.
+
+
+
+ 
+
+
+
+   3.   Mandate use of pool covers on all residential swimming pools
+when not in use.
+
+
+
+ 
+
+
+
+   4.   No washing of vehicles allowed except at commercial car wash
+facilities.
+
+
+
+ 
+
+
+
+   5.   No filling of decorative fountains, ponds, lakes, or similar
+structures used for aesthetic purposes, with potable water.
+
+
+
+ 
+
+
+
+   6.   Upon written Notice to the Department, irrigation of Sports
+Fields may deviate from the specific non-watering days. To be eligible for
+this means of compliance, a Customer must reduce overall monthly water use by
+the Department's Board-adopted degree of shortage plus an additional ten
+percent from the Customer Baseline Water Usage within 30 days.
+
+
+
+ 
+
+
+
+   7.   Upon written Notice to the Department, Large Landscape Areas
+may deviate from the specific non-watering days by meeting the following
+requirements: 1) must have approved weather-based irrigation controllers
+registered with the Department (eligible weather-based irrigation controllers
+are those approved by the Metropolitan Water District of Southern California
+or the Irrigation Association Smart Water Application Technologies [SWAT]
+initiative); 2) must reduce overall monthly water use by the Department's
+Board-adopted degree of shortage plus an additional ten percent from the
+Customer Baseline Water Usage within 30 days; and 3) must use recycled water
+if it is available from the Department.
+
+
+
+ 
+
+
+
+   8.   These provisions do not apply to drip irrigation supplying
+water to a food source or to hand-held hose watering of vegetation, if the
+hose is equipped with a self-closing water shut-off device, which is allowed
+everyday during Phase IV except between the hours of 9:00 a.m. and 4:00 p.m.
+
+
+
+ 
+
+
+
+   E.    PHASE V.
+
+
+
+ 
+
+
+
+   1.   Prohibited Uses Applicable to All Customers. Should Phase V be
+implemented, uses applicable to Phases I, II, III and IV of this section
+shall continue to be applicable, except as specifically provided below.
+
+
+
+ 
+
+
+
+   2.   Non-Watering Days. No landscape irrigation allowed.
+
+
+
+ 
+
+
+
+   3.   No filling of residential swimming pools and spas with potable
+water.
+
+
+
+ 
+
+
+
+   4.   Upon written notice to the Department, golf courses and
+professional Sports Fields may apply water to sensitive areas, such as greens
+and tees, during non-daylight hours and only to the extent necessary to
+maintain minimum levels of biological viability.
+
+
+
+ 
+
+
+
+   F.   PHASE VI.
+
+
+
+ 
+
+
+
+   1.   Prohibited Uses Applicable to All Customers. Phases I, II, III,
+IV and V of Section 121.08 shall continue to remain in effect.
+
+
+
+ 
+
+
+
+   2.   Additional Prohibited Uses. The Board is hereby authorized to
+implement additional prohibited uses of water based on the water supply
+situation. Any additional prohibition shall be published at least once in a
+daily newspaper of general circulation and shall become effective immediately
+upon such publication and shall remain in effect until cancelled.
+
+
+
+ 
+
+
+
+   3.   Penalty Authority. The Board is hereby authorized to establish
+appropriate penalties for this phase.
+
+
+
+ 
+
+
+
+   G.   Exception. The prohibited uses of water provided for by
+Subsections A., B., C., D., E. and F. of this section are not applicable to
+the uses of water necessary for public health and safety, or for essential
+government services such as police, fire and other similar emergency services.
+
+
+
+ 
+
+
+
+   H.   Variance. If, due to unique circumstances, a specific
+requirement of this Section would result in undue hardship to a Customer
+using water or to property upon which water is used, that is disproportionate
+to the impacts to water users generally or to similar property or classes of
+water uses, then the Customer may apply for a variance from the requirements.
+Unique circumstances include, but are not limited to, physical disabilities
+which prevent compliance with the Water Conservation Plan. The Department
+shall adopt procedures for variance applications, review and decision.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.09.  UNREASONABLE USE OF WATER
+
+
+
+ 
+
+
+
+   It shall be unlawful for any Customer to waste, or engage in the
+unreasonable use of water. If any Single Family Residential Customer enters
+the Department's highest rate tier during Phase II-VI, that Customer may be
+subject to a Water Use Analysis performed by the Department. Department will
+use available resources, including, but not limited to, water consumption
+history, land use data, and aerial photographs, to analyze the reasonableness
+of a Customer's water use.
+
+
+
+ 
+
+
+
+   A.   Notification. Department may issue a notification to a Customer
+requesting access to the property for purposes of completing a Water Use
+Analysis. Within thirty (30) days following written notification by the
+Department, to the Customer's billing address, the Customer shall provide the
+Department reasonable access to the property for purposes of completing a
+Water Use Analysis and for verifying compliance with any existing Customer
+Conservation Plan.
+
+
+
+ 
+
+
+
+   B.   Cooperation. Customer, or his designated representative, shall
+be present and fully cooperate with the Department in the Water Use Analysis,
+including, but not limited to, providing water use information relating to
+landscaping, agriculture, fixtures, ponds, cooling towers and other water
+features and uses located on the property.
+
+
+
+ 
+
+
+
+   C.   Customer Conservation Plan. Upon completion of the Water Use
+Analysis, Department may prepare a Customer Conservation Plan that includes
+an evaluation of all water uses on the property, directions to reduce waste
+and unreasonable use of water, and a water budget based on the reasonable use
+of water on the property. Department will discuss with the Customer the
+findings of the Water Use Analysis and explain the Customer Conservation Plan.
+
+
+
+ 
+
+
+
+   D.   The Department shall adopt criteria and process for
+implementing the Water Use Analysis. When possible the Department will use
+approved industry standards and methodologies to calculate indoor and outdoor
+water use.
+
+
+
+ 
+
+
+
+   E.   Customer shall comply with all terms of the Department's
+Customer Conservation Plan, including any water budget provided by
+Department, and failure to comply shall be deemed an unreasonable use of
+water that is a threat to public health, safety and welfare and is deemed a
+nuisance pursuant to Government Code § 38771.
+
+
+
+ 
+
+
+
+   F.   Violation. Customer failure to (1) provide reasonable access to
+property following notice, (2) cooperate with Department in the development
+of a Customer Conservation Plan, or (3) comply with Customer Conservation
+Plan shall be deemed a new violation of this section, and shall be noticed by
+the Department by written citation. Violation of this section shall subject
+Customer to penalties as described in Section 121.10 A.3.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.10.  FAILURE TO COMPLY.
+
+
+
+ 
+
+
+
+   A.   Penalties. It shall be unlawful for any Customer of the
+Department to fail to comply with any of the provisions of this Article.
+Notwithstanding any other provision of the Los Angeles Municipal Code, the
+penalties set forth herein shall be exclusive and not cumulative with any
+other provisions of this Code. The penalties for failure to comply with any
+of the provisions of this Article shall be as follows:
+
+
+
+ 
+
+
+
+   1.   Violations of any of the provisions of Subsection A., B., C.,
+D., E., and F. of Section 121.08 during the preceding twelve (12) calendar
+months, shall result in imposition of an administrative civil penalty
+pursuant to Penalty Schedule A and shall be included on the Customer's
+regular water bill issued by the Department.
+
+
+
+ 
+
+
+
+
+Penalty Schedule A
+
+
+
+
+ 
+
+
+
+ 
+
+
+Water meter smaller than two (2") inches
+
+
+
+
+
+ 
+
+Phase 1
+
+ 
+
+Phase 2
+
+ 
+
+Phase 3
+
+ 
+
+Phase 4
+
+ 
+
+Phase 5
+
+ 
+
+Phase 6
+
+
+
+
+1st Written Warning
+
+ 
+
+$0
+
+ 
+
+$0
+
+ 
+
+$0
+
+ 
+
+$0
+
+ 
+
+$0
+
+ 
+
+Board Authority
+
+
+
+
+2nd Written Violation
+
+ 
+
+$50
+
+ 
+
+$100
+
+ 
+
+$200
+
+ 
+
+$300
+
+ 
+
+$400
+
+ 
+
+Board Authority
+
+
+
+
+3rd Written Violation
+
+ 
+
+$100
+
+ 
+
+$200
+
+ 
+
+$400
+
+ 
+
+$600
+
+ 
+
+$800
+
+ 
+
+Board Authority
+
+
+
+
+4th Written Violation
+
+ 
+
+$150
+
+ 
+
+$300
+
+ 
+
+$600
+
+ 
+
+$900
+
+ 
+
+$1,200
+
+ 
+
+Board Authority
+
+
+
+
+ 
+
+
+
+ 
+
+
+Water meter two (2") inches and larger
+
+
+
+
+
+ 
+
+Phase 1
+
+ 
+
+Phase 2
+
+ 
+
+Phase 3
+
+ 
+
+Phase 4
+
+ 
+
+Phase 5
+
+ 
+
+Phase 6
+
+
+
+
+1st Written Warning
+
+ 
+
+$0
+
+ 
+
+$0
+
+ 
+
+$0
+
+ 
+
+$0
+
+ 
+
+$0
+
+ 
+
+Board Authority
+
+
+
+
+2nd Written Violation
+
+ 
+
+$100
+
+ 
+
+$200
+
+ 
+
+$400
+
+ 
+
+$600
+
+ 
+
+$800
+
+ 
+
+Board Authority
+
+
+
+
+3rd Written Violation
+
+ 
+
+$200
+
+ 
+
+$400
+
+ 
+
+$800
+
+ 
+
+$1,200
+
+ 
+
+$1,600
+
+ 
+
+Board Authority
+
+
+
+
+4th Written Violation
+
+ 
+
+$300
+
+ 
+
+$600
+
+ 
+
+$1,200
+
+ 
+
+$1,800
+
+ 
+
+$2,400
+
+ 
+
+Board Authority
+
+
+
+
+ 
+
+
+
+   (a)   After a fifth or subsequent violation, the Department may
+install a flow-restricting device of one-gallon-per-minute (1 GPM) capacity
+for services up to one and one-half inch (1-1/2") size and comparatively
+sized restrictors for larger services or terminate a Customer's service, in
+addition to the financial surcharges provided for herein. Such action shall
+be taken only after a hearing held by the Department where the Customer has
+an opportunity to respond to the Department's information or evidence that
+the Customer has repeatedly violated this Article or Department rules
+regarding the conservation of water and that such action is reasonably
+necessary to assure compliance with this Article and Department rules
+regarding the conservation of water.
+
+
+
+ 
+
+
+
+   Any such restricted or terminated service may be restored upon
+application of the Customer made not less than 48 hours after the
+implementation of the action restricting or terminating service and only upon
+a showing by the Customer that the Customer is ready, willing and able to
+comply with the provisions of this Article and Department rules regarding the
+conservation of water. Prior to any restoration of service, the Customer
+shall pay all Department charges for any restriction or termination of
+service and its restoration as provided for in the Department's rules
+governing water service, including, but not limited to, payment of all past
+due bills and fines.
+
+
+
+ 
+
+
+
+   2.   Violations of Section 121.09 shall result in imposition of
+administrative civil penalties pursuant to Penalty Schedule B and shall be
+included on the Customer's regular water bill issued by the Department:
+
+
+
+ 
+
+
+
+
+Penalty Schedule B
+
+
+
+
+ 
+
+
+
+ 
+
+
+Number of Consecutive Months with Violation
+
+ 
+
+Phase 1
+
+ 
+
+Phase 2
+
+ 
+
+Phase 3
+
+ 
+
+Phase 4
+
+ 
+
+Phase 5
+
+ 
+
+Phase 6
+
+
+
+
+Violation during months 1-5
+
+ 
+
+N/A
+
+ 
+
+$1,000
+
+ 
+
+$2,000
+
+ 
+
+$5,000
+
+ 
+
+$10,000
+
+ 
+
+Board Authority
+
+
+
+
+Violation during months 6-11
+
+ 
+
+N/A
+
+ 
+
+$2,000
+
+ 
+
+$4,000
+
+ 
+
+$10,000
+
+ 
+
+$20,000
+
+ 
+
+Board Authority
+
+
+
+
+Violation during months 12-17
+
+ 
+
+N/A
+
+ 
+
+$3,000
+
+ 
+
+$6,000
+
+ 
+
+$15,000
+
+ 
+
+$30,000
+
+ 
+
+Board Authority
+
+
+
+
+Violation during months 18-23
+
+ 
+
+N/A
+
+ 
+
+$4,000
+
+ 
+
+$8,000
+
+ 
+
+$20,000
+
+ 
+
+$40,000
+
+ 
+
+Board Authority
+
+
+
+
+ 
+
+
+
+   (a)   Customers continuing to violate Section 121.09 beyond 24
+months will be referred to the Board for consideration of flow restrictors or
+other actions.
+
+
+
+ 
+
+
+
+   C.   Notice. The Department shall give notice of each violation to
+the Customer committing such violation as follows:
+
+
+
+ 
+
+
+
+   1.   For any violation of the provisions of Section 121.08 and
+121.09, the Department may give written notice of the fact of such violation
+to the Customer personally, by posting a notice at a conspicuous place on the
+Customer's premises or by United States mail, First-Class, postage prepaid,
+addressed to the Customer's billing address.
+
+
+
+ 
+
+
+
+   2.   If the penalty assessed is, or includes, the installation of a
+flow restrictor or the termination of water service to the Customer, notice
+of the violation shall be given in the following manner:
+
+
+
+ 
+
+
+
+   (a)   By giving written notice thereof to the Customer personally; or
+
+
+
+ 
+
+
+
+   (b)   If the Customer is absent from or unavailable at either their
+place of residence or place of business, by leaving a copy with some person
+of suitable age and discretion at either place, and sending a copy through
+the United States mail, First Class postage prepaid, addressed to the
+Customer at their place of business, residence or such other address provided
+by the Customer for bills for water or electric service if such can be
+ascertained; or
+
+
+
+ 
+
+
+
+   (c)   If such place of residence, business or other address cannot
+be ascertained, or a person of suitable age or discretion at any such place
+cannot be found, then by affixing a copy in a conspicuous place on the
+property where the failure to comply is occurring, and also by delivering a
+copy to a person of suitable age and discretion there residing or employed,
+if such person can be found, and also sending a copy through the United
+States mail, First Class, postage prepaid, addressed to the Customer at the
+place where the property is situated, as well as such other address provided
+by the Customer for bills for water or electric service if such can be
+ascertained.
+
+
+
+ 
+
+
+
+   Said notice shall contain, in addition to the facts of the violation, a
+statement of the possible penalties for each violation and statement
+informing the Customer of their right to a hearing on the violation.
+
+
+
+ 
+
+
+
+   D.   Hearing and Appeal. Any Customer who disputes any penalty
+levied pursuant to this Section shall have a right to a dispute determination
+conducted pursuant to the Department's Rules Governing Water and Electric
+Service. Any Customer dissatisfied with the Department's dispute
+determination may appeal that determination within 15 days of issuance to the
+Board or to a designated hearing officer at the election of the Board. The
+provisions of Sections 19.24, 19.25, 19.26 and Sections 19.29 through 19.39
+of the Los Angeles Administrative Code shall apply to such appeals. All
+defenses, both equitable and legal, may be asserted by a Customer in the
+appeal process. The decisions of the Board shall become final at the
+expiration of 45 calendar days, unless the Council acts within that time by a
+majority vote to bring the action before it or to waive review of the action.
+If the Council timely asserts jurisdiction, the Council may, by a majority
+vote, amend, veto or approve the action of the Board within 21 calendar days
+of voting to bring the matter before it, or the action of the Board shall
+become final. If the City Council asserts jurisdiction over the matter and
+acts within 21 calendar days of voting to bring the matter before it, the
+City Council's action shall be the final decision.
+
+
+
+ 
+
+
+
+   E.   Public Disclosure. Any violation of any section of this
+Ordinance shall be subject to disclosure under the California Public Records
+Act.
+
+
+
+ 
+
+
+
+   F.   Reservation of Rights. The rights of the Department hereunder
+shall be cumulative to any other right of the Department to discontinue
+service. All monies collected by the Department pursuant to any of the
+surcharge provisions of this Article shall be collected for water
+conservation purposes consistent with this Ordinance.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.11.  GENERAL PROVISIONS.
+
+
+
+ 
+
+
+
+   A.   Enforcement. The Department of Water and Power, through a
+designee of the General Manager, shall enforce the provisions of this
+Article. At any time, Department may use technology that will assist staff in
+observing water use of customers and enforcing the ordinance. Technology may
+be used for, but not limited to, evidence of an ordinance violation and as
+justification for issuing any penalties.
+
+
+
+ 
+
+
+
+   B.   Department to Give Effect to Legislative Intent. The Department
+shall provide water to its Customers in accordance with the provisions of
+this Article and in a manner reasonably calculated to effectuate the intent
+hereof.
+
+
+
+ 
+
+
+
+   C.   Public Health and Safety Not to be Affected. Nothing contained
+in this Article shall be construed to require the Department to curtail the
+supply of water to any Customer when, in the discretion of the Department,
+such water is required by that Customer to maintain an adequate level of
+public health and safety, provided further that a Customer's use of water to
+wash the Customer's property immediately following the aerial application of
+a pesticide, such as Malathion, shall not constitute a violation of this
+Article.
+
+
+
+ 
+
+
+
+   D.   Recycled Water and Gray Water. The provisions of this Article
+shall not apply to the use of Recycled Water or Gray Water, provided that
+such use does not result in excess water flow or runoff onto the adjoining
+sidewalk, driveway, street, gutter or ditch. This provision shall not be
+construed to authorize the use of Gray Water if such use is otherwise
+prohibited by law.
+
+
+
+ 
+
+
+
+   E.   Large Landscape Areas. Large Landscape Areas that have multiple
+irrigation system stations can deviate from prescribed non-watering days if
+their systems include weather-based irrigation controllers, and each
+irrigation station is limited to the number of days prescribed in Section
+121.08.
+
+
+
+ 
+
+
+
+   F.   Hillside Burn Areas. The provisions of this Article shall not
+apply to hillside areas recovering from fire that have been replanted for
+erosion control. To qualify for this exemption, a Customer must obtain
+verification from the agency requiring erosion control measures. The duration
+of the exemption is limited to either one growing cycle, one year, or
+establishment of the vegetation, whichever is the lesser time period.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 121.12.  SEVERABILITY.
+
+
+
+ 
+
+
+
+   If any section, subsection, clause or phrase in this Article or the
+application thereof to any person or circumstances is for any reason held
+invalid, the validity of the remainder of the Article or the application of
+such provision to other persons or circumstances shall not be affected
+thereby. The City Council hereby declares that it would have passed this
+Article and each section, subsection, sentence, clause, or phrase thereof,
+irrespective of the fact that one or more sections, subsections, sentences,
+clauses, or phrases or the application thereof to any person or circumstance
+be held invalid.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE II
+WATER CLOSET, URINAL AND SHOWERHEAD REGULATIONS
+
+
+
+ 
+
+
+
+
+(Amended in Entirety by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+122.00   Title and Purpose.
+
+
+
+122.01   Scope.
+
+
+
+122.02   Definitions.
+
+
+
+122.03   Requirements.
+
+
+
+122.04   Surcharge for Violation of Requirements in Section 122.03.
+
+
+
+122.05   Notification.
+
+
+
+122.06   Compliance.
+
+
+
+122.07   Fees.
+
+
+
+122.08   Certificates of Registration as Certified Water Conservation
+Retrofitter.
+
+
+
+122.09   Penalties.
+
+
+
+122.10   Exemptions and Appeal.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.00.  TITLE AND PURPOSE.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   This article shall be known as Water Closet, Urinal and Showerhead
+Regulations.  The Council of the City of Los Angeles, in order to
+effectively address potential problems concerning existing water supplies and
+the City’s ability to handle ever-increasing wastewater flow in the sewage
+system, hereby implements a city-wide water conservation program.  Insofar
+as this article restates previously codified regulations on this subject it
+is the intent of this article to continue those regulations with the same
+force and effect, as they would have had in the absence of this article, and
+not to revoke and/or reenact those regulations.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.01.  SCOPE.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   The provisions of this article shall apply to all residential,
+commercial, and industrial buildings in the City of Los Angeles that use
+water in showers, water closets, or urinals, except those buildings which are
+historical buildings or structures as those terms are used in Section 91.8400
+of this Code and except those buildings which the Department of Water and
+Power pursuant to its Rules has determined should be exempted.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.02.  DEFINITIONS.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   For the purposes of this article:
+
+
+
+ 
+
+
+
+   (a)   “Agreement of sale” shall mean any agreement, reduced to
+writing, which provides that legal title of any real property shall
+thereafter be conveyed from one owner to another.
+
+
+
+ 
+
+
+
+   (b)   “Building” shall mean any structure having a roof
+supported by columns or walls, for the housing, shelter or enclosure of
+persons, animals, chattels or property of any kind..
+
+
+
+ 
+
+
+
+   (c)   “Flushometer valve” shall mean any device which discharges
+a predetermined quantity of water to fixtures for flushing purposes and is
+actuated by direct water pressure.
+
+
+
+ 
+
+
+
+   (d)   “Low consumption water closet” shall mean any water closet
+that complies with ANSI Standards of ASME A112.19.2M - 1990 and ASME
+A112.19.6 - 1990 (or as last revised).
+
+
+
+ 
+
+
+
+   (e)   “Low-flow Showerhead” shall mean any showerhead that
+allows a maximum flow rate of 2.5 gallons per minute and meets the National
+Plumbing Fixture Efficiency Standards which is part of the Energy Policy Act
+of 1992, Public Law 102-486 (October 22, 1992) and/or the energy efficiency
+standards as described in Title 20 of the California Administrative Code.
+
+
+
+ 
+
+
+
+   (f)   “Multi-family residential building” shall mean any
+residential building with three or more dwelling units, for which a
+satisfactory verification of condominium status has not been submitted to the
+Department of Water and Power.
+
+
+
+ 
+
+
+
+   (g)   “Owner” shall mean any person, partnership, association,
+company, corporation or fiduciary in whom or in which is vested legal title
+to real property improved with residential, commercial or industrial
+buildings, or who or which possesses the power to convey legal title to such
+real property.
+
+
+
+ 
+
+
+
+   (h)   “Residential Building” shall mean a building or portion
+thereof designed or used for human habitation.
+
+
+
+ 
+
+
+
+   (i)   “Small Business Operation” shall mean any separately
+metered commercial or industrial operation which has no urinals and which has
+no more than two showers and two water closets not equipped with flushometer
+valves and either complying with California Health and Safety Code Section
+17921.3 or capable of functioning properly after being retrofitted.
+
+
+
+ 
+
+
+
+   (j)   “Water closet flush-reduction device” shall mean a device,
+such as a tank dam, that when added to or attached to a water closet, will
+reduce the amount of water used per flush by at least one-half gallon.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.03.  REQUIREMENTS.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   (a)   Each owner must, by October 13, 1988 or upon the date of
+becoming an owner, whichever is later, assure that all existing showerheads,
+water closets and urinals in commercial, industrial and residential buildings
+comply with the following requirements:
+
+
+
+ 
+
+
+
+   1.   All showers must be equipped with low-flow showerheads.  This
+requirement shall not apply to any emergency shower installed for health or
+safety purposes that cannot safely operate with a maximum flow rate that does
+not exceed 2.5 gallons per minute.
+
+
+
+ 
+
+
+
+   2.   All water closets must be equipped either with flushometer
+valves which flush with a maximum of three and one-half gallons or with water
+closet flush-reduction devices.  This requirement shall not apply to any
+water closet that does not use more than an average of three and one-half
+gallons per flush.
+
+
+
+ 
+
+
+
+   3.   All urinals must be equipped with flushometer valves which
+flush with a maximum of one and one-half gallons.
+
+
+
+ 
+
+
+
+   (b)   Any showerhead in a commercial, industrial, or multi-family
+residential building that does not comply with this section shall be replaced
+with a low-flow showerhead.  Any water closet or urinal in a commercial,
+industrial or multi-family residential building that does not comply with
+this section or which does not function properly after being retrofitted in
+order to comply with this section shall be replaced with a fixture or device
+in compliance with California Health and Safety Code Section 17921.3.
+
+
+
+ 
+
+
+
+   (c)   Costs incurred in complying with this section by the landlord
+of a rental unit subject to the Rent Stabilization Ordinance (Los Angeles
+Municipal Code Section 151.00, et seq.) shall not be eligible for a
+rehabilitation work or capital improvement rent adjustment under the Rent
+Stabilization Ordinance.
+
+
+
+ 
+
+
+
+   (d)   Each owner must upon complying with the requirements of
+Subsection (a) submit a Certificate of Compliance or Owner-Certified Notice
+of Compliance to the Department of Water and Power which complies with the
+requirements of Section 122.06.
+
+
+
+ 
+
+
+
+   (e)   In addition to the provisions of Subsection (a), prior to
+entering into an agreement of sale or contracting for an exchange of any real
+property improved with residential, commercial, or industrial buildings, or
+when an escrow agreement has been executed in connection therewith, prior to
+the close of escrow, each owner or owner’s agent shall:
+
+
+
+ 
+
+
+
+   1.   equip all urinals with flushometer valves which flush urinals
+with a maximum of one and one-half gallons of water per flush;
+
+
+
+ 
+
+
+
+   2.   ensure that all showerheads are low-flow showerheads which are
+in compliance with the energy efficiency standards as described in Title 20
+of the California Administrative Code.
+
+
+
+ 
+
+
+
+   3.   ensure that all water closets are equipped either with
+flushometer valves which flush with a maximum of three and one-half gallons
+or with water closet flush-reduction devices.  This requirement shall not
+apply to any water closet that does not use more than an average of three and
+one-half gallons per flush.
+
+
+
+ 
+
+
+
+   4.   effective January 1, 1999, where the real property which is the
+subject of the sale has been improved with residential buildings, ensure that
+all water closets are low consumption water closets.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.04.  SURCHARGE FOR VIOLATION OF REQUIREMENTS IN SECTION 122.03.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   (a)   If within 182 days of the date set for compliance in Section
+122.03, an owner of a commercial, industrial or a multi-family residential
+building fails to comply with the requirements of Section 122.03, the
+Department of Water and Power shall thereafter charge that owner a
+ten-percent surcharge on the charges for water used for the property in
+violation, for each billing period until the owner complies or until the
+365th day following the date set for compliance in Section 122.03, whichever
+occurs first.
+
+
+
+ 
+
+
+
+   (b)   If, after 365 days following the date set for compliance in
+Section 122.03, the owner is still in violation, the Department of Water and
+Power shall increase the surcharge to twenty-five percent on the charges for
+water used for the property in violation, for each billing period until the
+owner complies or until the 547th day following the date set for compliance
+in Section 122.03, whichever occurs first.
+
+
+
+ 
+
+
+
+   (c)   If, after the 547th day following the date set for compliance
+in Section 122.03, the owner still has not complied with these requirements,
+then the Department of Water and Power shall increase the surcharge to
+fifty  percent on the charges for water used for the property in violation,
+for each billing period until the owner complies or until the 729th day
+following the date set for compliance in Section 122.03, whichever occurs
+first.
+
+
+
+ 
+
+
+
+   (d)   If, after the 729th day following the date set for compliance
+in Section 122.03, the owner still has not complied with these requirements,
+then the Department of Water and Power shall increase the surcharge to one
+hundred percent on the charges for water used for the property in violation,
+for each billing period until the owner complies.
+
+
+
+ 
+
+
+
+   (e)   Charges collected pursuant to this section shall be deposited
+in the Water Revenue Fund.  All charges collected as surcharges pursuant to
+this section and deposited in the Water Revenue Fund commencing on and after
+July 1, 1993, shall be remitted to the City Controller for the City General
+Fund.  Thereafter, all charges collected as surcharges pursuant to this
+section shall be remitted on a quarterly basis to the City Controller for the
+City General Fund.
+
+
+
+ 
+
+
+
+   (f)   Inclusion in a customer’s bill of a surcharge on charges for
+water used for the property during the billing period shall be deemed a
+determination by the Department of Water and Power that the surcharge be
+assessed.  Notice of the determination shall be deemed to have been provided
+to all interested parties on the date of mailing of the bill in which such
+surcharge is included.  Appeals from determinations by the Department of
+Water and Power pursuant to this section shall be in accordance with the
+Rules established pursuant to Section 122.10, except that no appeal may be
+taken from any determination more than 90 days after the aggrieved party has
+received notice of the determination, or more than 180 days after the date of
+the determination, whichever is earlier.  In no event shall the City or the
+Department of Water and Power be required to refund any charges received
+prior to the date of the determination.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.05.  NOTIFICATION.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   Prior to entering into an agreement of sale or contracting for an
+exchange of any real property improved with residential, commercial, or
+industrial buildings, or where an escrow agreement has been executed in
+connection therewith, prior to the close of escrow, the owner or owner’s
+agent shall give written notice of the requirements of this article to the
+buyer.  Any seller of property subject to this article shall provide the
+buyer with confirmation of compliance with the requirements of this article
+in any agreement of sale for the property between the buyer and seller.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.06.  COMPLIANCE.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   (a)   Each owner of a commercial or industrial building which does
+not qualify as a small business operation under Section 122.02(g) and each
+owner of a multi-family residential building which has more than 10 units
+shall employ a qualified person, as indicated in one of the categories listed
+below, to inspect the building or building, and, if it is in conformance with
+the requirements of this article, to file a Certificate of Compliance on a
+form provided by the Department of Water and Power.  The Certificate of
+Compliance shall be signed by the property owner or the owner’s agent and
+the qualified person who performed the inspection and shall certify that,
+based on personal knowledge, each water closet, urinal and showerhead in a
+particular building is in compliance with the requirements of Section
+122.03.  In addition, at the time of sale of any building described in this
+paragraph, a new Certificate of Compliance shall be signed by the buyer or
+buyer’s agent and the qualified person who performed the inspection and
+shall certify that, based on personal knowledge, each water closet, urinal
+and showerhead in a particular building is in compliance with the
+requirements of Section 122.03.  The following persons are be qualified to
+inspect buildings or buildings and submit Certificates of Compliance:
+
+
+
+ 
+
+
+
+   1.   persons who hold valid contractor’s licenses issued by the
+State of California, in the proper classification;
+
+
+
+ 
+
+
+
+   2.   persons who hold valid Maintenance Certificates of Registration
+issued pursuant to the provisions of Section 94.0402 of this Code;
+
+
+
+ 
+
+
+
+   3.   persons who hold valid Water Conservation Retrofitter
+Certifications, provided however that such persons may only submit
+Certificates of Compliance for multi-family residential buildings which are
+three or fewer stories in height.
+
+
+
+ 
+
+
+
+   (b)   Each owner of a Small Business Operation as defined in Section
+122.02(g), after complying with the requirements of this article, shall file,
+or cause the owner’s agent to file, a Certificate of Compliance on a form
+provided by the Department of Water and Power.  The Certificate of
+Compliance shall be signed by the owner or the owner’s agent and shall
+certify that, based on personal knowledge, each water closet, urinal and
+showerhead in a particular building is in compliance with the requirements of
+Section 122.03.  No other person’s signature is required for submission of
+this certificate. In addition, at the time of sale of any such Small Business
+Operation, a Certificate of Compliance on a form provided by the Department
+of Water and Power shall be signed by both the buyer or buyer’s agent and
+the seller or seller’s agent and either by a person listed in Subsections
+1, 2, or 3 of Section 122.06(a) above or by a person licensed as a broker or
+real estate agent by the California.  The Certificate of Compliance shall
+certify that, based on personal knowledge of the person signing the
+Certificate, each water closet, urinal and showerhead in a particular
+building is in compliance with the requirements of Section 122.03.
+
+
+
+ 
+
+
+
+   (c)   Each owner of a one or two-family dwelling, or a multi-family
+residential building with 10 or fewer units, or an individual condominium
+unit if a satisfactory verification of condominium status has been submitted
+to the Department of Water and Power, after complying with the requirements
+of this article, shall file an Owner-Certified Notice of Compliance.  This
+Notice of Compliance is a written statement signed by the owner or the
+owner’s agent on a form provided by the Department of Water and Power which
+certifies that each water closet, urinal and showerhead in a particular
+building is in compliance with the requirements of Section 122.03.  In
+addition, at the time of sale of any such dwelling or building, a Certificate
+of Compliance on a form provided by the Department of Water and Power shall
+be signed by both the buyer or buyer’s agent and the seller or seller’s
+agent and either by a person listed in Subsections 1, 2, or 3 of Section
+122.06(a) above or by a person licensed as a broker or real estate agent by
+the California.  The Certificate of Compliance shall certify that, based on
+personal knowledge of the person signing the Certificate, each water closet,
+urinal and showerhead in a particular building is in compliance with the
+requirements of Section 122.03.
+
+
+
+ 
+
+
+
+   (d)   The Certificate of Compliance or Owner-Certified Notice of
+Compliance shall be filed with the Department of Water and Power within 15
+days after complying with the provisions of this article.
+
+
+
+ 
+
+
+
+   (e)   The provisions of Paragraphs (a) through (e) of this section
+do not apply if a valid Certificate of Compliance has been previously
+submitted to the Department of Water and Power within one year of the date
+that the owner acquired title to the property.
+
+
+
+ 
+
+
+
+   (f)   A Certificate of Compliance or an Owner-Certified Notice of
+Compliance may be rejected if the Department of Water and Power determines
+that the qualified person employed to inspect the work has failed or
+neglected to comply with the provisions of this article, or that the
+Certificate or Notice of Compliance contains a false statement of
+representation, or fails to disclose a material fact.
+
+
+
+ 
+
+
+
+   (g)   No person shall charge more than $25 per dwelling unit for
+inspecting apartment units and certifying compliance with these regulations.
+
+
+
+ 
+
+
+
+   (h)   Any person who knowingly and willfully makes a false statement
+or representation or fails to disclose a material fact in a Certificate of
+Compliance or in an Owner-Certified Notice of Compliance submitted to the
+Department of Water and Power shall be punishable by a fine of not more than
+$25.00 for the first violation, a fine of not more than $50.00 for the second
+violation within one year, and a fine of not more than $100.00 for the third
+violation and each additional violation within one year.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.07.  FEES.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   The Certificate of Compliance processing fee shall be as follows:
+
+
+
+ 
+
+
+
+ 
+
+TYPE OF BUILDING
+ 
+
+FEE
+
+
+
+One-Family and Two-Family Dwellings
+ 
+
+$15.00
+
+
+
+All Other Residential, Commercial and Industrial Buildings
+ 
+
+
+
+
+   Number of Floors in Building (including basements)
+ 
+
+
+
+
+
+1 to 3   
+
+ 
+
+$25.00
+
+
+
+
+4 to 9    
+
+ 
+
+$50.00
+
+
+
+
+10 and above   
+
+ 
+
+$75.00 plus $5.00 per floor above 10 floors
+
+
+
+
+ 
+
+
+
+   
+
+
+
+SEC. 122.08.  CERTIFICATES OF REGISTRATION AS CERTIFIED WATER CONSERVATION
+RETROFITTER.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   (a)   Certificates of Registration as Certified Water Conservation
+Retrofitters which are current as of the effective date of the ordinance
+enacting this article or which expired no more than 12 months prior to that
+same date are hereby renewed.  Said Certificates shall thereafter continue
+to be valid without further application for renewal unless suspended or
+revoked as set forth herein.
+
+
+
+ 
+
+
+
+   (b)   A Certificate of Registration may be suspended or revoked in
+accordance with the provisions of Article 8 of Chapter IX.
+
+
+
+ 
+
+
+
+   (c)   Certificates of Registration are not transferable.  Upon the
+dissolution of a firm, partnership, or corporation or other entity which held
+a Certificate of Registration, the Certificate shall become void.
+
+
+
+ 
+
+
+
+   (d)   Each person holding a valid Certificate of Registration shall
+display it in some conspicuous location in his or her fixed place of business
+or, if the person has no fixed place of business, he or she shall carry the
+Certificate of Registration at all times while doing business as a Water
+Conservation Retrofitter.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.09.  PENALTIES.
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   It shall be an infraction for any person to violate any provision of
+this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 122.10.  EXEMPTIONS AND APPEALS
+
+
+
+   (Amended by Ord. No. 172,075, Eff. 7/24/98.)
+
+
+
+ 
+
+
+
+   The Department of Water and Power shall adopt and promulgate rules by
+which owners of buildings may apply for exemptions from the requirements of
+this Article or appeal from surcharges imposed pursuant to Section 122.04. 
+Any appeal from a surcharge made prior to the adoption of such rules shall be
+pursuant to the provisions of Section 121.11 F.* of the Los Angeles Municipal
+Code.
+
+
+
+ 
+
+
+
+   * Note: Former Section 121.11 ("Conservation Appeal Boards") was
+removed by Ord. No. 180,148, Eff. 8/25/08.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE III
+[REDUCTION OF SEWER FLOWS]
+
+
+
+ 
+
+
+
+
+(Added by Ord. No. 163,532, Eff. 4/28/88.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+123.00   Declaration of Purpose.
+
+
+
+123.01   Definitions.
+
+
+
+123.02   Conservation Phase Implementation.
+
+
+
+123.03   Department of Water and Power Responsibilities.
+
+
+
+123.04   Audits of Large Water and Sewer Users.
+
+
+
+123.07   Penalties.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 123.00.  DECLARATION OF PURPOSE.
+
+
+
+ 
+
+
+
+   The purpose of this article is to provide a mandatory water
+conservation plan to reduce water consumption and avoid overloading the
+City’s sewage treatment system so as to reduce sewer flows by at least 10
+percent within five years of the effective date of this ordinance. In
+particular, the Xeriscape requirements include providing alternatives for
+achieving reduction in landscape water consumption. By reducing water
+consumption, the City preserves the sewage treatment system. This measure
+will promote the health, safety and welfare of the citizens of the City of
+Los Angeles and the general public to the greatest extent possible.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 123.01.  DEFINITIONS.
+
+
+
+ 
+
+
+
+   (a)   “Low-flow showerhead” shall mean a showerhead that allows
+a maximum flow rate or three gallons per minute, and meets the 1987 Appliance
+Efficiency Standard of California Administrative Code, Title 20.
+
+
+
+ 
+
+
+
+   (b)   “Multi-family residential structure” shall mean any
+residential structure with three or more dwelling units.
+
+
+
+ 
+
+
+
+   (c)   “Owner” shall mean any person, partnership, association,
+company, corporation or fiduciary in whom or in which is vested legal title
+to real property improved with residential, commercial or industrial
+buildings, or who or which possesses the power to convey legal title to the
+real property.
+
+
+
+ 
+
+
+
+   (d)   (Subsecs. (d) and (f) deleted, Subsec. (e) renumbered as (d)
+by Ord. No. 170,978, Eff. 5/13/96, Oper. 7/13/96.)  “Water closet
+flush-reduction device” is a device, such as a tank dam, that when added to
+or attached to a water closet, will reduce the amount of water used per flush
+by at least one-half gallon.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 123.02.  CONSERVATION PHASE IMPLEMENTATION.
+
+
+
+ 
+
+
+
+   Initiation. When the Department of Public Works determines that the
+capacity available in the City’s sewage system is such as to necessitate
+the implementation of any phase of the Emergency Water Conservation Plan of
+the City of Los Angeles, Los Angeles Municipal Code Section 121.00 et seq.,
+the Department shall recommend to the Mayor that one or more phases of the
+Emergency Water Conservation Plan be implemented. Thereafter the Mayor, with
+the concurrence of the City Council, may order that one or more phases be
+implemented, in accordance with the applicable provisions of this chapter.
+This order shall be made by public proclamation and shall be published one
+time only in a daily newspaper of general circulation and shall become
+effective immediately upon publication.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 123.03.  DEPARTMENT OF WATER AND POWER RESPONSIBILITIES.
+
+
+
+ 
+
+
+
+   As an aid to the implementation of this article, the Department of
+Water and Power shall:
+
+
+
+ 
+
+
+
+   1.   Distribute low-flow showerheads and water closet
+flush-reduction devices free of charge to all residential dwelling units for
+which building permits were issued prior to January 1, 1979; and
+
+
+
+ 
+
+
+
+   2.   Monitor all water bills and notify those customers whose bills
+are determined by the Department to be significantly above average. These
+notifications shall commence within 90 days of the effective date of this
+ordinance. These notifications shall be accompanied by water conservation
+information, including instructions about water conservation audits conducted
+by the Department of Water and Power.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 123.04.  AUDITS OF LARGE WATER AND SEWER USERS.
+
+
+
+ 
+
+
+
+   Within 180 days of the effective date of this ordinance, the water
+consumption of the 250 largest water users and the 250 largest sewer system
+users in the City of Los Angeles shall be audited. These audits shall be
+conducted by the owner or a representative of the owner in accordance with
+guidelines established by the Department of Water and Power. The results of
+these audits shall be reported to the Department of Water and Power by the
+owner or a representative of the owner.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 123.05.  XERISCAPE REQUIREMENTS.
+
+
+
+   (Repealed by Ord. No. 170,978, Eff. 5/13/96, Oper. 7/13/96.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 123.06.
+
+
+
+   (Repealed by Ord. No. 170,978, Eff. 5/13/96, Oper. 7/13/96.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 123.07.  PENALTIES.
+
+
+
+ 
+
+
+
+   It shall be an infraction for any person to violate any provision of
+this article.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE IV
+LARGE TURF WATER CONSERVATION REGULATIONS
+
+
+
+ 
+
+
+
+
+(Added by Ord. No. 163,532, Eff. 4/28/88.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+124.00   Title and Purpose.
+
+
+
+124.01   Scope.
+
+
+
+124.02   Definitions.
+
+
+
+124.03   Water Conservation Requirements for Large Turf Areas.
+
+
+
+124.04   Surcharge for Violation of Requirements in Section 124.03.
+
+
+
+124.05   Appellate Relief.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 124.00.  TITLE AND PURPOSE.
+
+
+
+ 
+
+
+
+   This article shall be known as Large Turf Water Conservation
+Regulations. The City Council, in order to effectively address potential
+problems concerning existing and projected water supply shortages and the
+City’s ability to handle ever increasing wastewater flow in the City sewage
+system, hereby implements this conservation program.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 124.01.  SCOPE.
+
+
+
+ 
+
+
+
+   The provisions of this article shall apply to all persons who own,
+rent, lease or otherwise control the use of real property in the City of Los
+Angeles which contains or encompasses a large turf area.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 124.02.  DEFINITIONS.
+
+
+
+ 
+
+
+
+   (a)   “Base year” shall mean 1986.
+
+
+
+ 
+
+
+
+   (b)   “Large turf area” shall mean an area continuing at least
+three acres of turf.
+
+
+
+ 
+
+
+
+   (c)   “Owner” shall mean any person, partnership, association,
+company, corporation or fiduciary in whom or in which is vested legal title
+to real property improved with residential, commercial or industrial
+buildings, or who or which possesses the power to convey legal title to the
+real property.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 124.03.  WATER CONSERVATION REQUIREMENTS FOR LARGE TURF AREAS.
+
+
+
+ 
+
+
+
+   (a)   Owners of large turf areas in the City of Los Angeles shall
+reduce or caused to be reduced by ten percent the amount of water used for
+landscape irrigation purposes on large turf areas. The ten percent reduction
+shall be calculated based on the corresponding billing period in the base
+year.
+
+
+
+ 
+
+
+
+   (b)   Owners of large turf areas shall comply with the requirements
+of Subsection (a) of this section by October 13,1988.
+
+
+
+ 
+
+
+
+   (c)   Owners of large turf areas who install water conservation
+devices that are specifically designed or manufactured, as determined by the
+Department of Water and Power, to reduce water consumption by at least ten
+percent shall be deemed to have complied with this section.
+
+
+
+ 
+
+
+
+   (d)   The provisions of this sections shall not apply to those
+owners of large turf areas who are determined by the Department of Water and
+Power to use reclaimed water for landscape irrigation purposes.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 124.04.  SURCHARGE FOR VIOLATION OF REQUIREMENTS IN SECTION 124.03.
+
+
+
+ 
+
+
+
+   If an owner of a large turf area fails to comply with the requirements
+of Section 124.03 within 182 days of the date set for compliance in Section
+124.03, the Department of Water and Power shall thereafter charge the owner a
+ten percent surcharge on the charges for water used for the property in
+violation, for each billing period until the owner complies or until the
+365th day following the date set for compliance in Section 124.03, whichever
+occurs first.
+
+
+
+ 
+
+
+
+   If, after 365 days following the date set for compliance in Section
+124.03, the owner is still in violation, the Department of Water and Power
+shall increase the surcharge to twenty-five percent on the charges for water
+used for the property in violation, for each billing period until the owner
+complies or until the 547th day following the date set for compliance in
+Section 124.03, whichever occurs first.
+
+
+
+ 
+
+
+
+   If, after the 547th day following the date set for compliance in
+Section 124.03, the owner still has not complied with these requirements,
+then the Department shall increase the surcharge to fifty percent on the
+charges for water used for the property in violation, for each billing period
+until the owner complies or until the 729th day following the date set for
+compliance in Section 124.03, whichever occurs first.
+
+
+
+ 
+
+
+
+   If, after the 729th day following the date set for compliance in
+Section 124.03, the owner still has not complied with these requirements,
+then the Department shall increase the surcharge to one hundred percent on
+the charges for water used for the property in violation, for each billing
+period until the owner complies.
+
+
+
+ 
+
+
+
+   Charges collected pursuant to this section shall be deposited in the
+Water Revenue Fund.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 124.05.  APPELLATE RELIEF.
+
+
+
+   (Amended by Ord. No. 166,374, Eff. 12/8/90.)
+
+
+
+ 
+
+
+
+   Appeals from determinations by the Department of Water and Power
+pursuant to Sections 124.03 and 124.04 shall be in accordance with the
+provisions of Section 121.11 F.* of the Los Angeles Municipal Code.
+
+
+
+ 
+
+
+
+   * Note: Former Section 121.11 ("Conservation Appeal Boards") was
+removed by Ord. No. 180,148, Eff. 8/25/08.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE V
+WATER EFFICIENCY REQUIREMENTS FOR NEW DEVELOPMENT AND RENOVATION OF EXISTING
+BUILDINGS
+
+
+
+ 
+
+
+
+
+(Added by Ord. No. 180,822, Eff. 9/4/09.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+125.00   Title and Purpose.
+
+
+
+125.01   Declaration of Policy.
+
+
+
+125.02   Definitions and Standards.
+
+
+
+125.03   Requirements.
+
+
+
+125.04   Authorization.
+
+
+
+125.05   Application.
+
+
+
+125.06   Exemptions.
+
+
+
+125.07   Severability.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 125.00.  TITLE AND PURPOSE.
+
+
+
+ 
+
+
+
+   This Article shall be known as the Water Efficiency Requirements for
+the construction of new buildings and the installation of new plumbing
+fixtures in existing buildings in the City.  The purpose of this Article is
+to impose water efficiency requirements for the construction of new buildings
+and the installation of new plumbing fixtures in existing buildings to
+minimize the effect of any water shortages to the customers of the City; and,
+by means of this Article, to adopt provisions that will reduce the
+consumption of water over an extended period of time, thereby extending the
+available water required for customers while reducing hardship on the City
+and the general public to the greatest extent possible, voluntary
+conservation efforts having proved to be insufficient.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 125.01.  DECLARATION OF POLICY.
+
+
+
+ 
+
+
+
+   It is hereby declared that it is in the interest of the City to advance
+water efficiency measures for new development in the City.  To enhance the
+sustainability of the City's water supply, water resources available to the
+City shall be put to the maximum beneficial use to the extent possible.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 125.02.  DEFINITIONS AND STANDARDS.
+
+
+
+ 
+
+
+
+   For purposes of this Article the following terms are defined as follows
+based on recognized industry terms.  Other definitions relating to plumbing
+fixtures are contained in the City Plumbing Code.
+
+
+
+ 
+
+
+
+   1.   "ASME" is the American Society of Mechanical Engineers.
+
+
+
+
+   2.   "Commercial Pre-rinse Spray Valves (PRSV)" are assemblies
+consisting of a flexible hose and spray head for attachment to a faucet with
+a built-in diverter.  Commercial kitchen pre-rinse spray valves shall be
+equipped with an integral automatic shut off.
+
+
+
+ 
+
+
+
+   3.   "Cooling Tower" is a large exterior heat exchanger that
+transfers heat from condenser water to the outside air.
+
+
+
+ 
+
+
+
+   4.   "CSA" is the Canadian Standards Association.
+
+
+
+ 
+
+
+
+   5.   "Cycles of concentration" is the accumulation of dissolved
+minerals in a cooling tower recirculating water.
+
+
+
+ 
+
+
+
+   6.   "Dual Flush" means a toilet that has two flush modes, one at
+1.1 gallons per flush or less and one at 1.6 gallons per flush or less.
+
+
+
+ 
+
+
+
+   7.   "Energy Star®" is a government backed program helping
+businesses and individuals protect the environment through energy efficiency.
+
+
+
+ 
+
+
+
+   8.   "High Efficiency Toilet" is a toilet that flushes with no more
+than 1.28 gallons of water.  A dual flush toilet is equivalent to a high
+efficiency toilet.
+
+
+
+ 
+
+
+
+   9.   "High Efficiency Urinal" is a fixture that flushes with no more
+than 0.5 gallons of water.  A non-water use urinal is a high efficiency
+urinal.
+
+
+
+ 
+
+
+
+   10.   "IAPMO" is the International Association of Plumbing and
+Mechanical Officials.
+
+
+
+ 
+
+
+
+   11.   "Kitchen or Bar Sink Faucet" is a device opening that drains
+water into an approved receptacle in domestic or commercial installations. 
+Faucets that drain into other types of sinks, such as clinic sinks, floor
+sinks, service sinks and other similar sinks are not included.
+
+
+
+ 
+
+
+
+   12.   "Lavatory Faucet" is a faucet that drains into a lavatory
+basin in a domestic or commercial installation.
+
+
+
+ 
+
+
+
+   13.   "Metering Faucet" is a faucet that after actuation dispenses
+water of a predetermined volume or for a predetermined period of time.  The
+volume or cycle duration can be fixed or adjustable.
+
+
+
+ 
+
+
+
+   14.   "Non-Water Urinals" are plumbing fixtures that are designed to
+receive and convey only liquid waste (urine) through a trap seal and into the
+gravity drainage system without the use of water for such function. 
+Zero-water, Water-less or Water-free urinals are equivalent terms for
+Non-water urinals.
+
+
+
+ 
+
+
+
+   15.   "Potable Water" is water that is satisfactory for drinking,
+culinary, and domestic purposes that meets the requirements of the health
+authority having jurisdiction.
+
+
+
+ 
+
+
+
+   16.   "Private or Private Use" refers to plumbing fixtures in
+residences and apartments, private bathrooms in hotels and hospitals, and
+restrooms in commercial establishments where the fixtures are intended for
+the use of a family or an individual.
+
+
+
+ 
+
+
+
+   17.   "Public or Public Use" means all uses of fixtures or
+structures that are not defined as private or private use.
+
+
+
+ 
+
+
+
+   18.   "Self-Closing Faucet" is a faucet designed to close itself as
+the activating mechanism is released.
+
+
+
+ 
+
+
+
+   19.   "Single Pass Cooling Systems" are systems within which water
+is circulated only once to cool equipment before disposal.
+
+
+
+ 
+
+
+
+   20.   "US EPA" is the United States Environmental Protection Agency.
+
+
+
+ 
+
+
+
+   21.   "Water Closet, Electro-Hydraulic Tank Type" is a water closet
+of the siphonic or washdown type that utilizes motors, pumps, and controllers
+to assist the flushing action by monitoring and controlling the flush and
+dictating the exact discharge from the tank into the bowl.  All
+electro-hydraulic tank type water closets shall have a maximum effective
+flush volume of not more than 1.28 gallons (4.8 liters) of water per flush in
+accordance with ASME A112.19.2/ CSA B45.1 or ASME A112.19.14 and shall also
+be listed to the EPA WaterSense Tank-Type High Efficiency Toilet
+Specification.  The effective flush volume for dual flush toilets is the
+composite, average flush volume of two reduced flushes and one full flush.
+
+
+
+ 
+
+
+
+   22.   "Water Closet, Gravity" is a water closet that is designed to
+flush the bowl by gravity.  All gravity type water closets shall have a
+maximum effective flush volume of not more than 1.28 gallons (4.8 liters) of
+water per flush in accordance with ASME A112.19.2/CSA B45.1 or ASME
+A112.19.14 and shall also be listed to the EPA WaterSense Tank-Type High
+Efficiency Toilet Specification.  The effective flush volume for dual flush
+toilets is the composite, average flush volume of two reduced flushes and one
+full flush.
+
+
+
+ 
+
+
+
+   23.   "Water Closet, Pressure-Assist Type" is a water closet with a
+pressure vessel installed within its tank that uses water supply pressure to
+compress entrapped air.  When the flushing mechanism is activated, the
+energy stored in the compressed air is released, causing a surge of water
+into the bowl.  All pressure-assist type water closets shall have a maximum
+effective flush volume of not more than 1.28 gallons (4.8 liters) of water
+per flush in accordance with ASME A112.19.2/CSA B45.1 or ASME A112.19.14 and
+shall also be listed to the EPA WaterSense Tank-Type High Efficiency Toilet
+Specification.  The effective flush volume for dual flush toilets is the
+composite, average flush volume of two reduced flushes and one full flush.
+
+
+
+ 
+
+
+
+   24.   "Water Factor" is the number of gallons of water per cycle per
+cubic foot (ft 3 ) that a clothes washer uses.  The Water Factor for a
+clothes washer (residential or commercial) shall be calculated by the
+quantity of water in Liter/Gallon (L/G) used to wash each cubic meter (m 3 )
+or each cubic foot (ft 3 ) of machine drum capacity.  The Water Factor for a
+residential dishwasher shall be calculated by the quantity of water use in
+L/G per full machine wash and rinse cycle.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 125.03.  REQUIREMENTS.
+
+
+
+ 
+
+
+
+   Effective December 1, 2009, all plumbing installations in new buildings
+and installations of new plumbing fixtures in existing buildings shall meet
+the following requirements: 
+
+
+
+ 
+
+
+
+   (a)   Toilets.  All toilets installed shall be high efficiency
+fixtures.  The maximum flush volume for high efficiency toilets shall not
+exceed 1.28 gallons of water (effective) per flush (gpf).
+
+
+
+ 
+
+
+
+   (b)   Urinals.  All urinals installed shall be high efficiency
+fixtures.  The maximum flush volume of high efficiency urinals shall not
+exceed 0.5 gallon of water per flush.  Effective October 1, 2010, the
+maximum flush volume of high efficiency urinals shall not exceed 0.125 gallon
+of water per flush.
+
+
+
+ 
+
+
+
+   (c)   Faucets.  All faucets in public restrooms must be self
+closing.  The flow rate for all indoor faucets shall be 2.2 gallons per
+minute (gpm) except as follows:
+
+
+
+ 
+
+
+
+   •   The maximum flow rate for private or private use lavatory
+faucets shall be 1.5 gpm (5.6 Lpm).
+
+
+
+ 
+
+
+
+   •   The maximum flow rate for public use lavatory faucets, shall
+be 0.5 gpm. Exception:  Metering faucets shall deliver not more than 0.25
+gallon (1.0 liter) of water per cycle.
+
+
+
+ 
+
+
+
+   •   The maximum flow rate for a pre-rinse spray valve installed in
+a commercial kitchen to remove food waste from cookware and dishes prior to
+cleaning shall be 1.6 gpm (6.0 Lpm).
+
+
+
+ 
+
+
+
+   (d)   Showerheads.  All showerheads must be low flow with a maximum
+flow rate that does not exceed 2.0 gallons per minute.  This requirement
+shall not apply to any emergency showerhead installed for health or safety
+purposes.
+
+
+
+ 
+
+
+
+   (e)   Dishwashers.
+
+
+
+ 
+
+
+
+   1.   The maximum water use for high efficiency commercial
+dishwashers shall be in accordance with Table 1.
+
+
+
+ 
+
+
+
+
+TABLE 1
+HIGH EFFICIENCY COMMERCIAL DISHWASHER WATER USE
+
+
+
+
+
+ 
+
+
+
+
+Type
+
+ 
+
+High-Temperature
+Maximum gallons
+per rack
+
+ 
+
+Chemical-
+Maximum gallons
+per rack
+
+
+
+
+Conveyer
+
+ 
+
+0.70
+
+ 
+
+0.62
+
+
+
+
+Door
+
+ 
+
+0.95
+
+ 
+
+1.16
+
+
+
+
+Undercounter
+
+ 
+
+0.90
+
+ 
+
+0.98
+
+
+
+
+
+
+
+
+
+   2.   The maximum water use per washing cycle for high efficiency
+domestic dishwashers shall be 5.8 gallons.
+
+
+
+ 
+
+
+
+   All installed dishwashers must be Energy Star® rated.
+
+
+
+ 
+
+
+
+   (f)   Cooling Towers.  All cooling towers must be operated at a
+minimum of 5.5 cycles of concentration.
+
+
+
+ 
+
+
+
+   (g)   Use of Single Pass Cooling Systems.  Single pass cooling
+systems are strictly prohibited for use in devices, processes, or equipment
+installed in commercial, industrial, or multi family residential buildings. 
+This prohibition shall not apply to devices, processes, or equipment
+installed for health or safety purposes that cannot operate safely otherwise.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 125.04.  AUTHORIZATION.
+
+
+
+ 
+
+
+
+   The various officers, boards, departments, bureaus and agencies of the
+City are hereby authorized and directed to immediately implement the
+applicable provisions of this Article upon the effective date hereof.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 125.05.  APPLICATION.
+
+
+
+ 
+
+
+
+   The provisions of this Article shall apply to all customers and
+properties served by the Department of Water and Power wherever situated, and
+shall also apply to all property and facilities owned, maintained, operated
+or under the jurisdiction of the various officers, boards, departments,
+bureaus or agencies of the City.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 125.06.  EXEMPTIONS.
+
+
+
+   (Amended by Ord. No. 181,560, Eff. 3/22/11.)
+
+
+
+ 
+
+
+
+   The following buildings are exempt from this Article:
+
+
+
+ 
+
+
+
+   (a)   Buildings for which plans were accepted by the Department of
+Building and Safety and a fee paid prior to the effective date of this
+Article; and
+
+
+
+ 
+
+
+
+   (b)   Existing buildings where use of High Efficiency fixtures is
+infeasible because their installation will compromise public health, safety,
+or welfare.
+
+
+
+ 
+
+
+
+   Any exemption from the requirements of this Article, except exemptions
+from Subsection (f) or (g) of Section 125.03, requires written approval from
+the Department of Building and Safety.  Any exemption from Subsection (f) or
+(g) of Section 125.03 requires written approval from the Department of Water
+and Power.  Any application for an exemption based on public health, safety,
+or welfare must be accompanied by a registered engineer's report documenting
+the need for the exemption.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 125.07.  SEVERABILITY.
+
+
+
+
+   If any section, subsection, clause or phrase in this Article or the
+application thereof to any person or circumstances is for any reason held
+invalid, the validity of the remainder of the Article or the application of
+such provision to other persons or circumstances shall not be affected
+thereby.  The City Council hereby declares that it would have passed this
+Article and each section, subsection, sentence, clause or phrase thereof,
+irrespective of the fact that one or more sections, subsections, sentences,
+clauses or phrases or the application thereof to any person or circumstances
+be held invalid.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+

@@ -1,0 +1,2569 @@
+
+Los Angeles Municipal Code
+
+
+CHAPTER XI
+NOISE REGULATION
+
+
+
+ 
+
+
+
+
+(Added by Ord. No. 144,331, Eff. 3/2/73.)
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+   Article
+
+
+
+ 
+
+
+
+
+   1   General Provisions
+
+
+
+
+
+
+
+
+
+
+   2   Special Noise Sources
+
+
+
+
+
+
+
+
+
+
+   3   Sanitary Operations
+
+
+
+
+
+
+
+
+
+
+   4   Vehicles
+
+
+
+
+
+
+
+
+
+
+   5   Amplified Sounds
+
+
+
+
+
+
+
+
+
+
+   6   General Noise
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 1
+GENERAL PROVISIONS
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+111.00   Declaration of Policy.
+
+
+
+111.01   Definitions.
+
+
+
+111.02   Sound Level Measurement Procedure and Criteria.
+
+
+
+111.03   Minimum Ambient Noise Level.
+
+
+
+111.04   Violations:  Additional Remedies, Injunctions.
+
+
+
+111.05   Enforcement, Citations.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 111.00.  DECLARATION OF POLICY.
+
+
+
+ 
+
+
+
+   It is hereby declared to be the policy of the City to prohibit
+unnecessary, excessive and annoying noises from all sources subject to its
+police power.  At certain levels noises are detrimental to the health and
+welfare of the citizenry and in the public interests shall be systematically
+proscribed.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 111.01.  DEFINITIONS.
+
+
+
+ 
+
+
+
+   Unless the context otherwise clearly indicates, the words and phrases
+used in this chapter are defined as follows:
+
+
+
+ 
+
+
+
+   (a)   “Ambient Noise” is the composite of noise from all sources
+near and far in a given environment, exclusive of occasional and transient
+intrusive noise sources and of the particular noise source or sources to be
+measured. Ambient noise shall be averaged over a period of at least 15
+minutes at a location and time of day comparable to that during which the
+measurement is taken of the particular noise source being measured. (Amended
+by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (b)   “Commercial Purpose” is the use, operation, or maintenance
+of any sound amplifying equipment for the purpose of advertising any
+business, goods, or services, or for the purpose of attracting the attention
+of the public to, advertising for, or soliciting patronage or customers to or
+for any performance, show, entertainment, exhibition, or event, or for the
+purpose of demonstrating such sound equipment. (Amended by Ord. No. 156,363,
+Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (c)   “Decibel” (dB) is a unit of level which denotes the ratio
+between two (2) quantities which are proportional to power; the number of
+decibels corresponding to the ratio of two (2) amounts of power is ten (10)
+times the logarithm to the base (10) of this ratio. (Amended by Ord. No.
+156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (d)   “Emergency Work” is work made necessary to restore
+property to a safe condition following a public calamity or work required to
+protect persons or property from an imminent exposure to danger, or work by
+private or public utilities when restoring utility service. (Amended by Ord.
+No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (e)   “Impulsive Sound” is sound of short duration, usually less
+than one second, with an abrupt onset and rapid decay. By way of example
+“impulsive sound” shall include, but shall not be limited to, explosions,
+musical base drum beats, or the discharge of firearms. (Amended by Ord. No.
+156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (f)   “Motor Vehicle” includes, but shall not be limited to,
+automobiles, trucks, motorcycles, minibikes and go-carts. (Amended by Ord.
+No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (g)   “Noncommercial Purpose” is the use, operation, or
+maintenance of any sound equipment for other than a “commercial purpose”.
+“Noncommercial purpose” shall mean and include, but shall not be limited
+to, philanthropic, political, patriotic, and charitable purposes. (Amended by
+Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (h)   “Octave Band Noise Analyzer” is an instrument for
+measurement of sound levels in octave frequency bands which satisfies the
+pertinent requirements for Class II octave band analyzers of the American
+National Standard Specifications for Octave, Half-Octave, and Third-Octave
+Band Filters, S1.11-1966 or the most recent revision thereof. (Amended by
+Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (i)   “Person” is a person, firm, association, co-partnership,
+joint venture, corporation, or any entity, private or public in nature.
+(Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (j)   “Sound Amplifying Equipment” (Amended by Ord. No. 156,363,
+Eff. 3/29/82.) is any machine or device for the amplification of the human
+voice, music or any other sound, but shall not include:
+
+
+
+ 
+
+
+
+   1.   Automobile radios, stereo players or television receivers when
+used and heard only by the occupants of the vehicle in which the same is
+installed.
+
+
+
+ 
+
+
+
+   2.   Radio, stereo players, phonographs or television receivers used
+in any house or apartment within any residential zone or within 500 feet
+thereof.
+
+
+
+   3.   Warning devices on emergency vehicles.
+
+
+
+ 
+
+
+
+   4.   Horns or other warning devices authorized by law on any vehicle
+when used for traffic purposes.
+
+
+
+ 
+
+
+
+   (k)   “Sound Level” (Noise level) in decibels (dB) is the sound
+measured with the “A” weighting and slow responses by a sound level
+meter; except for impulsive or rapidly varying sounds, the fast response
+shall be used. (Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (l)   “Sound Level Meter” is an instrument including a
+microphone, an amplifier, an output meter, and “A” frequency weighting
+network for the measurement of sound levels which satisfies the pertinent
+requirements for Type S2A meters in American Standard Specifications for
+sound level meters in S1.4-1971 or the most recent revision thereof. (Amended
+by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (m)   “Sound Truck” is any motor vehicle, or any other vehicle
+regardless of motive power, whether in motion or stationary, which carries,
+is equipped with, or which has mounted thereon, or attached thereto, any
+sound amplifying equipment. (Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (n)   Supplementary Definitions of Technical Terms.  Definitions of
+technical terms not defined herein shall be obtained from American Standard
+Acoustical Terminology S1-1-1971 or the most recent revision thereof.
+(Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 111.02.  SOUND LEVEL MEASUREMENT PROCEDURE AND CRITERIA.
+
+
+
+   (Title amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (a)   (Amended by Ord. No. 156,363, Eff. 3/29/82.)  Any sound level
+measurement made pursuant to the provisions of this chapter shall be measured
+with a sound level meter using the “A” weighting and response as
+indicated in Section 111.01(k) of this article.
+
+
+
+ 
+
+
+
+   Except when impractical, the microphone shall be located four to five
+feet above the ground and ten feet or more from the nearest reflective
+surface.  However, in those cases where another elevation is deemed
+appropriated, the latter shall be utilized.
+
+
+
+ 
+
+
+
+   Interior sound level measurements shall be made at a point at least
+four feet from the wall, ceiling, or floor nearest the noise source.
+
+
+
+ 
+
+
+
+   Calibration of the sound level meter, utilizing an acoustic calibrator
+shall be performed immediately prior to recording any sound level data.  The
+ambient noise level and the level of a particular noise being measured shall
+be the numerical average of noise measurements taken at a given location
+during a given time period.
+
+
+
+ 
+
+
+
+   (b)   (Amended by Ord. No. 156,363, Eff. 3/29/82.) Where the sound
+alleged to be offending is of a type or character set forth below, the
+following values shall be added to the sound level measurement of the
+offending noise:
+
+
+
+ 
+
+
+
+   1.   Except for noise emanating from any electrical transformer or
+gas metering and pressure control equipment existing and installed prior to
+the effective date of the ordinance enacting this chapter, any steady tone
+with audible fundamental frequency or overtones have 200 Hz.....+5
+
+
+
+ 
+
+
+
+   2.   Repeated impulsive noise.....+5
+
+
+
+ 
+
+
+
+   3.   Noise occurring more than 5 but less than 15 minutes in any
+period of 60 consecutive minutes between the hours of 7:00 a.m. and 10:00
+p.m. of any day.....-5
+
+
+
+ 
+
+
+
+   4.   Noise occurring five minutes or less in any period of 60
+consecutive minutes, between the hours of 7:00 a.m. and 10:00 p.m. of any
+day.....-5  (Amended by Ord. No. 161,574, Eff. 9/8/86.)
+
+
+
+ 
+
+
+
+   (c)   For those cases where an objectionable noise is clearly
+audible, but where the level of ambient noise does not permit direct
+quantative sound level “A” measurements of the objectionable noise, sound
+measurements may be performed utilizing an octave band sound analyzer to
+determine sound level “A” limits as indicated in the Table I below. 
+This table is used to convert the sound pressure level meter readings in dB
+for each band to SPL in dB(A) for each band.
+
+
+
+ 
+
+
+
+
+TABLE I
+
+
+
+
+
+OCTAVE BAND NOISE VALUES CORRESPONDING TO SOUND LEVEL “A” VALUES
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Sound Level
+ 
+
+Octave Band Sound Pressure Level, dB re .0002 dyne/cm2
+
+
+
+Octave Band Center Frequency in Hz
+
+
+
+
+“A”
+
+ 
+
+31.5
+
+ 
+
+63
+
+ 
+
+125
+
+ 
+
+250
+
+ 
+
+500
+
+ 
+
+1000
+
+ 
+
+2000
+
+ 
+
+4000
+
+ 
+
+8000
+
+
+
+
+35
+
+ 
+
+58
+
+ 
+
+50
+
+ 
+
+42
+
+ 
+
+35
+
+ 
+
+32
+
+ 
+
+29
+
+ 
+
+26
+
+ 
+
+23
+
+ 
+
+20
+
+
+
+
+40
+
+ 
+
+61
+
+ 
+
+54
+
+ 
+
+46
+
+ 
+
+40
+
+ 
+
+37
+
+ 
+
+34
+
+ 
+
+31
+
+ 
+
+28
+
+ 
+
+25
+
+
+
+
+45
+
+ 
+
+64
+
+ 
+
+58
+
+ 
+
+51
+
+ 
+
+45
+
+ 
+
+42
+
+ 
+
+39
+
+ 
+
+36
+
+ 
+
+33
+
+ 
+
+30
+
+
+
+
+50
+
+ 
+
+67
+
+ 
+
+61
+
+ 
+
+55
+
+ 
+
+50
+
+ 
+
+47
+
+ 
+
+44
+
+ 
+
+41
+
+ 
+
+38
+
+ 
+
+35
+
+
+
+
+55
+
+ 
+
+70
+
+ 
+
+64
+
+ 
+
+60
+
+ 
+
+55
+
+ 
+
+52
+
+ 
+
+49
+
+ 
+
+46
+
+ 
+
+43
+
+ 
+
+40
+
+
+
+
+60
+
+ 
+
+73
+
+ 
+
+68
+
+ 
+
+64
+
+ 
+
+60
+
+ 
+
+57
+
+ 
+
+54
+
+ 
+
+51
+
+ 
+
+48
+
+ 
+
+45
+
+
+
+
+65
+
+ 
+
+76
+
+ 
+
+72
+
+ 
+
+68
+
+ 
+
+65
+
+ 
+
+62
+
+ 
+
+59
+
+ 
+
+56
+
+ 
+
+53
+
+ 
+
+50
+
+
+
+
+70
+
+ 
+
+79
+
+ 
+
+76
+
+ 
+
+73
+
+ 
+
+70
+
+ 
+
+67
+
+ 
+
+64
+
+ 
+
+61
+
+ 
+
+58
+
+ 
+
+55
+
+
+
+
+75
+
+ 
+
+84
+
+ 
+
+81
+
+ 
+
+78
+
+ 
+
+75
+
+ 
+
+72
+
+ 
+
+69
+
+ 
+
+66
+
+ 
+
+63
+
+ 
+
+60
+
+
+
+
+
+ 
+
+
+
+   (d)   For those cases where a sound level measurement has been made
+pursuant to the provisions of this chapter and two or more provisions of this
+chapter apply, the provision establishing the lower or lowest noise level,
+respectively, shall be used. (Added by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 111.03.  MINIMUM AMBIENT NOISE LEVEL.
+
+
+
+   (Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   Where the ambient noise level is less than the presumed ambient noise
+level designated in this section, the presumed ambient noise level in this
+section shall be deemed to be the minimum ambient noise level for purposes of
+this chapter.
+
+
+
+ 
+
+
+
+
+TABLE II
+
+
+
+
+
+SOUND LEVEL “A” DECIBELS
+
+
+
+
+ 
+
+
+
+   (In this chart, daytime levels are to be used from 7:00 a.m. to 10:00
+p.m. and nighttime levels from 10:00 p.m. to 7:00 a.m.)
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+PRESUMED AMBIENT NOISE LEVEL (dB(A))
+
+
+
+ZONE
+ 
+
+DAY
+
+ 
+
+NIGHT
+
+
+
+A1, A2, RA, RE, RS, RD, RW1, RW2, R1, R2, R3, R4, and R5
+ 
+
+50
+
+ 
+
+40
+
+
+
+P, PB, CR, C1, C1.5, C2, C4, C5, and CM
+ 
+
+60
+
+ 
+
+55
+
+
+
+M1, MR1, and MR2
+ 
+
+60
+
+ 
+
+55
+
+
+
+M2 and M3
+ 
+
+65
+
+ 
+
+65
+
+
+
+
+ 
+
+
+
+   At the boundary line between two zones, the presumed ambient noise
+level of the quieter zone shall be used.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 111.04.  VIOLATIONS:  ADDITIONAL REMEDIES, INJUNCTIONS.
+
+
+
+ 
+
+
+
+   As an additional remedy, the operation or maintenance of any device,
+instrument, vehicle, or machinery in violation of any provision of this
+chapter, which operation or maintenance causes discomfort or annoyance to
+reasonable persons or which endangers the comfort, repose, health, or peace
+of residents in the area, shall be deemed and is declared to be.a public
+nuisance and may be subject to abatement summarily by a restraining order or
+injunction issued by a court order of competent jurisdiction. (Amended by
+Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 111.05.  ENFORCEMENT, CITATIONS.
+
+
+
+   (Added by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (a)   The Department of Building and Safety shall have the power and
+duty to enforce the following noise control provisions of this Code: Section
+12.14 A.6.(h), Section 12.19 A.4.(b)(1), Section 112.02 and Section
+112.04(c).  (Amended by Ord. No. 172,086, Eff. 7/30/98.)
+
+
+
+ 
+
+
+
+   (b)   The Police Department shall have the power and duty to enforce
+the following noise control provisions of this Code: Section 41.32, Section
+41.40, Section 41.42, Section 41.44, Section 41.57, Section 63.51(m), Section
+112.01, Section 112.04, Section 112.05, Section 112.06, Section 113.01,
+Section 114.01 through Section 114.05, inclusive, Section 115.02 through
+Section 115.03, inclusive, and Section 116.01.  (Amended by Ord. No.
+185,601, Eff. 7/18/18.)
+
+
+
+ 
+
+
+
+   (c)   Any Building Mechanical Inspector assigned to noise
+enforcement inspection shall have the power, authority and immunity of a
+public officer and employee, as set forth in the Penal Code of the State of
+California, Section 836.5, to make arrests without a warrant whenever such
+employee has reasonable cause to believe that the person to be arrested has
+committed a misdemeanor in his presence which is a violation of any provision
+set forth in Section 111.05(a) of this chapter.  The provisions of said
+Penal Code section regarding issuance of a written promise to appear shall be
+applicable to arrests authorized herein.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 2
+SPECIAL NOISE SOURCES
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+112.01   Radios, Television Sets, and Similar Devices.
+
+
+
+112.02   Air Conditioning, Refrigeration, Heating, Pumping, Filtering
+Equipment.
+
+
+
+112.03   Construction Noise.
+
+
+
+112.04   Powered Equipment Intended for Repetitive Use in Residential
+Areas and Other Machinery, Equipment, and Devices.
+
+
+
+112.05   Maximum Noise Level of Powered Equipment or Powered Hand Tools.
+
+
+
+112.06   Places of Public Entertainment.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 112.01.  RADIOS, TELEVISION SETS, AND SIMILAR DEVICES.
+
+
+
+   (Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (a)   It shall be unlawful for any person within any zone of the
+City to use or operate any radio, musical instrument, phonograph, television
+receiver, or other machine or device for the producing, reproducing or
+amplification of the human voice, music, or any other sound, in such a
+manner, as to disturb the peace, quiet, and comfort of neighbor occupants or
+any reasonable person residing or working in the area.
+
+
+
+ 
+
+
+
+   (b)   Any noise level caused by such use or operation which is
+audible to the human ear at a distance in excess of 150 feet from the
+property line of the noise source, within any residential zone of the City or
+within 500 feet thereof, shall be a violation of the provisions of this
+section.
+
+
+
+ 
+
+
+
+   (c)   Any noise level caused by such use or operation which exceeds
+the ambient noise level on the premises of any other occupied property, or if
+a condominium, apartment house, duplex, or attached business, within any
+adjoining unit, by more than five (5) decibels shall be a violation of the
+provisions of this section.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 112.02.  AIR CONDITIONING, REFRIGERATION, HEATING, PUMPING, FILTERING
+EQUIPMENT.
+
+
+
+   (Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (a)   It shall be unlawful for any person, within any zone of the
+city to operate any air conditioning, refrigeration or heating equipment for
+any residence or other structure or to operate any pumping, filtering or
+heating equipment for any pool or reservoir in such manner as to create any
+noise which would cause the noise level on the premises of any other occupied
+property or if a condominium, apartment house, duplex, or attached business,
+within any adjoining unit.to exceed the ambient noise level by more than five
+(5) decibels
+
+
+
+ 
+
+
+
+   (b)   This section shall not be applicable to emergency work as
+defined in Section 111.01(c) of this chapter, or to periodic maintenance or
+testing of such equipment reasonably necessary to maintain such equipment in
+good working order.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 112.03.  CONSTRUCTION NOISE.
+
+
+
+ 
+
+
+
+   Noise due to construction or repair work shall be regulated as provided
+by Section 41.40 of this Code. (Amended by Ord. No. 161,574, Eff. 9/8/86.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 112.04.  POWERED EQUIPMENT INTENDED FOR REPETITIVE USE IN RESIDENTIAL
+AREAS AND OTHER MACHINERY, EQUIPMENT, AND DEVICES.
+
+
+
+   (Title and Section Amended by Ord. No. 161,574, Eff 9/8/86.)
+
+
+
+ 
+
+
+
+   (a)   Between the hours of 10:00 p.m and. 7:00 a.m. of the following
+day, no person shall operate any lawn mower, backpack blower, lawn edger,
+riding tractor, or any other machinery, equipment, or other mechanical or
+electrical device, or any hand tool which creates a loud, raucous or
+impulsive sound, within any residential zone or within 500 feet of a
+residence.
+
+
+
+ 
+
+
+
+   (b)   Except as to the equipment and operations specifically
+mentioned and related elsewhere in this Chapter or for emergency work as that
+term is defined in Section 111.01(d), and except as to aircraft, tow
+tractors, aircraft auxiliary power units, trains and motor vehicles in their
+respective operations governed by State or federal regulations, no person
+shall operate or cause to be operated any machinery, equipment, tools, or
+other mechanical or electrical device, or engage in any other activity in
+such manner as to create any noise which would cause the noise level on the
+premises of any other occupied property, or, if a condominium, apartment
+house, duplex, or attached business, within any adjoining unit, to exceed the
+ambient noise level by more than five (5) decibels.
+
+
+
+ 
+
+
+
+   (c)   Notwithstanding the provisions of Subsection (a) above, no gas
+powered blower shall be used within 500 feet of a residence at anytime. 
+Both the user of such a blower as well as the individual who contracted for
+the services of the user, if any, shall be subject to the requirements of and
+penalty provisions for this ordinance.  Violation of the provisions of this
+subsection shall be punishable as an infraction in an amount not to exceed
+One Hundred Dollars ($100.00), notwithstanding the graduated fines set forth
+in LAMC § 11.00(m). (Amended by Ord. No. 171,890, Eff. 2/13/98.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 112.05.  MAXIMUM NOISE LEVEL OF POWERED EQUIPMENT OR POWERED HAND TOOLS.
+
+
+
+   (Amended by Ord. No. 161,574, Eff. 9/8/86.)
+
+
+
+ 
+
+
+
+   Between the hours of 7:00 a.m. and 10:00 p.m., in any residential zone
+of the City or within 500 feet thereof, no person shall operate or cause to
+be operated any powered equipment or powered hand tool that produces a
+maximum noise level exceeding the following noise limits at a distance of 50
+feet therefrom:
+
+
+
+ 
+
+
+
+   (a)   75dB(A) for construction, industrial, and agricultural
+machinery including crawler-tractors, dozers, rotary drills and augers,
+loaders, power shovels, cranes, derricks, motor graders, paving machines,
+off-highway trucks, ditchers, trenchers, compactors, scrapers, wagons,
+pavement breakers, compressors and pneumatic or other powered equipment;
+
+
+
+ 
+
+
+
+   (b)   75dB(A) for powered equipment of 20 HP or less intended for
+infrequent use in residential areas, including chain saws, log chippers and
+powered hand tools;
+
+
+
+ 
+
+
+
+   (c)   65dB(A) for powered equipment intended for repetitive use in
+residential areas, including lawn mowers, backpack blowers, small lawn and
+garden tools and riding tractors;
+
+
+
+ 
+
+
+
+   The noise limits for particular equipment listed above in (a), (b) and
+(c) shall be deemed to be superseded and replaced by noise limits for such
+equipment from and after their establishment by final regulations adopted by
+the Federal Environmental Protection Agency and published in the Federal
+Register.
+
+
+
+ 
+
+
+
+   Said noise limitations shall not apply where compliance therewith is
+technically infeasible  The burden of proving that compliance is technically
+infeasible shall be upon the person or persons charged with a violation of
+this section. Technical infeasibility shall mean that said noise limitations
+cannot be complied with despite the use of mufflers, shields, sound barriers
+and/or other noise reduction device or techniques during the operation of the
+equipment.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 112.06.  PLACES OF PUBLIC ENTERTAINMENT.
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person to operate, play, or to permit the
+operation or playing of any radio, television receiver, phonograph, musical
+instrument, sound amplifying equipment, or similar device which produces,
+reproduces, or amplifies sound in any place of public entertainment at a
+sound level greater than 95dB(A) at any point that is normally occupied by a
+customer, unless a conspicuous and legible sign is located outside such
+place, near each public entrance, stating:
+
+
+
+ 
+
+
+
+
+“WARNING:  SOUND LEVELS WITHIN MAY CAUSE HEARING IMPAIRMENT.”
+
+
+
+
+ 
+
+
+
+(Added by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 3
+SANITARY OPERATION
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+113.01   Rubbish and Garbage Collection and Disposal.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 113.01.  RUBBISH AND GARBAGE COLLECTION AND DISPOSAL.
+
+
+
+   (Amended by Ord. No. 161,574, Eff. 9/8/86.)
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person engaged in the business of
+collecting or disposing of rubbish or garbage to operate any refuse disposal
+truck, parking lot sweeper, or vacuum truck, or to collect, load, pick up,
+transfer, unload, dump, discard, sweep, vacuum, or dispose of any rubbish or
+garbage, as such terms are defined in Section 66.00 of this Code, within 200
+feet of any residential building between the hours of 9:00 p.m. and 6:00 a.m.
+of the following day, unless a permit therefore has been duly obtained
+beforehand from the Board of Police Commissioners.
+
+
+
+ 
+
+
+
+   The standards which shall be considered in determining whether a permit
+shall be granted are the following:
+
+
+
+ 
+
+
+
+   (a)   Whether the work to be done is in the public interest, or
+
+
+
+ 
+
+
+
+   (b)   Whether the applicant would suffer hardship, injustice or
+delay if the permit were not granted, or
+
+
+
+ 
+
+
+
+   (c)   Whether fuel conservation would result if the permit were
+issued.
+
+
+
+ 
+
+
+
+   No permit shall be required to perform emergency work as defined in
+Sec. 111.01(c) of this chapter.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 4
+VEHICLES
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+114.01   Vehicle Repairs.
+
+
+
+114.02   Motor Driven Vehicles.
+
+
+
+114.03   Vehicles – Loading and Unloading.
+
+
+
+114.04   Audible Signaling Devices.
+
+
+
+114.05   Audible Advertising Devices – Commercial Food Vendors.
+
+
+
+114.06   Vehicle Theft Alarm Systems.
+
+
+
+114.07   Audible Status Indicator
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 114.01.  VEHICLE REPAIRS.
+
+
+
+   (Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person, within any residential property
+located within any residential zone of the City or within 500 feet thereof,
+to repair, rebuild, reconstruct or dismantle any motor vehicle between the
+hours of 8:00 p.m. of one day and 8:00 a.m. of the next day in such manner:
+
+
+
+ 
+
+
+
+   (a)   That a reasonable person residing in the area is caused
+discomfort or annoyance;
+
+
+
+ 
+
+
+
+   (d)   That such activity is audible to the human ear at a distance
+in excess of 150 feet from the property line of the noise source;
+
+
+
+ 
+
+
+
+   (c)   As to create any noise which would cause the noise level on
+the premises of any occupied residential property, or if a condominium,
+apartment house or duplex, within any adjoining unit, to exceed the ambient
+noise level by more than five (5) decibels.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 114.02.  MOTOR DRIVEN VEHICLES.
+
+
+
+   (Amended by Ord. No. 156,363, Eff. 3/29/82.)
+
+
+
+ 
+
+
+
+   (a)   It shall be unlawful for any person to unreasonably operate
+any motor driven vehicle upon any property within the City or to unreasonably
+accelerate the engine of any vehicle, or unreasonably sound, blow or operate
+the horn or other warning device of such vehicle in such manner:
+
+
+
+ 
+
+
+
+   1.   As to disturb the peace, quiet and comfort of any neighborhood
+or of any reasonable person residing in such area
+
+
+
+ 
+
+
+
+   2.   That such activity is audible to the human ear at a distance in
+excess of 150 feet from the property line of the noise source;
+
+
+
+ 
+
+
+
+   3.   As to create any noise which would cause the noise level on the
+premises of any occupied residential property, or if a condominium, apartment
+house or duplex, within any adjoining unit, to exceed the ambient noise level
+by more than five (5) decibels.
+
+
+
+ 
+
+
+
+   (b)   This section shall not be applicable to any vehicle which is
+operated upon any public highway, street or right-of-way or to the operation
+of any off-highway vehicle to the extent it is regulated in the Vehicle Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 114.03.  VEHICLES – LOADING AND UNLOADING.
+
+
+
+   (Amended by Ord. No. 166,514, Eff. 1/24/91.)
+
+
+
+ 
+
+
+
+   (a)   It shall be unlawful for any person, between the hours of
+10:00 p.m. and 7:00 a.m. of the following day, to load or unload any vehicle,
+or operate any dollies, carts, forklifts, or other wheeled equipment, which
+causes any impulsive sound, raucous or unnecessary noise within 200 feet of
+any residential building.
+
+
+
+ 
+
+
+
+   (b)   Irrespective of the provisions of Subsection (a), loading or
+unloading of vehicles of the type of activity referred to in Subsection (a)
+may occur between the hours of 6:00 a.m. to 11:00 p.m. of the same day
+pursuant to a permit issued by the Department of Transportation in accordance
+with a business program as defined by said department.  This permit program
+would be limited to the area bounded by Western Avenue, Santa Monica Freeway,
+Central Avenue, and the San Diego Freeway, within the limits of the City of
+Los Angeles. Such permits will not be issued to high-noise businesses such as
+trash pickup.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 114.04.  AUDIBLE SIGNALING DEVICES.
+
+
+
+   (Added by Ord. No. 161,574, Eff. 9/8/86.)
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person, within any residential zone of the
+City or within 500 feet thereof, to sound, blow, or operate any audible
+signaling device, including sequential airhorns or electronically operated
+vehicular loud speaker music devices, which can be heard for a distance
+greater than 200 feet for any purpose.  Violation of this section shall
+constitute an infraction  This section does not address horn or warning
+devices regulated in Article 1 of Chapter 5 of Division 12 of the Vehicle
+Code of the State of California, commencing at Section 27000.  (Last
+sentence amended by Ord. No. 165.191, Eff. 10/23/89.)
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 114.05.  AUDIBLE ADVERTISING DEVICES – COMMERCIAL FOOD VENDORS.
+
+
+
+   (Added by Ord. No. 164,532, Eff. 4/20/89.)
+
+
+
+ 
+
+
+
+   Notwithstanding the provisions of Section 114.04, it shall be unlawful
+for any person, to sound, blow or operate any music, chimes or bells, or any
+similar sound device, amplified or otherwise, within 200 feet of any
+residential building between the hours of 9:00 p.m. and 7:00 a.m. the next
+day while operating a catering truck, as that term is defined in Section
+80.73 of the Municipal Code.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 114.06.  VEHICLE THEFT ALARM SYSTEMS.
+
+
+
+   (Former Sec. 114.05, Renumbered by Ord. No. 164,532, Eff. 4/20/89.)
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person to install, operate or use any
+vehicle theft alarm system that emits or causes the emission of an audible
+sound, which is not, or does not become, automatically and completely
+silenced within five minutes. The time period shall be calculated based upon
+the emission of the first audible sound and shall end five minutes thereafter
+notwithstanding any variation or stoppage in the emissions of audible
+sound.  Violation of this section shall constitute an infraction.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 114.07.  AUDIBLE STATUS INDICATOR.
+
+
+
+   (Added by Ord. No. 169,785, Eff. 6/9/94.)
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person to install, operate, use or
+maintain any vehicle theft alarm system which utilizes an audible status
+indicator emitting or causing the emission of an audible sound for a duration
+of more than one minute.  The time period shall be calculated from the point
+in time of the emission of the first audible sound used in calculation and
+shall end one minute thereafter, notwithstanding any variation or temporary
+stoppage in the emission of audible sound.
+
+
+
+ 
+
+
+
+   As used in this section, an audible status indicator is a component of
+a vehicle theft alarm system which emits sound audible outside the vehicle
+for the purpose of warning that a vehicle theft alarm system is installed and
+armed or operational.  The term “audible status indicator” shall include
+any device which emits a chirp, voice message or other sound when an
+approaching person is within a certain distance of the vehicle in which the
+device is installed.
+
+
+
+ 
+
+
+
+   In the event enforcement of a violation occurs under this section, no
+enforcement shall be taken under Section 80.75.l of the Municipal Code for
+the same violation.
+
+
+
+ 
+
+
+
+   Violation of any provision of this section shall constitute an
+infraction.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 5
+AMPLIFIED SOUND
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+115.01   Purpose.
+
+
+
+115.02   Prohibition and Regulations.
+
+
+
+115.03   Amplified Sound on Unenclosed Tour Buses.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 115.01.  PURPOSE.
+
+
+
+ 
+
+
+
+   The Council enacts this legislation for the sole purpose of securing
+and promoting the public health, comfort, safety, and welfare of its
+citizenry.  While recognizing that certain uses of sound amplifying
+equipment are protected by the constitutional rights of freedom of speech and
+assembly, the Council nevertheless feels obligated to reasonably regulate the
+use of sound amplifying equipment in order to protect the correlative
+constitutional rights of the citizens of this community to privacy and
+freedom from public nuisance of loud and unnecessary noise.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 115.02.  PROHIBITION AND REGULATIONS.
+
+
+
+ 
+
+
+
+   It shall be unlawful for any person, other than personnel of law
+enforcement or governmental agencies, or permittees duly authorized to use
+the same pursuant to Sec. 103.111 of this Code, to install, use, or operate
+within the City a loudspeaker or sound amplifying equipment in a fixed or
+movable position or mounted upon any sound truck for the purposes of giving
+instructions, directions, talks, addresses, lectures, or transmitting music
+to any persons or assemblages of persons in or upon any public street, alley,
+sidewalk, park or place, or other public property except when installed, used
+or operated in compliance with the following provisions:
+
+
+
+ 
+
+
+
+   (a)   In all residential zones and within 500 feet thereof, no sound
+amplifying equipment shall be installed, operated or used for commercial
+purposes at any time.
+
+
+
+ 
+
+
+
+   (b)   The operation or use of sound amplifying equipment for
+noncommercial purposes in all residential zones and within 500 feet thereof,
+except when used for regularly scheduled operative functions by any school or
+for the usual and customary purposes of any church, is prohibited between the
+hours of 4:30 p.m. and 9:00 a.m. of the following day.
+
+
+
+ 
+
+
+
+   (c)   In all other zones, except such portions thereof as may be
+included within 500 feet of any residential zone, the operation or use of
+sound amplifying equipment for commercial purposes is prohibited between the
+hours of 9:00 p.m. and 8:00 a.m. of the following day.
+
+
+
+ 
+
+
+
+   (d)   In all other zones, except such portions thereof as may be
+included within 500 feet of any residential zone, the operation or use of
+sound amplifying equipment for noncommercial purposes is prohibited between
+the hours of 10:00 p.m. and 7:00 a.m. of the following day.
+
+
+
+ 
+
+
+
+   (e)   The only sounds permitted shall be either music, human speech,
+or both.
+
+
+
+ 
+
+
+
+   (f)   Sound emanating from sound amplifying equipment shall be
+limited in volume, tone and intensity as follows:
+
+
+
+ 
+
+
+
+   1.   The sound shall not be audible at a distance in excess of 200
+feet from the sound equipment.
+
+
+
+ 
+
+
+
+   2.   In no event shall the sound be loud and raucous or unreasonably
+jarring, disturbing, annoying or a nuisance to reasonable persons of normal
+sensitiveness within the area of audibility.
+
+
+
+ 
+
+
+
+   (g)   Except as provided in (b) above, no sound amplifying equipment
+shall be operated upon any property adjacent to and within 200 feet of any
+hospital grounds or any school or church building while in use.
+
+
+
+ 
+
+
+
+   (h)   (Amended by Ord. No. 145,691, Eff. 5/2/74.) The operation or
+use of any sound amplifying equipment installed, mounted, attached or carried
+in or by any sound truck is further prohibited:
+
+
+
+ 
+
+
+
+   1.   Within the Central Traffic district at any time;
+
+
+
+ 
+
+
+
+   2.   Upon Hollywood Boulevard between Vermont Avenue and La Brea at
+any time;
+
+
+
+ 
+
+
+
+   3.   Upon Wilshire Boulevard at any time;
+
+
+
+ 
+
+
+
+   4.   Upon Sunset Boulevard at any time;
+
+
+
+ 
+
+
+
+   5.   Upon Vine Street at any time;
+
+
+
+ 
+
+
+
+   6.   Upon any street between the hours of 4:30 p.m. and 9:00 a.m. of
+the following day;
+
+
+
+ 
+
+
+
+   7.   Upon any street on any Sunday.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 115.03.  AMPLIFIED SOUND ON UNENCLOSED TOUR BUSES.
+
+
+
+   (Added by Ord. No. 185,601, Eff. 7/18/18.)
+
+
+
+ 
+
+
+
+   (a)   Definitions.  As used in this section:
+
+
+
+ 
+
+
+
+   1.    "Operator" means any person or corporation who conducts a
+business or enterprise that operates one or more Unenclosed Tour Buses.
+
+
+
+ 
+
+
+
+   2.   "Sound Amplifying Equipment" shall have the same meaning as in
+Subsection (j) of Section 111.01 of this chapter, and shall include loud
+speakers and public address systems.
+
+
+
+ 
+
+
+
+   3.   "Tour Bus" means a privately-owned bus or passenger vehicle for
+hire, which is operated by or for a charter-party carrier of passengers or a
+passenger stage corporation, as set forth in California Vehicle Code Section
+612, subsection (a), and as defined in California Public Utilities Code
+Sections 226 and 5360.  A Tour Bus includes any vehicle that is used
+primarily for the conveyance of passengers over the public streets, for the
+purpose of visiting or viewing places of interest.
+
+
+
+ 
+
+
+
+   4.   "Unenclosed Tour Bus" means a Tour Bus that has had its roof
+substantially structurally modified or removed, as set forth in California
+Vehicle Code Section 612, Subsection (b), such that it can be and is operated
+without a solid roof covering all seating areas of the vehicle.  An
+Unenclosed Tour Bus shall also include any Tour Bus that has had its side
+panels substantially structurally modified and/or removed, such that it can
+be and is operated without side panels fully enclosing the sides of the
+vehicle, when doors and windows are closed.
+
+
+
+ 
+
+
+
+   (b)   Use of Sound Amplifying Equipment Prohibited.  It shall be
+unlawful for any Operator or any person employed by an Operator to cause,
+allow, or permit the use of Sound Amplifying Equipment on any Unenclosed Tour
+Bus while the vehicle is operating within the City of Los Angeles.
+
+
+
+ 
+
+
+
+   (c)   Violation and Punishment.  A violation of this Section shall
+constitute an infraction pursuant to California Vehicle Code Sections 40000.1
+and 42001, and shall be punished pursuant to the fine structure set forth in
+California Vehicle Code Section 42001.
+
+
+
+ 
+
+
+
+   (d)   Severability.  If any subsection, subdivision, sentence,
+clause, phrase, or portion of this section, or the application thereof to any
+person, is for any reason held to be invalid or constitutional by the
+decision of any court of competent jurisdiction, such decision shall not
+affect the validity of the remaining portions of this section or its
+application to other persons.  The City Council hereby declares that it
+would have adopted this section and each subsection, subdivision, sentence,
+clause, phrase or portion thereof, irrespective of the fact that any one or
+more subsections, subdivisions, sentences, clauses, phrases, or portions, or
+the application thereof to any person, be declared invalid or
+unconstitutional.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ARTICLE 6
+GENERAL NOISE
+
+
+
+ 
+
+
+
+ 
+
+
+
+Section
+
+
+
+116.01   Loud, Unnecessary and Unusual Noise.
+
+
+
+ 
+
+
+
+ 
+
+
+
+SEC. 116.01.  LOUD, UNNECESSARY AND UNUSUAL NOISE.
+
+
+
+ 
+
+
+
+   Notwithstanding any other provisions of this chapter and in addition
+thereto, it shall be unlawful for any person to willfully make or continue,
+or cause to be made or continued, any loud, unnecessary, and unusual noise
+which disturbs the peace or quiet of any neighborhood or which causes
+discomfort or annoyance to any reasonable person of normal sensitiveness
+residing in the area.  The standard which may be considered in determining
+whether a violation of the provisions of this section exists may include, but
+not be limited to, the following:
+
+
+
+ 
+
+
+
+   (a)   The level of noise;
+
+
+
+ 
+
+
+
+   (b)   Whether the nature of the noise is usual or unusual;
+
+
+
+ 
+
+
+
+   (c)   Whether the origin of the noise is natural or unnatural;
+
+
+
+ 
+
+
+
+   (d)   The level and intensity of the background noise, if any;
+
+
+
+ 
+
+
+
+   (e)   The proximity of the noise to residential sleeping facilities;
+
+
+
+ 
+
+
+
+   (f)   The nature and zoning of the area within which the noise
+emanates;
+
+
+
+ 
+
+
+
+   (g)   The density of the inhabitation of the area within which the
+noise emanates;
+
+
+
+ 
+
+
+
+   (h)   The time of the day and night the noise occurs;
+
+
+
+ 
+
+
+
+   (i)   The duration of the noise;
+
+
+
+ 
+
+
+
+   (j)   Whether the noise is recurrent, intermittent, or constant; and
+
+
+
+ 
+
+
+
+   (k)   Whether the noise is produced by a commercial or noncommercial
+activity.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
