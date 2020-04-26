@@ -10,18 +10,16 @@ class CodeRetriever:
         }
 
     def __init__(self):
-        self._codes = {}
-        with open('codes.json') as json_codes:
-            codes = json.load(json_codes)
-            self._codes = codes['codes']
+        self._sections = ''
+        with open('/home/jarvis/development/ME_Calendar/MiddleEarthDays/MunicipalCode/LAMC_Sections.txt', encoding='utf-8') as lamc_sections:
+            self._sections = lamc_sections.readlines()
 
 
     def getCodeByNumber(self, number):
-        number = str(number)
         returned_code = self.CONST_DEFAULT_CODE
 
-        for individual_code in self._codes:
-            if individual_code["number"] == number:
-                returned_code = individual_code     
+        for individual_code in self._sections:
+            if ("SEC. " + number + ". ") in individual_code:
+                returned_code = individual_code.strip()
 
         return returned_code
